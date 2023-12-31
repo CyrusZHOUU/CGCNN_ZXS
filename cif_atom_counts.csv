@@ -1,0 +1,3393 @@
+File Name,Elements,Atom Counts,Element Count,Total Atom Count
+mp-10000.cif,"Hf, S",Hf:4.0; S:2.0,2,6.0
+mp-10003.cif,"Nb, Co, Si",Nb:8.0; Co:2.0; Si:2.0,3,12.0
+mp-10010.cif,"Al, Co, Si",Al:1.0; Co:2.0; Si:2.0,3,5.0
+mp-1001011.cif,"Ta, O",Ta:8.0; O:24.0,2,32.0
+mp-1001023.cif,"Be, C",Be:2.0; C:4.0,2,6.0
+mp-10015.cif,"Si, Os",Si:1.0; Os:1.0,2,2.0
+mp-1001833.cif,"In, Bi",In:4.0; Bi:4.0,2,8.0
+mp-1002124.cif,"Hf, C",Hf:4.0; C:4.0,2,8.0
+mp-1002206.cif,"Si, C",Si:4.0; C:4.0,2,8.0
+mp-10025.cif,"Si, Ru",Si:4.0; Ru:8.0,2,12.0
+mp-10026.cif,"Sc, Te",Sc:2.0; Te:2.0,2,4.0
+mp-10037.cif,"Al, Co, C",Al:1.0; Co:3.0; C:1.0,3,5.0
+mp-10044.cif,"B, As",B:4.0; As:4.0,2,8.0
+mp-10046.cif,"V, As, C",V:4.0; As:2.0; C:2.0,3,8.0
+mp-1005.cif,"Fe, P",Fe:4.0; P:4.0,2,8.0
+mp-10052.cif,"Ti, As",Ti:2.0; As:2.0,2,4.0
+mp-10054.cif,"Zr, As",Zr:4.0; As:4.0,2,8.0
+mp-10055.cif,"Co, B, Mo",Co:4.0; B:8.0; Mo:2.0,3,14.0
+mp-10059.cif,"Zr, Co, B",Zr:1.0; Co:3.0; B:2.0,3,6.0
+mp-1006226.cif,"Zn, Bi",Zn:8.0; Bi:8.0,2,16.0
+mp-10063.cif,"Cd, Sn, Sb",Cd:4.0; Sn:4.0; Sb:8.0,3,16.0
+mp-1008274.cif,"Co, W",Co:3.0; W:1.0,2,4.0
+mp-1008557.cif,"Al, B, N",Al:1.0; B:1.0; N:2.0,3,4.0
+mp-1008610.cif,"Au, N",Au:4.0; N:4.0,2,8.0
+mp-1008632.cif,"V, C",V:2.0; C:1.0,2,3.0
+mp-1008785.cif,"Ru, O",Ru:4.0; O:8.0,2,12.0
+mp-1008920.cif,"Mn, Ge",Mn:8.0; Ge:4.0,2,12.0
+mp-1008922.cif,"Cu, N",Cu:4.0; N:4.0,2,8.0
+mp-1008929.cif,"Fe, N",Fe:4.0; N:4.0,2,8.0
+mp-1009083.cif,"Mg, Sn, P",Mg:4.0; Sn:4.0; P:8.0,3,16.0
+mp-10092.cif,"K, Cu, Se",K:1.0; Cu:4.0; Se:3.0,3,8.0
+mp-1009488.cif,"Ni, N",Ni:4.0; N:4.0,2,8.0
+mp-101.cif,Ir,Ir:4.0,1,4.0
+mp-10113.cif,"Sc, B, Ir",Sc:1.0; B:1.0; Ir:3.0,3,5.0
+mp-1011860.cif,"Na, Co, P, O",Na:8.0; Co:4.0; P:8.0; O:28.0,4,48.0
+mp-10125.cif,"Sb, Ir",Sb:2.0; Ir:2.0,2,4.0
+mp-1012551.cif,"Ba, Br, Cl",Ba:4.0; Br:4.0; Cl:4.0,3,12.0
+mp-10133.cif,"Sc, B, Pb",Sc:3.0; B:1.0; Pb:1.0,3,5.0
+mp-10139.cif,"Sc, Sn, B",Sc:3.0; Sn:1.0; B:1.0,3,5.0
+mp-10140.cif,"Sc, Tl, B",Sc:3.0; Tl:1.0; B:1.0,3,5.0
+mp-10154.cif,"Mn, Sb, Ir",Mn:4.0; Sb:4.0; Ir:4.0,3,12.0
+mp-10155.cif,"P, Ir",P:8.0; Ir:4.0,2,12.0
+mp-10161.cif,"K, Zn, Sb",K:1.0; Zn:1.0; Sb:1.0,3,3.0
+mp-1017.cif,"Zr, O",Zr:6.0; O:2.0,2,8.0
+mp-10172.cif,Na,Na:2.0,1,2.0
+mp-10173.cif,Li,Li:2.0,1,2.0
+mp-10180.cif,"Li, Sb, Pd",Li:8.0; Sb:4.0; Pd:4.0,3,16.0
+mp-10181.cif,"Li, Si, Ni",Li:4.0; Si:4.0; Ni:8.0,3,16.0
+mp-10182.cif,"Li, Zn, P",Li:4.0; Zn:4.0; P:4.0,3,12.0
+mp-10183.cif,"Mg, Sb, Pd",Mg:4.0; Sb:4.0; Pd:4.0,3,12.0
+mp-10189.cif,"Li, Ti, Te",Li:1.0; Ti:1.0; Te:2.0,3,4.0
+mp-1019.cif,"Y, Ni",Y:8.0; Ni:16.0,2,24.0
+mp-10196.cif,"Ta, N",Ta:2.0; N:1.0,2,3.0
+mp-10198.cif,"Mn, Pd, N",Mn:3.0; Pd:1.0; N:1.0,3,5.0
+mp-102.cif,Co,Co:4.0,1,4.0
+mp-1020.cif,"Ta, Rh",Ta:1.0; Rh:3.0,2,4.0
+mp-10200.cif,"Zr, Be, Si",Zr:2.0; Be:2.0; Si:2.0,3,6.0
+mp-10208.cif,"Ni, Mo, P",Ni:2.0; Mo:2.0; P:4.0,3,8.0
+mp-10212.cif,"Sc, Ge",Sc:4.0; Ge:8.0,2,12.0
+mp-1022.cif,"K, S",K:8.0; S:4.0,2,12.0
+mp-10228.cif,"Nb, Se",Nb:1.0; Se:2.0,2,3.0
+mp-10240.cif,"Sc, Ni, P",Sc:4.0; Ni:4.0; P:4.0,3,12.0
+mp-10245.cif,"Hf, Cu, Si",Hf:6.0; Cu:8.0; Si:8.0,3,22.0
+mp-10259.cif,"Zr, Ni, P",Zr:2.0; Ni:4.0; P:4.0,3,10.0
+mp-10264.cif,"Ni, Te",Ni:6.0; Te:6.0,2,12.0
+mp-10266.cif,"Zn, Fe, C",Zn:1.0; Fe:3.0; C:1.0,3,5.0
+mp-1027.cif,"Hf, Rh",Hf:1.0; Rh:3.0,2,4.0
+mp-10270.cif,"Sc, Co, C",Sc:1.0; Co:3.0; C:1.0,3,5.0
+mp-10271.cif,"Zn, Co, C",Zn:1.0; Co:3.0; C:1.0,3,5.0
+mp-1028.cif,"V, Te",V:6.0; Te:8.0,2,14.0
+mp-10281.cif,"Zn, S",Zn:4.0; S:4.0,2,8.0
+mp-1029.cif,"Ba, F",Ba:4.0; F:8.0,2,12.0
+mp-10293.cif,"Ba, C",Ba:4.0; C:8.0,2,12.0
+mp-103.cif,Hf,Hf:2.0,1,2.0
+mp-1030.cif,"Sb, Pt",Sb:4.0; Pt:28.0,2,32.0
+mp-10300.cif,"Zr, Mo, P",Zr:3.0; Mo:3.0; P:3.0,3,9.0
+mp-10311.cif,"Zr, V, Ge",Zr:4.0; V:4.0; Ge:4.0,3,12.0
+mp-10322.cif,"Ba, Hf, N",Ba:2.0; Hf:2.0; N:4.0,3,8.0
+mp-10374.cif,"Cr, Pt, N",Cr:3.0; Pt:1.0; N:1.0,3,5.0
+mp-10379.cif,"Hf, Cu, Ge",Hf:3.0; Cu:4.0; Ge:2.0,3,9.0
+mp-1038.cif,"Mg, Cu",Mg:8.0; Cu:16.0,2,24.0
+mp-1039.cif,"Mg, Te",Mg:2.0; Te:2.0,2,4.0
+mp-10390.cif,"Ta, O",Ta:8.0; O:20.0,2,28.0
+mp-10394.cif,"Cr, Co, Ge",Cr:2.0; Co:2.0; Ge:2.0,3,6.0
+mp-104.cif,Sb,Sb:6.0,1,6.0
+mp-10402.cif,"Ti, Tl, F",Ti:1.0; Tl:2.0; F:6.0,3,9.0
+mp-1042.cif,"Hf, Si",Hf:4.0; Si:4.0,2,8.0
+mp-10435.cif,"Y, Al, Si",Y:1.0; Al:2.0; Si:2.0,3,5.0
+mp-10437.cif,"Ba, Cu, Se",Ba:2.0; Cu:4.0; Se:4.0,3,10.0
+mp-10440.cif,"Mg, P, Rh",Mg:1.0; P:4.0; Rh:6.0,3,11.0
+mp-10445.cif,"Sc, Fe, Te",Sc:6.0; Fe:1.0; Te:2.0,3,9.0
+mp-10446.cif,"Sc, Ni, Te",Sc:6.0; Ni:1.0; Te:2.0,3,9.0
+mp-10455.cif,"Y, Ti, Ge",Y:4.0; Ti:4.0; Ge:4.0,3,12.0
+mp-10456.cif,"Hf, Si, Pt",Hf:4.0; Si:4.0; Pt:4.0,3,12.0
+mp-10457.cif,"Hf, Si, Pd",Hf:4.0; Si:4.0; Pd:4.0,3,12.0
+mp-1046.cif,"Nb, Sn",Nb:16.0; Sn:32.0,2,48.0
+mp-10463.cif,"Y, Co, B",Y:2.0; Co:8.0; B:2.0,3,12.0
+mp-10469.cif,"Nb, Si, Pt",Nb:4.0; Si:4.0; Pt:4.0,3,12.0
+mp-1047.cif,"Ca, N",Ca:18.0; N:12.0,2,30.0
+mp-10470.cif,"Nb, Si, Rh",Nb:4.0; Si:4.0; Rh:4.0,3,12.0
+mp-10521.cif,"Y, Al, Ge",Y:1.0; Al:2.0; Ge:2.0,3,5.0
+mp-10527.cif,"Y, Al, Si",Y:4.0; Al:2.0; Si:4.0,3,10.0
+mp-10550.cif,"Sr, Mg, N",Sr:1.0; Mg:2.0; N:2.0,3,5.0
+mp-1057.cif,"Al, Ni",Al:3.0; Ni:2.0,2,5.0
+mp-10597.cif,Ag,Ag:2.0,1,2.0
+mp-10598.cif,"Cu, Sn",Cu:2.0; Sn:2.0,2,4.0
+mp-10601.cif,"Y, Ga, C",Y:3.0; Ga:1.0; C:1.0,3,5.0
+mp-10608.cif,"Y, Sn, C",Y:3.0; Sn:1.0; C:1.0,3,5.0
+mp-10615.cif,"Ba, Li, P",Ba:1.0; Li:1.0; P:1.0,3,3.0
+mp-10616.cif,"Ba, Li, As",Ba:1.0; Li:1.0; As:1.0,3,3.0
+mp-10635.cif,"Sn, Sb",Sn:4.0; Sb:4.0,2,8.0
+mp-10669.cif,"Ba, Al, Ge",Ba:6.0; Al:4.0; Ge:4.0,3,14.0
+mp-1067.cif,"Li, Al",Li:8.0; Al:8.0,2,16.0
+mp-10670.cif,"Ca, Al, Ge",Ca:6.0; Al:4.0; Ge:4.0,3,14.0
+mp-10675.cif,"Ti, Al, N",Ti:3.0; Al:1.0; N:1.0,3,5.0
+mp-1069.cif,"Hf, Si",Hf:4.0; Si:8.0,2,12.0
+mp-10692.cif,"Co, Ge",Co:4.0; Ge:4.0,2,8.0
+mp-10694.cif,"Sc, F",Sc:1.0; F:3.0,2,4.0
+mp-10695.cif,"Zn, S",Zn:4.0; S:4.0,2,8.0
+mp-10700.cif,"Mg, Ni, C",Mg:1.0; Ni:3.0; C:1.0,3,5.0
+mp-10706.cif,"Zr, Ru, C",Zr:1.0; Ru:3.0; C:1.0,3,5.0
+mp-10711.cif,"V, Si",V:3.0; Si:6.0,2,9.0
+mp-10712.cif,"Sc, Rh, C",Sc:1.0; Rh:3.0; C:1.0,3,5.0
+mp-10721.cif,"Ti, C",Ti:32.0; C:16.0,2,48.0
+mp-1073.cif,"Ca, Cd",Ca:1.0; Cd:1.0,2,2.0
+mp-10739.cif,"Ti, P, Ru",Ti:3.0; P:3.0; Ru:3.0,3,9.0
+mp-10744.cif,"Si, Pt",Si:6.0; Pt:4.0,2,10.0
+mp-10746.cif,"Mg, Cu, Si",Mg:4.0; Cu:6.0; Si:2.0,3,12.0
+mp-10748.cif,"Ta, Cu, S",Ta:1.0; Cu:3.0; S:4.0,3,8.0
+mp-10749.cif,"Sr, Cu, Sb",Sr:2.0; Cu:2.0; Sb:2.0,3,6.0
+mp-10755.cif,"Ti, Fe, Sb",Ti:4.0; Fe:4.0; Sb:4.0,3,12.0
+mp-10759.cif,"Ge, Se",Ge:4.0; Se:4.0,2,8.0
+mp-1078.cif,"Ca, Cd",Ca:4.0; Cd:8.0,2,12.0
+mp-10797.cif,"Ca, Si, Ni",Ca:2.0; Si:2.0; Ni:4.0,3,8.0
+mp-1081.cif,"V, S",V:6.0; S:8.0,2,14.0
+mp-1082.cif,"V, Ir",V:1.0; Ir:3.0,2,4.0
+mp-10846.cif,"Ni, As, Se",Ni:4.0; As:4.0; Se:4.0,3,12.0
+mp-10847.cif,"Ni, Sb, Se",Ni:4.0; Sb:4.0; Se:4.0,3,12.0
+mp-10848.cif,"As, Pd, S",As:4.0; Pd:4.0; S:4.0,3,12.0
+mp-10849.cif,"As, Pd, Se",As:4.0; Pd:4.0; Se:4.0,3,12.0
+mp-10850.cif,"Sb, Te, Pd",Sb:4.0; Te:4.0; Pd:4.0,3,12.0
+mp-1086.cif,"Ta, C",Ta:4.0; C:4.0,2,8.0
+mp-10873.cif,"Sc, Al, Au",Sc:4.0; Al:4.0; Au:8.0,3,16.0
+mp-10877.cif,"Ca, Al, Cu",Ca:2.0; Al:16.0; Cu:8.0,3,26.0
+mp-10883.cif,"Al, Cr, Co",Al:4.0; Cr:4.0; Co:8.0,3,16.0
+mp-10884.cif,"Al, Fe, Co",Al:4.0; Fe:4.0; Co:8.0,3,16.0
+mp-10886.cif,"Al, Cu",Al:3.0; Cu:2.0,2,5.0
+mp-10887.cif,"Hf, Al, Cu",Hf:4.0; Al:4.0; Cu:8.0,3,16.0
+mp-1089.cif,"Ti, Ir",Ti:1.0; Ir:3.0,2,4.0
+mp-10890.cif,"Li, Al",Li:1.0; Al:3.0,2,4.0
+mp-10891.cif,"Mn, Al, Pd",Mn:4.0; Al:4.0; Pd:8.0,3,16.0
+mp-10892.cif,"Mn, Al, Pt",Mn:2.0; Al:2.0; Pt:2.0,3,6.0
+mp-10894.cif,"Mn, Al, Rh",Mn:4.0; Al:4.0; Rh:8.0,3,16.0
+mp-10895.cif,"Mn, Al, V",Mn:8.0; Al:4.0; V:4.0,3,16.0
+mp-10901.cif,"Al, Pd",Al:3.0; Pd:2.0,2,5.0
+mp-10904.cif,"Al, Pt",Al:4.0; Pt:4.0,2,8.0
+mp-10905.cif,"Al, Pt",Al:3.0; Pt:2.0,2,5.0
+mp-10909.cif,"Al, Re",Al:2.0; Re:4.0,2,6.0
+mp-10910.cif,"Al, Ru",Al:16.0; Ru:8.0,2,24.0
+mp-10911.cif,"Sc, Al, Ru",Sc:4.0; Al:6.0; Ru:2.0,3,12.0
+mp-10918.cif,"Rb, Pd, C",Rb:2.0; Pd:1.0; C:2.0,3,5.0
+mp-10919.cif,"Rb, Pt, C",Rb:2.0; Pt:1.0; C:2.0,3,5.0
+mp-10924.cif,"Mg, Co, P",Mg:1.0; Co:6.0; P:4.0,3,11.0
+mp-10969.cif,"Cd, C, N",Cd:3.0; C:3.0; N:6.0,3,12.0
+mp-1099.cif,"Ni, Ge",Ni:4.0; Ge:4.0,2,8.0
+mp-10991.cif,"Y, Cu, As",Y:2.0; Cu:2.0; As:4.0,3,8.0
+mp-11.cif,As,As:6.0,1,6.0
+mp-11019.cif,"Ga, Cu, O",Ga:2.0; Cu:2.0; O:4.0,3,8.0
+mp-11022.cif,"Sc, Ag, O",Sc:2.0; Ag:2.0; O:4.0,3,8.0
+mp-11023.cif,"Sc, Au, O",Sc:2.0; Au:2.0; O:4.0,3,8.0
+mp-11025.cif,"Zn, P",Zn:8.0; P:16.0,2,24.0
+mp-11029.cif,"Y, Al, Cu",Y:2.0; Al:16.0; Cu:8.0,3,26.0
+mp-11038.cif,"Zr, Al, Fe",Zr:6.0; Al:2.0; Fe:1.0,3,9.0
+mp-1105.cif,"Ba, O",Ba:2.0; O:4.0,2,6.0
+mp-11073.cif,"Ti, In, Rh",Ti:3.0; In:3.0; Rh:2.0,3,8.0
+mp-1108.cif,"Ta, B",Ta:1.0; B:2.0,2,3.0
+mp-1111.cif,"Mn, Si",Mn:10.0; Si:6.0,2,16.0
+mp-11113.cif,"Ti, Te, As",Ti:4.0; Te:4.0; As:4.0,3,12.0
+mp-1113.cif,"B, W",B:4.0; W:8.0,2,12.0
+mp-1114.cif,"V, P",V:2.0; P:2.0,2,4.0
+mp-11175.cif,"Li, Zn, P, S",Li:2.0; Zn:2.0; P:2.0; S:8.0,4,14.0
+mp-11176.cif,"Ca, Si, Ir",Ca:6.0; Si:8.0; Ir:8.0,3,22.0
+mp-11190.cif,"V, Si",V:3.0; Si:6.0,2,9.0
+mp-11191.cif,"Cr, Si",Cr:3.0; Si:6.0,2,9.0
+mp-11192.cif,"Ta, Si",Ta:3.0; Si:6.0,2,9.0
+mp-11193.cif,"V, Au, S",V:2.0; Au:2.0; S:4.0,3,8.0
+mp-112.cif,Y,Y:2.0,1,2.0
+mp-1120.cif,"Mo, Ir",Mo:6.0; Ir:2.0,2,8.0
+mp-11202.cif,"Y, Fe, Sb",Y:6.0; Fe:1.0; Sb:2.0,3,9.0
+mp-1121.cif,"Ga, Co",Ga:1.0; Co:1.0,2,2.0
+mp-11220.cif,"Sc, Al",Sc:4.0; Al:2.0,2,6.0
+mp-11227.cif,"Al, W",Al:24.0; W:2.0,2,26.0
+mp-11228.cif,"Y, Al",Y:4.0; Al:4.0,2,8.0
+mp-1123.cif,"Hg, S",Hg:4.0; S:4.0,2,8.0
+mp-11230.cif,"Y, Al",Y:8.0; Al:4.0,2,12.0
+mp-11231.cif,"Y, Al",Y:1.0; Al:3.0,2,4.0
+mp-11233.cif,"Zr, Al",Zr:4.0; Al:4.0,2,8.0
+mp-11237.cif,"Sc, Ag",Sc:1.0; Ag:1.0,2,2.0
+mp-11239.cif,"Zr, Ag",Zr:2.0; Ag:2.0,2,4.0
+mp-1124.cif,"Mg, Zn",Mg:4.0; Zn:8.0,2,12.0
+mp-11248.cif,"Li, Au",Li:1.0; Au:3.0,2,4.0
+mp-11250.cif,"Mg, Au",Mg:72.0; Au:36.0,2,108.0
+mp-11252.cif,"Mn, Au",Mn:2.0; Au:4.0,2,6.0
+mp-11256.cif,"Sc, Au",Sc:1.0; Au:1.0,2,2.0
+mp-11261.cif,"Y, Au",Y:1.0; Au:1.0,2,2.0
+mp-11263.cif,"Zr, Au",Zr:6.0; Au:2.0,2,8.0
+mp-11269.cif,"Ba, Sn, Pd",Ba:2.0; Sn:6.0; Pd:2.0,3,10.0
+mp-11270.cif,"Mn, Be",Mn:4.0; Be:8.0,2,12.0
+mp-11272.cif,"Be, Nb",Be:4.0; Nb:6.0,2,10.0
+mp-11275.cif,"Be, Re",Be:8.0; Re:4.0,2,12.0
+mp-11276.cif,"Be, Rh",Be:1.0; Rh:1.0,2,2.0
+mp-11277.cif,"Sc, Be",Sc:1.0; Be:5.0,2,6.0
+mp-11278.cif,"Ta, Be",Ta:8.0; Be:4.0,2,12.0
+mp-11279.cif,"Ti, Be",Ti:1.0; Be:1.0,2,2.0
+mp-1128.cif,"Si, Ir",Si:4.0; Ir:4.0,2,8.0
+mp-11280.cif,"Ti, Be",Ti:1.0; Be:12.0,2,13.0
+mp-11281.cif,"Be, V",Be:8.0; V:4.0,2,12.0
+mp-11282.cif,"Be, W",Be:8.0; W:4.0,2,12.0
+mp-11283.cif,"Zr, Be",Zr:1.0; Be:5.0,2,6.0
+mp-11286.cif,"Ca, Hg",Ca:1.0; Hg:1.0,2,2.0
+mp-11287.cif,"Ca, Hg",Ca:1.0; Hg:2.0,2,3.0
+mp-11288.cif,"Ca, Hg",Ca:6.0; Hg:4.0,2,10.0
+mp-1129.cif,"Sc, Ir",Sc:1.0; Ir:1.0,2,2.0
+mp-11290.cif,"Ca, Sn",Ca:1.0; Sn:3.0,2,4.0
+mp-11293.cif,"Zr, Cd, Cu",Zr:4.0; Cd:4.0; Cu:8.0,3,16.0
+mp-11299.cif,"Cd, Hg",Cd:4.0; Hg:2.0,2,6.0
+mp-113.cif,Tc,Tc:2.0,1,2.0
+mp-11300.cif,"Ti, Cd, Hg",Ti:1.0; Cd:1.0; Hg:2.0,3,4.0
+mp-11307.cif,"Mg, Cd",Mg:2.0; Cd:2.0,2,4.0
+mp-11313.cif,"Zr, Cd",Zr:1.0; Cd:3.0,2,4.0
+mp-1132.cif,"Cd, O",Cd:4.0; O:4.0,2,8.0
+mp-11322.cif,"Zr, Si",Zr:4.0; Si:4.0,2,8.0
+mp-11327.cif,"Rb, Se",Rb:8.0; Se:4.0,2,12.0
+mp-11328.cif,"P, W",P:8.0; W:4.0,2,12.0
+mp-11329.cif,"P, W",P:8.0; W:4.0,2,12.0
+mp-11334.cif,W,W:8.0,1,8.0
+mp-11345.cif,"Zr, P",Zr:4.0; P:4.0,2,8.0
+mp-1135.cif,"Nb, Pd",Nb:2.0; Pd:6.0,2,8.0
+mp-11350.cif,"Ca, Al, Co",Ca:1.0; Al:9.0; Co:2.0,3,12.0
+mp-11358.cif,"Ta, Co",Ta:1.0; Co:3.0,2,4.0
+mp-11359.cif,"Ga, Cu",Ga:2.0; Cu:1.0,2,3.0
+mp-11361.cif,"Mg, Cu, Sn",Mg:4.0; Cu:4.0; Sn:4.0,3,12.0
+mp-11364.cif,"Ti, Cu",Ti:1.0; Cu:1.0,2,2.0
+mp-1138.cif,"Li, F",Li:4.0; F:4.0,2,8.0
+mp-11385.cif,"Y, Fe",Y:1.0; Fe:5.0,2,6.0
+mp-11387.cif,"Hf, Ga",Hf:2.0; Ga:6.0,2,8.0
+mp-11388.cif,"Ga, Ir",Ga:1.0; Ir:1.0,2,2.0
+mp-1139.cif,"Co, Mo",Co:6.0; Mo:2.0,2,8.0
+mp-11397.cif,"Ga, Ni",Ga:3.0; Ni:2.0,2,5.0
+mp-11407.cif,"Ga, Pt",Ga:1.0; Pt:3.0,2,4.0
+mp-11411.cif,"Sc, Ga",Sc:4.0; Ga:4.0,2,8.0
+mp-11412.cif,"Sc, Ga",Sc:4.0; Ga:8.0,2,12.0
+mp-11413.cif,"Sc, Ga",Sc:4.0; Ga:8.0,2,12.0
+mp-1143.cif,"Al, O",Al:12.0; O:18.0,2,30.0
+mp-11441.cif,"Hf, Ga",Hf:16.0; Ga:24.0,2,40.0
+mp-11445.cif,"Y, Ti, Ga",Y:2.0; Ti:4.0; Ga:8.0,3,14.0
+mp-11449.cif,"Hf, Mn",Hf:4.0; Mn:8.0,2,12.0
+mp-1145.cif,"Ti, B",Ti:1.0; B:2.0,2,3.0
+mp-11452.cif,"Hf, Os",Hf:1.0; Os:1.0,2,2.0
+mp-11453.cif,"Hf, Pd",Hf:4.0; Pd:12.0,2,16.0
+mp-11454.cif,"Hf, Pd",Hf:4.0; Pd:2.0,2,6.0
+mp-11456.cif,"Hf, Pt",Hf:4.0; Pt:12.0,2,16.0
+mp-11460.cif,"Hf, Tc",Hf:1.0; Tc:1.0,2,2.0
+mp-11464.cif,"Mg, Hg",Mg:2.0; Hg:4.0,2,6.0
+mp-11465.cif,"Mg, Hg",Mg:10.0; Hg:6.0,2,16.0
+mp-11470.cif,"Hg, Pt",Hg:2.0; Pt:1.0,2,3.0
+mp-11471.cif,"Sc, Hg",Sc:1.0; Hg:1.0,2,2.0
+mp-11481.cif,"Mo, Ir",Mo:2.0; Ir:2.0,2,4.0
+mp-11482.cif,"Mo, Ir",Mo:2.0; Ir:6.0,2,8.0
+mp-11486.cif,"Y, Al, Co",Y:8.0; Al:36.0; Co:12.0,3,56.0
+mp-11489.cif,"Li, Pd",Li:12.0; Pd:4.0,2,16.0
+mp-11490.cif,"Li, Zn, Sn",Li:8.0; Zn:4.0; Sn:4.0,3,16.0
+mp-11499.cif,"Y, Mg",Y:4.0; Mg:8.0,2,12.0
+mp-11501.cif,"Mn, Ni",Mn:1.0; Ni:3.0,2,4.0
+mp-11504.cif,"Mn, Zn",Mn:1.0; Zn:3.0,2,4.0
+mp-11506.cif,"Ni, Mo",Ni:6.0; Mo:2.0,2,8.0
+mp-11507.cif,"Ni, Mo",Ni:8.0; Mo:2.0,2,10.0
+mp-11512.cif,"Li, Al, Ir",Li:4.0; Al:8.0; Ir:4.0,3,16.0
+mp-11513.cif,"Nb, Ni",Nb:2.0; Ni:6.0,2,8.0
+mp-11514.cif,"Nb, Pt",Nb:2.0; Pt:4.0,2,6.0
+mp-11517.cif,"Nb, Ru",Nb:1.0; Ru:3.0,2,4.0
+mp-1152.cif,"Ti, Rh",Ti:1.0; Rh:3.0,2,4.0
+mp-11520.cif,"Y, Ni, Sb",Y:4.0; Ni:4.0; Sb:4.0,3,12.0
+mp-11521.cif,"Sc, Ni",Sc:1.0; Ni:1.0,2,2.0
+mp-11522.cif,"Ni, Sn",Ni:3.0; Sn:1.0,2,4.0
+mp-1153.cif,"Li, S",Li:8.0; S:4.0,2,12.0
+mp-11531.cif,"V, Ni",V:2.0; Ni:4.0,2,6.0
+mp-11533.cif,"Zr, Zn, Ni",Zr:4.0; Zn:4.0; Ni:16.0,3,24.0
+mp-11537.cif,"Nb, Al, Ru",Nb:4.0; Al:4.0; Ru:8.0,3,16.0
+mp-11541.cif,"Zr, Os",Zr:1.0; Os:1.0,2,2.0
+mp-11547.cif,"Y, Tl, Pd",Y:3.0; Tl:3.0; Pd:3.0,3,9.0
+mp-11549.cif,"V, Pd",V:2.0; Pd:4.0,2,6.0
+mp-11550.cif,"Sc, Pt",Sc:8.0; Pt:4.0,2,12.0
+mp-11557.cif,"Sc, Re",Sc:4.0; Re:8.0,2,12.0
+mp-1156.cif,"Ga, Sb",Ga:4.0; Sb:4.0,2,8.0
+mp-11560.cif,"Ti, Si, Ru",Ti:12.0; Si:12.0; Ru:12.0,3,36.0
+mp-11565.cif,"Y, Rh",Y:1.0; Rh:5.0,2,6.0
+mp-11566.cif,"Sc, Zn",Sc:1.0; Zn:1.0,2,2.0
+mp-11567.cif,"Sc, Zn",Sc:2.0; Zn:24.0,2,26.0
+mp-1157.cif,"Ta, Ni",Ta:2.0; Ni:4.0,2,6.0
+mp-11571.cif,"Y, Sn",Y:1.0; Sn:3.0,2,4.0
+mp-11572.cif,"Ta, Tc",Ta:1.0; Tc:1.0,2,2.0
+mp-11573.cif,"Ti, Tc",Ti:1.0; Tc:1.0,2,2.0
+mp-11578.cif,"V, Zn",V:1.0; Zn:3.0,2,4.0
+mp-11580.cif,"Ti, Cr, P",Ti:3.0; Cr:3.0; P:3.0,3,9.0
+mp-11583.cif,"Zr, S, N",Zr:4.0; S:2.0; N:4.0,3,10.0
+mp-1159.cif,"Zr, Fe",Zr:8.0; Fe:4.0,2,12.0
+mp-11621.cif,"Zn, Ni, Sb",Zn:4.0; Ni:4.0; Sb:4.0,3,12.0
+mp-11644.cif,"Li, Ca",Li:16.0; Ca:8.0,2,24.0
+mp-1169.cif,"Sc, Cu",Sc:1.0; Cu:1.0,2,2.0
+mp-11693.cif,"Te, Pt",Te:6.0; Pt:6.0,2,12.0
+mp-11695.cif,"Rb, Pd, S",Rb:8.0; Pd:12.0; S:16.0,3,36.0
+mp-11697.cif,"Ta, Sb",Ta:4.0; Sb:8.0,2,12.0
+mp-117.cif,Sn,Sn:8.0,1,8.0
+mp-11714.cif,"Si, C",Si:4.0; C:4.0,2,8.0
+mp-11718.cif,"Rb, F",Rb:4.0; F:4.0,2,8.0
+mp-1172.cif,"Mg, Rh",Mg:1.0; Rh:1.0,2,2.0
+mp-11737.cif,"Li, Si, O",Li:8.0; Si:2.0; O:8.0,3,18.0
+mp-11738.cif,"Na, P, S, O",Na:12.0; P:4.0; S:12.0; O:4.0,4,32.0
+mp-1174.cif,"Mg, Sc",Mg:1.0; Sc:1.0,2,2.0
+mp-11750.cif,"Ti, Si, B",Ti:6.0; Si:2.0; B:1.0,3,9.0
+mp-11754.cif,"Sc, Te, Os",Sc:6.0; Te:2.0; Os:1.0,3,9.0
+mp-11798.cif,"Fe, Pt",Fe:3.0; Pt:1.0,2,4.0
+mp-1180.cif,"Mn, Pt",Mn:1.0; Pt:3.0,2,4.0
+mp-11806.cif,"Li, Mg, Sn, Pt",Li:4.0; Mg:4.0; Sn:4.0; Pt:4.0,4,16.0
+mp-11809.cif,"Ti, Al",Ti:4.0; Al:8.0,2,12.0
+mp-11826.cif,"Ca, Pd",Ca:1.0; Pd:5.0,2,6.0
+mp-11834.cif,"Cu, Ni, Sb",Cu:1.0; Ni:1.0; Sb:2.0,3,4.0
+mp-1185.cif,"V, Rh",V:1.0; Rh:3.0,2,4.0
+mp-11869.cif,"Hf, Sn, Pd",Hf:4.0; Sn:4.0; Pd:4.0,3,12.0
+mp-11870.cif,"Hg, Rh",Hg:2.0; Rh:1.0,2,3.0
+mp-11873.cif,"Tl, As, Pd",Tl:1.0; As:1.0; Pd:5.0,3,7.0
+mp-11879.cif,"Ba, Ni, Sn",Ba:2.0; Ni:2.0; Sn:6.0,3,10.0
+mp-11883.cif,"Mg, Ir",Mg:4.0; Ir:8.0,2,12.0
+mp-1190.cif,"Zn, Se",Zn:4.0; Se:4.0,2,8.0
+mp-11917.cif,"Mg, Be, N",Mg:1.0; Be:2.0; N:2.0,3,5.0
+mp-1194.cif,"Cd, Pt",Cd:1.0; Pt:1.0,2,2.0
+mp-11957.cif,"Ca, Sn, Ir",Ca:4.0; Sn:8.0; Ir:4.0,3,16.0
+mp-11958.cif,"Ca, Sn, Pd",Ca:4.0; Sn:8.0; Pd:4.0,3,16.0
+mp-11959.cif,"Ca, Sn, Rh",Ca:4.0; Sn:8.0; Rh:4.0,3,16.0
+mp-11977.cif,"Li, Sn, Au",Li:2.0; Sn:2.0; Au:2.0,3,6.0
+mp-11984.cif,"Y, Mg, Tl",Y:3.0; Mg:3.0; Tl:3.0,3,9.0
+mp-1201.cif,"Sb, Te",Sb:6.0; Te:9.0,2,15.0
+mp-12029.cif,"Li, Cu, P",Li:4.0; Cu:2.0; P:2.0,3,8.0
+mp-12065.cif,"Ag, Pt",Ag:3.0; Pt:1.0,2,4.0
+mp-12070.cif,"Cu, As",Cu:2.0; As:2.0,2,4.0
+mp-12071.cif,"Ti, As",Ti:6.0; As:2.0,2,8.0
+mp-12083.cif,"Cr, Ir",Cr:1.0; Ir:3.0,2,4.0
+mp-12086.cif,"Cu, Pt",Cu:3.0; Pt:1.0,2,4.0
+mp-12087.cif,"Cu, S",Cu:8.0; S:4.0,2,12.0
+mp-12104.cif,"Nb, Si",Nb:3.0; Si:6.0,2,9.0
+mp-12107.cif,"Ti, Pt",Ti:1.0; Pt:3.0,2,4.0
+mp-12108.cif,"V, Pt",V:2.0; Pt:4.0,2,6.0
+mp-12109.cif,"Zr, Re",Zr:4.0; Re:8.0,2,12.0
+mp-1211.cif,"Sc, Cd",Sc:1.0; Cd:1.0,2,2.0
+mp-12137.cif,"Ca, Zn, Si",Ca:2.0; Zn:4.0; Si:4.0,3,10.0
+mp-1215.cif,"Ti, O",Ti:2.0; O:1.0,2,3.0
+mp-12177.cif,"Te, O",Te:4.0; O:10.0,2,14.0
+mp-1219.cif,"Ba, Ga",Ba:1.0; Ga:2.0,2,3.0
+mp-122.cif,Ba,Ba:2.0,1,2.0
+mp-1220.cif,"Be, Au",Be:20.0; Au:4.0,2,24.0
+mp-1221.cif,"V, Ge",V:6.0; Ge:2.0,2,8.0
+mp-1222.cif,"Cr, Si",Cr:3.0; Si:6.0,2,9.0
+mp-1224.cif,"Hg, O",Hg:4.0; O:4.0,2,8.0
+mp-12265.cif,"Sr, Cu, F",Sr:4.0; Cu:4.0; F:16.0,3,24.0
+mp-1229.cif,"Cu, F",Cu:2.0; F:4.0,2,6.0
+mp-12317.cif,"Sr, C, N",Sr:3.0; C:3.0; N:6.0,3,12.0
+mp-1232.cif,"Mo, Pt",Mo:6.0; Pt:2.0,2,8.0
+mp-1235.cif,"Ti, Ir",Ti:1.0; Ir:1.0,2,2.0
+mp-12359.cif,"Ag, Sb, Te",Ag:1.0; Sb:1.0; Te:2.0,3,4.0
+mp-12360.cif,"Ag, Sb, Te",Ag:3.0; Sb:3.0; Te:6.0,3,12.0
+mp-1239.cif,"Sb, Ir",Sb:24.0; Ir:8.0,2,32.0
+mp-124.cif,Ag,Ag:4.0,1,4.0
+mp-12403.cif,"Li, B, F",Li:3.0; B:3.0; F:12.0,3,18.0
+mp-12411.cif,"Li, Zn, Ge",Li:8.0; Zn:4.0; Ge:4.0,3,16.0
+mp-12467.cif,"Ca, Sb",Ca:10.0; Sb:6.0,2,16.0
+mp-12480.cif,"Sc, P, Pt",Sc:4.0; P:4.0; Pt:4.0,3,12.0
+mp-1249.cif,"Mg, F",Mg:2.0; F:4.0,2,6.0
+mp-1251.cif,"V, Rh",V:1.0; Rh:1.0,2,2.0
+mp-1252.cif,"Zr, Be",Zr:1.0; Be:2.0,2,3.0
+mp-12520.cif,"Sr, Ni, Ge",Sr:2.0; Ni:4.0; Ge:2.0,3,8.0
+mp-12521.cif,"Sr, Ni, Ge",Sr:2.0; Ni:6.0; Ge:4.0,3,12.0
+mp-1253.cif,"Ba, Se",Ba:4.0; Se:4.0,2,8.0
+mp-12532.cif,"K, Ag, P, S",K:2.0; Ag:4.0; P:2.0; S:8.0,4,16.0
+mp-12537.cif,"Ti, Ga, C",Ti:4.0; Ga:2.0; C:2.0,3,8.0
+mp-12546.cif,"Ti, Cu",Ti:2.0; Cu:6.0,2,8.0
+mp-12549.cif,"Ba, Al, Ni",Ba:1.0; Al:9.0; Ni:2.0,3,12.0
+mp-12550.cif,"Al, Cu, Pt",Al:1.0; Cu:1.0; Pt:2.0,3,4.0
+mp-12557.cif,"Sr, Cu, As",Sr:2.0; Cu:2.0; As:2.0,3,6.0
+mp-12558.cif,"Li, Mg, As",Li:4.0; Mg:4.0; As:4.0,3,12.0
+mp-12564.cif,"Li, Sb, Au",Li:4.0; Sb:4.0; Au:4.0,3,12.0
+mp-12565.cif,"Mn, Au",Mn:2.0; Au:8.0,2,10.0
+mp-12571.cif,"Hf, Be, Si",Hf:2.0; Be:2.0; Si:2.0,3,6.0
+mp-12580.cif,"Li, Cd, Sn",Li:8.0; Cd:4.0; Sn:4.0,3,16.0
+mp-12585.cif,"Cr, Rh",Cr:1.0; Rh:3.0,2,4.0
+mp-12593.cif,"Sc, Ir",Sc:1.0; Ir:3.0,2,4.0
+mp-12595.cif,"Mo, Rh",Mo:2.0; Rh:2.0,2,4.0
+mp-126.cif,Pt,Pt:4.0,1,4.0
+mp-1260.cif,"Sr, Pd",Sr:1.0; Pd:5.0,2,6.0
+mp-12608.cif,"Cu, Pt",Cu:4.0; Pt:28.0,2,32.0
+mp-12614.cif,"Ca, Cu",Ca:8.0; Cu:4.0,2,12.0
+mp-12622.cif,"Sr, Pd, F",Sr:4.0; Pd:4.0; F:16.0,3,24.0
+mp-12635.cif,"Ti, Au",Ti:2.0; Au:8.0,2,10.0
+mp-1264.cif,"Cd, Au",Cd:1.0; Au:3.0,2,4.0
+mp-12648.cif,"Ti, Be",Ti:6.0; Be:51.0,2,57.0
+mp-1265.cif,"Mg, O",Mg:4.0; O:4.0,2,8.0
+mp-12657.cif,"Hf, Al",Hf:4.0; Al:8.0,2,12.0
+mp-12659.cif,"Mn, Nb",Mn:8.0; Nb:4.0,2,12.0
+mp-1266.cif,"Na, Se",Na:8.0; Se:4.0,2,12.0
+mp-12666.cif,"Be, Pd",Be:24.0; Pd:2.0,2,26.0
+mp-12674.cif,"Mn, Au",Mn:1.0; Au:1.0,2,2.0
+mp-12675.cif,"Mn, Au",Mn:1.0; Au:1.0,2,2.0
+mp-12678.cif,"Ta, Mn",Ta:4.0; Mn:8.0,2,12.0
+mp-12693.cif,"Mg, Rh",Mg:4.0; Rh:2.0,2,6.0
+mp-12696.cif,"Y, Mg, Pd",Y:3.0; Mg:3.0; Pd:3.0,3,9.0
+mp-12697.cif,"Sc, Mn, Sn",Sc:1.0; Mn:6.0; Sn:6.0,3,13.0
+mp-12699.cif,"Ca, Au",Ca:18.0; Au:24.0,2,42.0
+mp-127.cif,Na,Na:2.0,1,2.0
+mp-12700.cif,"Nb, Pt",Nb:4.0; Pt:12.0,2,16.0
+mp-12716.cif,"Li, Tl, Pd",Li:2.0; Tl:2.0; Pd:4.0,3,8.0
+mp-1272.cif,"Cr, Ru",Cr:6.0; Ru:2.0,2,8.0
+mp-12723.cif,"Ca, Au",Ca:4.0; Au:4.0,2,8.0
+mp-12724.cif,"Sr, Zn",Sr:4.0; Zn:4.0,2,8.0
+mp-12725.cif,"Nb, Ag, O",Nb:1.0; Ag:1.0; O:3.0,3,5.0
+mp-12742.cif,"Mg, Pd",Mg:4.0; Pd:12.0,2,16.0
+mp-1275.cif,"Si, Mo",Si:2.0; Mo:6.0,2,8.0
+mp-12752.cif,"Zr, Al",Zr:4.0; Al:3.0,2,7.0
+mp-12759.cif,"Zn, Cu, Au",Zn:4.0; Cu:2.0; Au:2.0,3,8.0
+mp-12760.cif,"Zr, Al, Co",Zr:6.0; Al:2.0; Co:1.0,3,9.0
+mp-12761.cif,"Be, Au",Be:2.0; Au:4.0,2,6.0
+mp-12772.cif,"Hf, Al",Hf:8.0; Al:4.0,2,12.0
+mp-12773.cif,"Zr, Al",Zr:8.0; Al:4.0,2,12.0
+mp-12777.cif,"Al, Cu",Al:4.0; Cu:12.0,2,16.0
+mp-12778.cif,"V, Os",V:1.0; Os:1.0,2,2.0
+mp-12779.cif,"Cd, Te",Cd:2.0; Te:2.0,2,4.0
+mp-1278.cif,"Zr, Si",Zr:8.0; Si:4.0,2,12.0
+mp-1279.cif,"Ta, N",Ta:3.0; N:3.0,2,6.0
+mp-12798.cif,"Ni, Pt",Ni:3.0; Pt:1.0,2,4.0
+mp-12802.cif,"Al, Cu",Al:2.0; Cu:6.0,2,8.0
+mp-12806.cif,"Cu, Ge, Te",Cu:4.0; Ge:2.0; Te:6.0,3,12.0
+mp-1281.cif,"V, Ir",V:1.0; Ir:1.0,2,2.0
+mp-12814.cif,"Ba, Sb, N",Ba:6.0; Sb:2.0; N:2.0,3,10.0
+mp-1282.cif,"V, C",V:4.0; C:4.0,2,8.0
+mp-1285.cif,"Pt, O",Pt:2.0; O:4.0,2,6.0
+mp-12863.cif,"Ba, Al, Si",Ba:2.0; Al:4.0; Si:4.0,3,10.0
+mp-129.cif,Mo,Mo:2.0,1,2.0
+mp-12903.cif,"Y, Ag, Te",Y:2.0; Ag:2.0; Te:4.0,3,8.0
+mp-12908.cif,"Sc, Ag, Se",Sc:1.0; Ag:1.0; Se:2.0,3,4.0
+mp-12927.cif,"Ba, Be, N",Ba:4.0; Be:8.0; N:8.0,3,20.0
+mp-1294.cif,"Y, Co",Y:8.0; Co:16.0,2,24.0
+mp-12951.cif,"Zr, Ga, Au",Zr:2.0; Ga:2.0; Au:2.0,3,6.0
+mp-12952.cif,"Hf, Ga, Au",Hf:2.0; Ga:2.0; Au:2.0,3,6.0
+mp-12954.cif,"Cu, B, S",Cu:4.0; B:4.0; S:8.0,3,16.0
+mp-12961.cif,"Y, Al, Pd",Y:3.0; Al:3.0; Pd:3.0,3,9.0
+mp-12962.cif,"Zr, Fe, Sb",Zr:6.0; Fe:1.0; Sb:2.0,3,9.0
+mp-12972.cif,"Zr, Sb, Pt",Zr:6.0; Sb:2.0; Pt:1.0,3,9.0
+mp-1299.cif,"Si, Pt",Si:2.0; Pt:4.0,2,6.0
+mp-12990.cif,"Ti, Al, C",Ti:4.0; Al:2.0; C:2.0,3,8.0
+mp-13.cif,Fe,Fe:2.0,1,2.0
+mp-13010.cif,"Y, Sn",Y:4.0; Sn:8.0,2,12.0
+mp-13032.cif,"Mg, S",Mg:4.0; S:4.0,2,8.0
+mp-13033.cif,"Mg, Te",Mg:4.0; Te:4.0,2,8.0
+mp-13071.cif,"Sc, Tl, C",Sc:4.0; Tl:2.0; C:2.0,3,8.0
+mp-13079.cif,"Mn, Al, Co",Mn:8.0; Al:4.0; Co:4.0,3,16.0
+mp-13082.cif,"Mn, Co, Si",Mn:8.0; Co:4.0; Si:4.0,3,16.0
+mp-13089.cif,"Cu, Sn, Te",Cu:4.0; Sn:2.0; Te:6.0,3,12.0
+mp-13090.cif,"Y, Mg, Al",Y:3.0; Mg:3.0; Al:3.0,3,9.0
+mp-13092.cif,"Zr, Al, Ni",Zr:6.0; Al:2.0; Ni:1.0,3,9.0
+mp-13095.cif,"Y, Al, Ni",Y:3.0; Al:3.0; Ni:3.0,3,9.0
+mp-13097.cif,"Na, Zn, As",Na:2.0; Zn:2.0; As:2.0,3,6.0
+mp-131.cif,Zr,Zr:2.0,1,2.0
+mp-13108.cif,"Sr, Hf, O",Sr:1.0; Hf:1.0; O:3.0,3,5.0
+mp-13109.cif,"Sr, Hf, O",Sr:4.0; Hf:4.0; O:12.0,3,20.0
+mp-13119.cif,"Cd, O",Cd:2.0; O:2.0,2,4.0
+mp-13137.cif,"Hf, C, S",Hf:4.0; C:2.0; S:2.0,3,8.0
+mp-13138.cif,"Cu, Sn",Cu:6.0; Sn:2.0,2,8.0
+mp-1314.cif,"Li, Si",Li:96.0; Si:56.0,2,152.0
+mp-13149.cif,"Ba, Al, Si",Ba:1.0; Al:1.0; Si:1.0,3,3.0
+mp-1315.cif,"Mg, S",Mg:4.0; S:4.0,2,8.0
+mp-13154.cif,"Fe, C",Fe:6.0; C:2.0,2,8.0
+mp-13155.cif,"Hf, Ag",Hf:4.0; Ag:2.0,2,6.0
+mp-13156.cif,"Hf, Ag",Hf:2.0; Ag:2.0,2,4.0
+mp-13160.cif,"Y, Zn, Ge",Y:4.0; Zn:4.0; Ge:4.0,3,12.0
+mp-13164.cif,"Ti, Pd",Ti:4.0; Pd:2.0,2,6.0
+mp-1317.cif,"Co, Sb",Co:8.0; Sb:24.0,2,32.0
+mp-13171.cif,"Y, Mg, Cu",Y:3.0; Mg:3.0; Cu:3.0,3,9.0
+mp-13172.cif,"Y, Mg, Cu",Y:4.0; Mg:4.0; Cu:16.0,3,24.0
+mp-132.cif,Ca,Ca:2.0,1,2.0
+mp-13202.cif,"Y, Cu, Sn",Y:2.0; Cu:2.0; Sn:2.0,3,6.0
+mp-13203.cif,"Sc, Cu, Sn",Sc:2.0; Cu:2.0; Sn:2.0,3,6.0
+mp-13208.cif,"Mg, Pt",Mg:8.0; Pt:4.0,2,12.0
+mp-13240.cif,"Sc, In, Cu",Sc:4.0; In:4.0; Cu:16.0,3,24.0
+mp-1326.cif,"Nb, Sn",Nb:6.0; Sn:2.0,2,8.0
+mp-13270.cif,"Ca, Ag",Ca:4.0; Ag:8.0,2,12.0
+mp-13272.cif,"Ba, Al, Ge",Ba:1.0; Al:1.0; Ge:1.0,3,3.0
+mp-13276.cif,"Sr, Li, P",Sr:2.0; Li:2.0; P:2.0,3,6.0
+mp-1331.cif,"Y, Cd",Y:1.0; Cd:2.0,2,3.0
+mp-13311.cif,"Sr, Al, Ge",Sr:1.0; Al:1.0; Ge:1.0,3,3.0
+mp-13313.cif,"Sc, Tl, Se",Sc:3.0; Tl:3.0; Se:6.0,3,12.0
+mp-13314.cif,"Sc, Tl, Te",Sc:3.0; Tl:3.0; Te:6.0,3,12.0
+mp-1332.cif,"Si, Mo",Si:12.0; Mo:20.0,2,32.0
+mp-13334.cif,"Zn, Sn, O",Zn:6.0; Sn:6.0; O:18.0,3,30.0
+mp-1334.cif,"Y, C",Y:6.0; C:3.0,2,9.0
+mp-1335.cif,"V, Fe",V:1.0; Fe:1.0,2,2.0
+mp-1336.cif,"Pd, O",Pd:2.0; O:2.0,2,4.0
+mp-13363.cif,"Si, Pt",Si:4.0; Pt:12.0,2,16.0
+mp-13364.cif,"Ca, Zn",Ca:4.0; Zn:8.0,2,12.0
+mp-13365.cif,"Sr, Zn",Sr:4.0; Zn:8.0,2,12.0
+mp-1339.cif,"Nb, Ir",Nb:1.0; Ir:3.0,2,4.0
+mp-134.cif,Al,Al:4.0,1,4.0
+mp-1342.cif,"Ba, O",Ba:4.0; O:4.0,2,8.0
+mp-13444.cif,"Li, Sn",Li:12.0; Sn:12.0,2,24.0
+mp-13447.cif,"Zn, Rh",Zn:26.0; Rh:2.0,2,28.0
+mp-13450.cif,"Hf, Sb",Hf:12.0; Sb:12.0,2,24.0
+mp-13452.cif,"Be, Pd",Be:2.0; Pd:4.0,2,6.0
+mp-13453.cif,"Be, Pd",Be:4.0; Pd:12.0,2,16.0
+mp-13456.cif,"Zn, S",Zn:15.0; S:15.0,2,30.0
+mp-1346.cif,"B, O",B:36.0; O:6.0,2,42.0
+mp-13463.cif,"Fe, Ni, Pt",Fe:1.0; Ni:1.0; Pt:2.0,3,4.0
+mp-13472.cif,"Hf, Si, Rh",Hf:4.0; Si:4.0; Rh:4.0,3,12.0
+mp-1349.cif,"Sr, Pt",Sr:8.0; Pt:16.0,2,24.0
+mp-13495.cif,"Zr, Pd",Zr:4.0; Pd:4.0,2,8.0
+mp-135.cif,Li,Li:2.0,1,2.0
+mp-13503.cif,"Sc, Zn",Sc:4.0; Zn:8.0,2,12.0
+mp-1352.cif,"Zr, N",Zr:4.0; N:4.0,2,8.0
+mp-1356.cif,"Sb, Pd",Sb:8.0; Pd:4.0,2,12.0
+mp-1357.cif,"P, Rh",P:24.0; Rh:8.0,2,32.0
+mp-13572.cif,"Sc, Si, Pt",Sc:4.0; Si:4.0; Pt:8.0,3,16.0
+mp-13583.cif,"Sc, Si, Ru",Sc:8.0; Si:8.0; Ru:4.0,3,20.0
+mp-1359.cif,"Nb, Ir",Nb:1.0; Ir:1.0,2,2.0
+mp-136.cif,Fe,Fe:2.0,1,2.0
+mp-1361.cif,"Ir, Se",Ir:8.0; Se:16.0,2,24.0
+mp-1364.cif,"Y, Ni",Y:4.0; Ni:4.0,2,8.0
+mp-1367.cif,"Mg, Si",Mg:8.0; Si:4.0,2,12.0
+mp-13683.cif,"Hf, Ge",Hf:4.0; Ge:8.0,2,12.0
+mp-13686.cif,"Nb, Si",Nb:20.0; Si:12.0,2,32.0
+mp-1371.cif,"Sn, Pd",Sn:24.0; Pd:8.0,2,32.0
+mp-13725.cif,"Li, P, O",Li:6.0; P:2.0; O:8.0,3,16.0
+mp-1373.cif,"Nb, Ge",Nb:6.0; Ge:2.0,2,8.0
+mp-1380.cif,"Zn, Ru",Zn:12.0; Ru:4.0,2,16.0
+mp-13829.cif,"Tl, Cu, S",Tl:4.0; Cu:12.0; S:8.0,3,24.0
+mp-13853.cif,"P, Ir",P:24.0; Ir:8.0,2,32.0
+mp-13869.cif,"Cr, O",Cr:20.0; O:48.0,2,68.0
+mp-1387.cif,"Al, V",Al:2.0; V:6.0,2,8.0
+mp-139.cif,Sr,Sr:2.0,1,2.0
+mp-13903.cif,"Zn, Sn, F",Zn:3.0; Sn:3.0; F:18.0,3,24.0
+mp-13911.cif,"Ca, Zn, Ge",Ca:2.0; Zn:4.0; Ge:4.0,3,10.0
+mp-13920.cif,"Ba, Zn, Sn",Ba:2.0; Zn:4.0; Sn:4.0,3,10.0
+mp-1393.cif,"Sn, Au",Sn:16.0; Au:4.0,2,20.0
+mp-13946.cif,"Rb, Zr, F",Rb:2.0; Zr:1.0; F:6.0,3,9.0
+mp-13947.cif,"Rb, Hf, F",Rb:2.0; Hf:1.0; F:6.0,3,9.0
+mp-13948.cif,"Cs, Hf, F",Cs:2.0; Hf:1.0; F:6.0,3,9.0
+mp-1395.cif,"V, Ru",V:1.0; Ru:1.0,2,2.0
+mp-13962.cif,"Hf, Si, Se",Hf:2.0; Si:2.0; Se:2.0,3,6.0
+mp-13963.cif,"Hf, Si, Te",Hf:2.0; Si:2.0; Te:2.0,3,6.0
+mp-13964.cif,"Hf, Ge, Te",Hf:2.0; Ge:2.0; Te:2.0,3,6.0
+mp-13983.cif,"Zn, Pd, F",Zn:3.0; Pd:3.0; F:18.0,3,24.0
+mp-1399.cif,"Al, Au",Al:4.0; Au:4.0,2,8.0
+mp-13993.cif,"Ti, Ni, S",Ti:9.0; Ni:3.0; S:18.0,3,30.0
+mp-140.cif,Ga,Ga:2.0,1,2.0
+mp-1400.cif,"Hf, W",Hf:8.0; W:16.0,2,24.0
+mp-1401.cif,"Zr, Zn",Zr:8.0; Zn:16.0,2,24.0
+mp-14019.cif,"Ni, B",Ni:4.0; B:4.0,2,8.0
+mp-14024.cif,"Zr, O",Zr:18.0; O:6.0,2,24.0
+mp-1404.cif,"Cd, Au",Cd:2.0; Au:2.0,2,4.0
+mp-14069.cif,"Cs, Al, O",Cs:8.0; Al:8.0; O:16.0,3,32.0
+mp-14070.cif,"Rb, Al, O",Rb:8.0; Al:8.0; O:16.0,3,32.0
+mp-14088.cif,"Rb, Pd, F",Rb:8.0; Pd:4.0; F:24.0,3,36.0
+mp-14091.cif,"Al, Ag, Se",Al:4.0; Ag:4.0; Se:8.0,3,16.0
+mp-14092.cif,"Al, Ag, Te",Al:4.0; Ag:4.0; Te:8.0,3,16.0
+mp-14099.cif,"Zn, Ag, F",Zn:1.0; Ag:1.0; F:3.0,3,5.0
+mp-14112.cif,"Pd, F",Pd:3.0; F:9.0,2,12.0
+mp-14115.cif,"Li, Rh, O",Li:3.0; Rh:3.0; O:6.0,3,12.0
+mp-14116.cif,"Cu, Rh, O",Cu:3.0; Rh:3.0; O:6.0,3,12.0
+mp-1412.cif,"Ti, Sb",Ti:6.0; Sb:2.0,2,8.0
+mp-14142.cif,"Ti, Zn, O",Ti:6.0; Zn:6.0; O:18.0,3,30.0
+mp-1418.cif,"Fe, Ni",Fe:1.0; Ni:3.0,2,4.0
+mp-142.cif,Ga,Ga:8.0,1,8.0
+mp-14208.cif,"Li, Y, Si",Li:3.0; Y:3.0; Si:3.0,3,9.0
+mp-1424.cif,"Ge, Pd",Ge:4.0; Pd:4.0,2,8.0
+mp-1425.cif,"Ti, Cr",Ti:8.0; Cr:16.0,2,24.0
+mp-14285.cif,"Co, P",Co:4.0; P:8.0,2,12.0
+mp-1431.cif,"Mn, Si",Mn:4.0; Si:4.0,2,8.0
+mp-1432.cif,"Be, B",Be:8.0; B:4.0,2,12.0
+mp-1437.cif,"Li, Cd",Li:8.0; Cd:8.0,2,16.0
+mp-1439.cif,"Ti, O",Ti:4.0; O:8.0,2,12.0
+mp-1444.cif,"Ca, Cd",Ca:4.0; Cd:8.0,2,12.0
+mp-1451.cif,"Nb, Ni",Nb:2.0; Ni:6.0,2,8.0
+mp-1458.cif,"Nb, Ir",Nb:6.0; Ir:2.0,2,8.0
+mp-14587.cif,"Zn, P",Zn:4.0; P:16.0,2,20.0
+mp-1459.cif,"Ta, N",Ta:1.0; N:1.0,2,2.0
+mp-146.cif,V,V:2.0,1,2.0
+mp-14628.cif,"Zn, Sn, O",Zn:6.0; Sn:6.0; O:18.0,3,30.0
+mp-1471.cif,"Zr, Al",Zr:3.0; Al:1.0,2,4.0
+mp-1472.cif,"Zr, B",Zr:1.0; B:2.0,2,3.0
+mp-1473.cif,"Fe, W",Fe:21.0; W:18.0,2,39.0
+mp-1475.cif,"Be, Mo",Be:24.0; Mo:2.0,2,26.0
+mp-1476.cif,"Sc, S",Sc:4.0; S:4.0,2,8.0
+mp-1477.cif,"Ba, Si",Ba:8.0; Si:16.0,2,24.0
+mp-1479.cif,"B, P",B:4.0; P:4.0,2,8.0
+mp-14793.cif,"Mg, Si, Pt",Mg:4.0; Si:2.0; Pt:2.0,3,8.0
+mp-14796.cif,"K, Pt, Se",K:6.0; Pt:12.0; Se:18.0,3,36.0
+mp-14797.cif,"Rb, Pt, Se",Rb:6.0; Pt:12.0; Se:18.0,3,36.0
+mp-1482.cif,"Zr, Al",Zr:16.0; Al:24.0,2,40.0
+mp-1483.cif,"Si, Rh",Si:4.0; Rh:4.0,2,8.0
+mp-1487.cif,"Al, Ni",Al:1.0; Ni:1.0,2,2.0
+mp-149.cif,Si,Si:8.0,1,8.0
+mp-1490.cif,"Al, Au",Al:4.0; Au:16.0,2,20.0
+mp-1491.cif,"V, B",V:1.0; B:2.0,2,3.0
+mp-1498.cif,"Al, Pd",Al:84.0; Pd:32.0,2,116.0
+mp-14983.cif,"Si, P, Ru",Si:4.0; P:4.0; Ru:1.0,3,9.0
+mp-1500.cif,"Ba, S",Ba:4.0; S:4.0,2,8.0
+mp-1501.cif,"Al, Pt",Al:6.0; Pt:10.0,2,16.0
+mp-1502.cif,"Al, Pt",Al:8.0; Pt:4.0,2,12.0
+mp-1509.cif,"Sn, S",Sn:8.0; S:12.0,2,20.0
+mp-15113.cif,"Na, Si, O",Na:8.0; Si:12.0; O:28.0,3,48.0
+mp-1515.cif,"Zr, Si",Zr:4.0; Si:8.0,2,12.0
+mp-1521.cif,"Sb, Mo",Sb:28.0; Mo:12.0,2,40.0
+mp-1522.cif,"Fe, S",Fe:2.0; S:4.0,2,6.0
+mp-1523.cif,"Zr, P",Zr:4.0; P:8.0,2,12.0
+mp-1526.cif,"Ti, Hg",Ti:1.0; Hg:1.0,2,2.0
+mp-15297.cif,"Hf, Ni, Sb",Hf:6.0; Ni:1.0; Sb:2.0,3,9.0
+mp-153.cif,Mg,Mg:2.0,1,2.0
+mp-15316.cif,"Sr, Mg, F",Sr:4.0; Mg:4.0; F:16.0,3,24.0
+mp-15322.cif,"Sc, Cu, Si",Sc:3.0; Cu:3.0; Si:3.0,3,9.0
+mp-1539.cif,"Zr, Te",Zr:1.0; Te:1.0,2,2.0
+mp-1543.cif,"Ge, Pt",Ge:4.0; Pt:2.0,2,6.0
+mp-1545.cif,"Nb, Rh",Nb:6.0; Rh:2.0,2,8.0
+mp-1550.cif,"Al, P",Al:4.0; P:4.0,2,8.0
+mp-1552.cif,"Mo, C",Mo:8.0; C:4.0,2,12.0
+mp-1555.cif,"V, Sb",V:6.0; Sb:2.0,2,8.0
+mp-1557.cif,"Mg, Au",Mg:18.0; Au:6.0,2,24.0
+mp-15641.cif,"Ca, Mg, Ge",Ca:4.0; Mg:4.0; Ge:4.0,3,12.0
+mp-15642.cif,"Sr, Mg, Si",Sr:4.0; Mg:4.0; Si:4.0,3,12.0
+mp-15643.cif,"Sr, Mg, Ge",Sr:4.0; Mg:4.0; Ge:4.0,3,12.0
+mp-15649.cif,"As, Ir",As:8.0; Ir:4.0,2,12.0
+mp-1565.cif,"Zr, O",Zr:4.0; O:8.0,2,12.0
+mp-15659.cif,"Sb, Pt",Sb:8.0; Pt:12.0,2,20.0
+mp-15661.cif,"Sc, C",Sc:16.0; C:12.0,2,28.0
+mp-15669.cif,"Ti, Te",Ti:6.0; Te:8.0,2,14.0
+mp-15686.cif,"Li, Cu, As",Li:4.0; Cu:2.0; As:2.0,3,8.0
+mp-15687.cif,"K, Zn, As",K:1.0; Zn:1.0; As:1.0,3,3.0
+mp-1569.cif,"Be, C",Be:8.0; C:4.0,2,12.0
+mp-15695.cif,"Y, As, Pt",Y:4.0; As:4.0; Pt:4.0,3,12.0
+mp-157.cif,P,P:8.0,1,8.0
+mp-15722.cif,"Fe, B, Mo",Fe:4.0; B:8.0; Mo:2.0,3,14.0
+mp-1575.cif,"Ca, C",Ca:4.0; C:8.0,2,12.0
+mp-15778.cif,"Mg, Ni, Sb",Mg:4.0; Ni:4.0; Sb:4.0,3,12.0
+mp-1578.cif,"V, Rh",V:6.0; Rh:2.0,2,8.0
+mp-15780.cif,"Mg, P, Pt",Mg:1.0; P:1.0; Pt:5.0,3,7.0
+mp-15803.cif,"Y, Mg, Se",Y:16.0; Mg:8.0; Se:32.0,3,56.0
+mp-15805.cif,"Mn, Zn, N",Mn:3.0; Zn:1.0; N:1.0,3,5.0
+mp-15819.cif,"Mn, Al, Si",Mn:6.0; Al:18.0; Si:2.0,3,26.0
+mp-1585.cif,"V, Co",V:6.0; Co:2.0,2,8.0
+mp-1589.cif,"Ti, Cr",Ti:4.0; Cr:8.0,2,12.0
+mp-1590.cif,"Be, Cr",Be:24.0; Cr:2.0,2,26.0
+mp-1594.cif,"Ni, Ge",Ni:4.0; Ge:2.0,2,6.0
+mp-1595.cif,"Nb, O",Nb:4.0; O:10.0,2,14.0
+mp-15963.cif,"Hf, P, Ru",Hf:3.0; P:3.0; Ru:3.0,3,9.0
+mp-15964.cif,"Hf, Sb",Hf:24.0; Sb:8.0,2,32.0
+mp-15965.cif,"Hf, Si",Hf:10.0; Si:6.0,2,16.0
+mp-15985.cif,"Zr, Cu, Ge",Zr:3.0; Cu:4.0; Ge:2.0,3,9.0
+mp-15986.cif,"Hf, Cu, P",Hf:1.0; Cu:2.0; P:2.0,3,5.0
+mp-15987.cif,"Hf, Cu, Si",Hf:3.0; Cu:4.0; Si:2.0,3,9.0
+mp-15988.cif,"Li, Cu, Sb",Li:8.0; Cu:4.0; Sb:4.0,3,16.0
+mp-160.cif,B,B:36.0,1,36.0
+mp-1601.cif,"Ta, Ru",Ta:1.0; Ru:1.0,2,2.0
+mp-16043.cif,"Mg, As, Rh",Mg:1.0; As:4.0; Rh:6.0,3,11.0
+mp-1606.cif,"Nb, Au",Nb:1.0; Au:2.0,2,3.0
+mp-1609.cif,"Cr, Ir",Cr:6.0; Ir:2.0,2,8.0
+mp-1620.cif,"Si, W",Si:4.0; W:2.0,2,6.0
+mp-16236.cif,"K, Ag, Se",K:2.0; Ag:2.0; Se:2.0,3,6.0
+mp-16238.cif,"Li, Ag, Sb",Li:8.0; Ag:4.0; Sb:4.0,3,16.0
+mp-1627.cif,"Mo, S",Mo:4.0; S:6.0,2,10.0
+mp-16290.cif,"Zn, Ni, C",Zn:1.0; Ni:3.0; C:1.0,3,5.0
+mp-16297.cif,"Sc, Sn, C",Sc:3.0; Sn:1.0; C:1.0,3,5.0
+mp-1630.cif,"Zr, Hg",Zr:6.0; Hg:2.0,2,8.0
+mp-16304.cif,"Y, P, Pt",Y:1.0; P:1.0; Pt:1.0,3,3.0
+mp-16305.cif,"Sc, P, Ru",Sc:3.0; P:3.0; Ru:3.0,3,9.0
+mp-16334.cif,"Fe, Pd, N",Fe:3.0; Pd:1.0; N:1.0,3,5.0
+mp-16336.cif,"Zr, Fe, Si",Zr:4.0; Fe:6.0; Si:2.0,3,12.0
+mp-16337.cif,"Ga, Hg, Te",Ga:4.0; Hg:2.0; Te:8.0,3,14.0
+mp-16356.cif,"Ti, Ni, Ge",Ti:4.0; Ni:4.0; Ge:4.0,3,12.0
+mp-16363.cif,"Co, As, S",Co:4.0; As:4.0; S:4.0,3,12.0
+mp-1638.cif,"Sr, Al",Sr:8.0; Al:16.0,2,24.0
+mp-1646.cif,"Li, Hg",Li:12.0; Hg:4.0,2,16.0
+mp-1648.cif,"Al, Re",Al:24.0; Re:2.0,2,26.0
+mp-16481.cif,"Ti, Al, Au",Ti:2.0; Al:2.0; Au:2.0,3,6.0
+mp-16483.cif,"Ba, Al, Fe",Ba:1.0; Al:9.0; Fe:2.0,3,12.0
+mp-16488.cif,"Al, Co",Al:18.0; Co:4.0,2,22.0
+mp-1649.cif,"Fe, Pt",Fe:3.0; Pt:1.0,2,4.0
+mp-16491.cif,"Sr, Al, Co",Sr:1.0; Al:9.0; Co:2.0,3,12.0
+mp-16493.cif,"Y, Al, Co",Y:4.0; Al:8.0; Co:4.0,3,16.0
+mp-16495.cif,"Al, Cr, Fe",Al:4.0; Cr:4.0; Fe:8.0,3,16.0
+mp-16497.cif,"Sc, Al, Cu",Sc:4.0; Al:4.0; Cu:8.0,3,16.0
+mp-165.cif,Si,Si:4.0,1,4.0
+mp-16501.cif,"Hf, Al, Pd",Hf:4.0; Al:4.0; Pd:8.0,3,16.0
+mp-16514.cif,"Al, Ni",Al:6.0; Ni:10.0,2,16.0
+mp-1652.cif,"Zn, Pd",Zn:1.0; Pd:1.0,2,2.0
+mp-16521.cif,"Al, Os",Al:6.0; Os:4.0,2,10.0
+mp-16522.cif,"Al, Pd",Al:8.0; Pd:4.0,2,12.0
+mp-16523.cif,"Al, Pd",Al:6.0; Pd:10.0,2,16.0
+mp-16524.cif,"Sc, Al, Pd",Sc:4.0; Al:4.0; Pd:8.0,3,16.0
+mp-16526.cif,"Al, Pt",Al:4.0; Pt:8.0,2,12.0
+mp-16528.cif,"Al, Re",Al:24.0; Re:4.0,2,28.0
+mp-16529.cif,"Al, Ru",Al:24.0; Ru:4.0,2,28.0
+mp-16548.cif,"Zr, Ti, F",Zr:4.0; Ti:4.0; F:24.0,3,32.0
+mp-16613.cif,"Al, Au, O",Al:2.0; Au:2.0; O:4.0,3,8.0
+mp-1664.cif,"V, Pd",V:6.0; Pd:2.0,2,8.0
+mp-16648.cif,"Li, Sn, Rh",Li:4.0; Sn:16.0; Rh:4.0,3,24.0
+mp-1670.cif,"Mn, Pt",Mn:1.0; Pt:1.0,2,2.0
+mp-16718.cif,"Al, Tc",Al:24.0; Tc:4.0,2,28.0
+mp-16719.cif,"Al, Tc",Al:24.0; Tc:2.0,2,26.0
+mp-1672.cif,"Ca, S",Ca:4.0; S:4.0,2,8.0
+mp-16723.cif,"Y, Al",Y:12.0; Al:8.0,2,20.0
+mp-16733.cif,"Sc, Ga, C",Sc:4.0; Ga:2.0; C:2.0,3,8.0
+mp-16740.cif,"Ti, Ge, Pd",Ti:3.0; Ge:3.0; Pd:3.0,3,9.0
+mp-16764.cif,"Rb, Y, Te",Rb:2.0; Y:2.0; Te:4.0,3,8.0
+mp-1677.cif,"Be, Mo",Be:8.0; Mo:4.0,2,12.0
+mp-16775.cif,"Cd, Cu",Cd:4.0; Cu:8.0,2,12.0
+mp-1682.cif,"Zr, As",Zr:4.0; As:4.0,2,8.0
+mp-16828.cif,"Li, B, O",Li:6.0; B:14.0; O:24.0,3,44.0
+mp-1683.cif,"Zr, Se",Zr:2.0; Se:6.0,2,8.0
+mp-16860.cif,"Mg, Ir",Mg:78.0; Ir:18.0,2,96.0
+mp-16886.cif,"Cd, Au",Cd:9.0; Au:9.0,2,18.0
+mp-1689.cif,"Hf, Re",Hf:4.0; Re:8.0,2,12.0
+mp-1692.cif,"Cu, O",Cu:2.0; O:2.0,2,4.0
+mp-1695.cif,"Y, C",Y:16.0; C:24.0,2,40.0
+mp-1696.cif,"Cd, Pd",Cd:1.0; Pd:1.0,2,2.0
+mp-16960.cif,"Al, Pt",Al:8.0; Pt:16.0,2,24.0
+mp-1700.cif,"Al, N",Al:4.0; N:4.0,2,8.0
+mp-17045.cif,"Hf, Rh",Hf:6.0; Rh:10.0,2,16.0
+mp-1708.cif,"Y, Te",Y:4.0; Te:4.0,2,8.0
+mp-171.cif,"V, Ni",V:2.0; Ni:6.0,2,8.0
+mp-1714.cif,"Fe, Si",Fe:16.0; Si:32.0,2,48.0
+mp-17177.cif,"Nb, Zn, O",Nb:8.0; Zn:4.0; O:24.0,3,36.0
+mp-1725.cif,"Ca, Zn",Ca:4.0; Zn:8.0,2,12.0
+mp-173.cif,"Mn, Al",Mn:4.0; Al:24.0,2,28.0
+mp-1734.cif,"Ca, Zn",Ca:1.0; Zn:5.0,2,6.0
+mp-17413.cif,"Ti, Rh",Ti:6.0; Rh:10.0,2,16.0
+mp-17481.cif,"Mg, Ta, O",Mg:8.0; Ta:4.0; O:18.0,3,30.0
+mp-1749.cif,"Ca, Al",Ca:2.0; Al:8.0,2,10.0
+mp-17524.cif,"Ge, As",Ge:8.0; As:16.0,2,24.0
+mp-1755.cif,"Zn, Au",Zn:8.0; Au:24.0,2,32.0
+mp-17639.cif,"Y, Zn",Y:6.0; Zn:51.0,2,57.0
+mp-17659.cif,"Mg, Al",Mg:69.0; Al:90.0,2,159.0
+mp-1769.cif,"Sb, Pd",Sb:2.0; Pd:2.0,2,4.0
+mp-17695.cif,"Sc, Sn",Sc:10.0; Sn:6.0,2,16.0
+mp-1775.cif,"Sn, Au",Sn:2.0; Au:2.0,2,4.0
+mp-17783.cif,"Mg, Au",Mg:18.0; Au:6.0,2,24.0
+mp-1780.cif,"Sc, Rh",Sc:1.0; Rh:1.0,2,2.0
+mp-1782.cif,"Sc, Se",Sc:4.0; Se:4.0,2,8.0
+mp-1783.cif,"Mn, S",Mn:4.0; S:4.0,2,8.0
+mp-1784.cif,"Cs, F",Cs:4.0; F:4.0,2,8.0
+mp-17848.cif,"Nb, Si",Nb:24.0; Si:8.0,2,32.0
+mp-17856.cif,"Al, Co, Cu",Al:28.0; Co:4.0; Cu:8.0,3,40.0
+mp-1786.cif,"Ti, Au",Ti:6.0; Au:2.0,2,8.0
+mp-17862.cif,"Ag, Ge, P",Ag:12.0; Ge:20.0; P:24.0,3,56.0
+mp-1791.cif,"Al, Rh",Al:20.0; Rh:8.0,2,28.0
+mp-1799.cif,"Ta, Co",Ta:8.0; Co:16.0,2,24.0
+mp-1804.cif,"Fe, N",Fe:6.0; N:2.0,2,8.0
+mp-1808.cif,"Ti, Ni",Ti:64.0; Ni:32.0,2,96.0
+mp-18093.cif,"Al, Mo, C",Al:8.0; Mo:12.0; C:4.0,3,24.0
+mp-18167.cif,"Ca, Cd",Ca:12.0; Cd:8.0,2,20.0
+mp-18198.cif,"Sc, Sn, Pt",Sc:6.0; Sn:6.0; Pt:6.0,3,18.0
+mp-1822.cif,"Ti, As",Ti:4.0; As:4.0,2,8.0
+mp-1823.cif,"Ti, Al",Ti:6.0; Al:2.0,2,8.0
+mp-1825.cif,"Cu, Sb",Cu:4.0; Sb:2.0,2,6.0
+mp-18257.cif,"Fe, C",Fe:14.0; C:6.0,2,20.0
+mp-18300.cif,"Ca, Al, Sb",Ca:12.0; Al:4.0; Sb:12.0,3,28.0
+mp-18316.cif,"Mg, Pd",Mg:64.0; Pd:32.0,2,96.0
+mp-18337.cif,"Be, N",Be:48.0; N:32.0,2,80.0
+mp-1840.cif,"Ti, O",Ti:8.0; O:16.0,2,24.0
+mp-1841.cif,"Si, Ir",Si:4.0; Ir:12.0,2,16.0
+mp-1842.cif,"Nb, Al",Nb:2.0; Al:6.0,2,8.0
+mp-18427.cif,"Nb, Al",Nb:20.0; Al:10.0,2,30.0
+mp-18468.cif,"Mn, Si, C",Mn:40.0; Si:8.0; C:8.0,3,56.0
+mp-1851.cif,"Sn, Pd",Sn:4.0; Pd:8.0,2,12.0
+mp-1866.cif,"K, O",K:2.0; O:4.0,2,6.0
+mp-1867.cif,"Ta, Ni",Ta:8.0; Ni:4.0,2,12.0
+mp-1868.cif,"V, S",V:4.0; S:4.0,2,8.0
+mp-1869.cif,"Ga, Pd",Ga:4.0; Pd:8.0,2,12.0
+mp-18695.cif,"Fe, Co",Fe:15.0; Co:1.0,2,16.0
+mp-18707.cif,"Mg, Pt",Mg:18.0; Pt:6.0,2,24.0
+mp-1871.cif,"Fe, C",Fe:4.0; C:2.0,2,6.0
+mp-18712.cif,"Mg, Pd",Mg:18.0; Pd:6.0,2,24.0
+mp-18717.cif,"Sr, V, O",Sr:1.0; V:1.0; O:3.0,3,5.0
+mp-18725.cif,"Y, Cr, O",Y:4.0; Cr:4.0; O:12.0,3,20.0
+mp-1873.cif,"Zn, F",Zn:2.0; F:4.0,2,6.0
+mp-18732.cif,"Ti, Ni, O",Ti:6.0; Ni:6.0; O:18.0,3,30.0
+mp-18751.cif,"Mn, Zn, O",Mn:8.0; Zn:4.0; O:16.0,3,28.0
+mp-18759.cif,"Mn, O",Mn:12.0; O:16.0,2,28.0
+mp-18766.cif,"Si, Ni, O",Si:8.0; Ni:16.0; O:32.0,3,56.0
+mp-18767.cif,"Li, Mn, O",Li:2.0; Mn:2.0; O:4.0,3,8.0
+mp-18773.cif,"W, O",W:4.0; O:12.0,2,16.0
+mp-18778.cif,"Zr, W, O",Zr:4.0; W:8.0; O:32.0,3,44.0
+mp-188.cif,"Al, Pt",Al:1.0; Pt:3.0,2,4.0
+mp-18814.cif,"Mn, C, O",Mn:6.0; C:6.0; O:18.0,3,30.0
+mp-1882.cif,"Ca, Cu",Ca:1.0; Cu:5.0,2,6.0
+mp-1883.cif,"Sn, Te",Sn:4.0; Te:4.0,2,8.0
+mp-18835.cif,"V, P, O",V:4.0; P:4.0; O:16.0,3,24.0
+mp-18848.cif,"Sr, Mg, W, O",Sr:8.0; Mg:4.0; W:4.0; O:24.0,4,40.0
+mp-18849.cif,"Fe, P, O",Fe:2.0; P:2.0; O:7.0,3,11.0
+mp-1885.cif,"Al, Ir",Al:1.0; Ir:1.0,2,2.0
+mp-18875.cif,"Mg, W, O",Mg:2.0; W:2.0; O:8.0,3,12.0
+mp-189.cif,"Si, Ru",Si:4.0; Ru:4.0,2,8.0
+mp-1890.cif,"B, Mo",B:8.0; Mo:8.0,2,16.0
+mp-18918.cif,"Zn, W, O",Zn:2.0; W:2.0; O:8.0,3,12.0
+mp-18919.cif,"Co, Pd, O",Co:3.0; Pd:3.0; O:6.0,3,12.0
+mp-18922.cif,"Mn, O",Mn:10.0; O:16.0,2,26.0
+mp-1894.cif,"W, C",W:1.0; C:1.0,2,2.0
+mp-18946.cif,"V, B, O",V:6.0; B:6.0; O:18.0,3,30.0
+mp-18949.cif,"V, Fe, O",V:4.0; Fe:4.0; O:16.0,3,24.0
+mp-18965.cif,"Ba, Co, O",Ba:2.0; Co:2.0; O:6.0,3,10.0
+mp-18966.cif,"Fe, Ag, O",Fe:2.0; Ag:2.0; O:4.0,3,8.0
+mp-18972.cif,"Sr, V, O",Sr:4.0; V:2.0; O:8.0,3,14.0
+mp-18988.cif,"Li, Mn, O",Li:8.0; Mn:4.0; O:12.0,3,24.0
+mp-19.cif,Te,Te:3.0,1,3.0
+mp-19003.cif,"Mg, V, O",Mg:4.0; V:8.0; O:20.0,3,32.0
+mp-19006.cif,"Mn, O",Mn:4.0; O:4.0,2,8.0
+mp-19009.cif,"Ni, O",Ni:4.0; O:4.0,2,8.0
+mp-19017.cif,"Li, Fe, P, O",Li:4.0; Fe:4.0; P:4.0; O:16.0,4,28.0
+mp-19019.cif,"Ni, Mo, O",Ni:2.0; Mo:2.0; O:8.0,3,12.0
+mp-1903.cif,"Ba, Al",Ba:2.0; Al:8.0,2,10.0
+mp-19035.cif,"Ba, Fe, O",Ba:1.0; Fe:1.0; O:3.0,3,5.0
+mp-19050.cif,"Ca, Mn, O",Ca:16.0; Mn:8.0; O:32.0,3,56.0
+mp-19069.cif,"Ni, Ag, O",Ni:3.0; Ag:3.0; O:6.0,3,12.0
+mp-1907.cif,"Ti, Te",Ti:1.0; Te:2.0,2,3.0
+mp-19082.cif,"Ti, Mn, O",Ti:6.0; Mn:6.0; O:18.0,3,30.0
+mp-19086.cif,"Ba, Co, O",Ba:3.0; Co:3.0; O:6.0,3,12.0
+mp-19094.cif,"V, O",V:2.0; O:4.0,2,6.0
+mp-19097.cif,"Fe, B, O",Fe:6.0; B:6.0; O:18.0,3,30.0
+mp-191.cif,"Y, Rh",Y:1.0; Rh:1.0,2,2.0
+mp-19102.cif,"Sr, Fe, O",Sr:4.0; Fe:2.0; O:8.0,3,14.0
+mp-19128.cif,"Co, O",Co:2.0; O:2.0,2,4.0
+mp-19133.cif,"Y, V, O",Y:4.0; V:4.0; O:16.0,3,24.0
+mp-19138.cif,"Ba, Ni, O",Ba:2.0; Ni:2.0; O:6.0,3,10.0
+mp-1914.cif,"Y, Ga",Y:1.0; Ga:2.0,2,3.0
+mp-19147.cif,"Ni, C, O",Ni:6.0; C:6.0; O:18.0,3,30.0
+mp-1915.cif,"Fe, B",Fe:8.0; B:4.0,2,12.0
+mp-19163.cif,"Sr, W, O",Sr:4.0; W:4.0; O:16.0,3,24.0
+mp-19177.cif,"Cr, O",Cr:2.0; O:4.0,2,6.0
+mp-19178.cif,"Co, Ag, O",Co:2.0; Ag:2.0; O:4.0,3,8.0
+mp-1918.cif,"Fe, Rh",Fe:1.0; Rh:1.0,2,2.0
+mp-19183.cif,"Li, Ni, O",Li:4.0; Ni:2.0; O:4.0,3,10.0
+mp-1919.cif,"Zr, Cr",Zr:4.0; Cr:8.0,2,12.0
+mp-19201.cif,"Ca, Mn, O",Ca:4.0; Mn:4.0; O:12.0,3,20.0
+mp-19210.cif,"Co, Pt, O",Co:3.0; Pt:3.0; O:6.0,3,12.0
+mp-19219.cif,"Li, V, O",Li:6.0; V:2.0; O:8.0,3,16.0
+mp-19225.cif,"Fe, Ag, O",Fe:3.0; Ag:3.0; O:6.0,3,12.0
+mp-19226.cif,"Na, Fe, P, O",Na:4.0; Fe:4.0; P:4.0; O:16.0,4,28.0
+mp-19241.cif,"Ba, Ni, O",Ba:2.0; Ni:2.0; O:6.0,3,10.0
+mp-19247.cif,"Sc, V, O",Sc:4.0; V:4.0; O:16.0,3,24.0
+mp-1925.cif,"Zr, S",Zr:4.0; S:4.0,2,8.0
+mp-19284.cif,"Ni, Ag, O",Ni:2.0; Ag:2.0; O:4.0,3,8.0
+mp-19292.cif,"Co, As, O",Co:1.0; As:2.0; O:6.0,3,9.0
+mp-193.cif,"Zr, Cu",Zr:4.0; Cu:2.0,2,6.0
+mp-19306.cif,"Fe, O",Fe:24.0; O:32.0,2,56.0
+mp-19308.cif,"Li, Ni, O",Li:2.0; Ni:1.0; O:2.0,3,5.0
+mp-19313.cif,"Zn, Fe, O",Zn:8.0; Fe:16.0; O:32.0,3,56.0
+mp-1932.cif,"Nb, Os",Nb:6.0; Os:2.0,2,8.0
+mp-19326.cif,"Mn, O",Mn:4.0; O:8.0,2,12.0
+mp-19328.cif,"Na, W, O",Na:1.0; W:1.0; O:3.0,3,5.0
+mp-1934.cif,"Li, Zn",Li:8.0; Zn:8.0,2,16.0
+mp-19340.cif,"Li, V, O",Li:3.0; V:3.0; O:6.0,3,12.0
+mp-19342.cif,"W, O",W:8.0; O:24.0,2,32.0
+mp-1935.cif,"Ba, Mg",Ba:4.0; Mg:8.0,2,12.0
+mp-19359.cif,"Na, Fe, O",Na:3.0; Fe:3.0; O:6.0,3,12.0
+mp-19376.cif,"Ti, Mn, O",Ti:6.0; Mn:6.0; O:18.0,3,30.0
+mp-19384.cif,"Ni, As, O",Ni:1.0; As:2.0; O:6.0,3,9.0
+mp-19387.cif,"Cd, W, O",Cd:2.0; W:2.0; O:8.0,3,12.0
+mp-19390.cif,"W, O",W:1.0; O:3.0,2,4.0
+mp-19391.cif,"Na, V, O",Na:3.0; V:3.0; O:6.0,3,12.0
+mp-19399.cif,"Cr, O",Cr:12.0; O:18.0,2,30.0
+mp-19407.cif,"Mn, W, O",Mn:2.0; W:2.0; O:8.0,3,12.0
+mp-1941.cif,"Ga, Ni",Ga:1.0; Ni:1.0,2,2.0
+mp-19420.cif,"Sr, Mg, W, O",Sr:4.0; Mg:2.0; W:2.0; O:12.0,4,20.0
+mp-19421.cif,"Fe, W, O",Fe:2.0; W:2.0; O:8.0,3,12.0
+mp-19424.cif,"Ti, Co, O",Ti:6.0; Co:6.0; O:18.0,3,30.0
+mp-19435.cif,"Co, Mo, O",Co:2.0; Mo:2.0; O:8.0,3,12.0
+mp-19443.cif,"W, O",W:2.0; O:6.0,2,8.0
+mp-19448.cif,"Ni, Te, O",Ni:9.0; Te:3.0; O:18.0,3,30.0
+mp-1949.cif,"Ti, Mn",Ti:4.0; Mn:8.0,2,12.0
+mp-1953.cif,"Ti, Al",Ti:1.0; Al:1.0,2,2.0
+mp-196.cif,"Al, Co",Al:20.0; Co:8.0,2,28.0
+mp-1963.cif,"Nb, Rh",Nb:1.0; Rh:1.0,2,2.0
+mp-1969.cif,"Nb, Sb",Nb:4.0; Sb:8.0,2,12.0
+mp-19713.cif,"Sc, In",Sc:6.0; In:2.0,2,8.0
+mp-19717.cif,"Te, Pb",Te:4.0; Pb:4.0,2,8.0
+mp-19728.cif,"Y, Si, Rh",Y:4.0; Si:4.0; Rh:4.0,3,12.0
+mp-1973.cif,"Nb, Ga",Nb:2.0; Ga:6.0,2,8.0
+mp-19740.cif,"Y, In, Pt",Y:3.0; In:3.0; Pt:3.0,3,9.0
+mp-19746.cif,"Nb, Pb, S",Nb:2.0; Pb:2.0; S:4.0,3,8.0
+mp-19765.cif,"In, Hg, Te",In:4.0; Hg:2.0; Te:8.0,3,14.0
+mp-19770.cif,"Fe, O",Fe:12.0; O:18.0,2,30.0
+mp-19809.cif,"Mn, Co, Si",Mn:4.0; Co:4.0; Si:4.0,3,12.0
+mp-19814.cif,"Ni, As",Ni:2.0; As:4.0,2,6.0
+mp-19817.cif,"Y, In, C",Y:3.0; In:1.0; C:1.0,3,5.0
+mp-1982.cif,"Al, Pt",Al:84.0; Pt:32.0,2,116.0
+mp-19821.cif,"Cr, Ge, C",Cr:4.0; Ge:2.0; C:2.0,3,8.0
+mp-19835.cif,"Nb, In, C",Nb:4.0; In:2.0; C:2.0,3,8.0
+mp-19842.cif,"Ca, Fe, O",Ca:1.0; Fe:1.0; O:2.0,3,4.0
+mp-19856.cif,"Sn, Pt",Sn:2.0; Pt:2.0,2,4.0
+mp-1986.cif,"Zn, O",Zn:4.0; O:4.0,2,8.0
+mp-19870.cif,"Ga, Fe",Ga:1.0; Fe:3.0,2,4.0
+mp-1989.cif,"Ta, Si",Ta:20.0; Si:12.0,2,32.0
+mp-19895.cif,"Ni, Sb",Ni:2.0; Sb:4.0,2,6.0
+mp-19906.cif,"Zr, In, Ni",Zr:4.0; In:2.0; Ni:4.0,3,10.0
+mp-19917.cif,"Zr, Si, Te",Zr:2.0; Si:2.0; Te:2.0,3,6.0
+mp-1994.cif,"Hf, B",Hf:1.0; B:2.0,2,3.0
+mp-19940.cif,"V, As",V:4.0; As:4.0,2,8.0
+mp-19943.cif,"Y, Cu, Sb",Y:2.0; Cu:2.0; Sb:4.0,3,8.0
+mp-19962.cif,"Sn, Pt",Sn:8.0; Pt:4.0,2,12.0
+mp-19963.cif,"Ti, Fe, Sn",Ti:4.0; Fe:8.0; Sn:4.0,3,16.0
+mp-19968.cif,"Ca, In, Cu",Ca:4.0; In:8.0; Cu:4.0,3,16.0
+mp-19970.cif,"Li, Cu, O",Li:12.0; Cu:4.0; O:12.0,3,28.0
+mp-19983.cif,"Ti, Cu, Sn",Ti:2.0; Cu:2.0; Sn:2.0,3,6.0
+mp-19991.cif,"Sr, In, Pd",Sr:4.0; In:16.0; Pd:4.0,3,24.0
+mp-2.cif,Pd,Pd:4.0,1,4.0
+mp-2000.cif,"Cu, Se",Cu:2.0; Se:4.0,2,6.0
+mp-20001.cif,"Sr, Sn, Pt",Sr:4.0; Sn:4.0; Pt:4.0,3,12.0
+mp-20004.cif,"Zr, In, C",Zr:4.0; In:2.0; C:2.0,3,8.0
+mp-20007.cif,"Mn, Ni, Ge",Mn:4.0; Ni:4.0; Ge:4.0,3,12.0
+mp-20012.cif,"In, Sb",In:4.0; Sb:4.0,2,8.0
+mp-20027.cif,"Fe, P",Fe:2.0; P:4.0,2,6.0
+mp-20032.cif,"V, Pb, O",V:1.0; Pb:1.0; O:3.0,3,5.0
+mp-20033.cif,"Sn, Ir",Sn:2.0; Ir:2.0,2,4.0
+mp-20049.cif,"Li, Fe, P",Li:2.0; Fe:2.0; P:2.0,3,6.0
+mp-2006.cif,"V, Ir",V:6.0; Ir:2.0,2,8.0
+mp-20061.cif,"Ge, Pt",Ge:3.0; Pt:6.0,2,9.0
+mp-20066.cif,"C, O",C:4.0; O:8.0,2,12.0
+mp-2008.cif,"Fe, As",Fe:2.0; As:4.0,2,6.0
+mp-20083.cif,"Sc, Cu, Si",Sc:4.0; Cu:4.0; Si:4.0,3,12.0
+mp-20086.cif,"Mn, Sn",Mn:4.0; Sn:8.0,2,12.0
+mp-20112.cif,"Ni, Sn",Ni:6.0; Sn:2.0,2,8.0
+mp-2012.cif,"Li, Hg",Li:1.0; Hg:1.0,2,2.0
+mp-20133.cif,"Nb, Cr, N",Nb:2.0; Cr:2.0; N:2.0,3,6.0
+mp-20144.cif,"Nb, Cr, P",Nb:4.0; Cr:4.0; P:4.0,3,12.0
+mp-20146.cif,"Zr, Ni, Sn",Zr:4.0; Ni:4.0; Sn:2.0,3,10.0
+mp-20147.cif,"Zr, Mn, P",Zr:4.0; Mn:4.0; P:4.0,3,12.0
+mp-20155.cif,"Co, Sn",Co:4.0; Sn:8.0,2,12.0
+mp-20180.cif,"Mn, Ge, C",Mn:3.0; Ge:1.0; C:1.0,3,5.0
+mp-20191.cif,"Si, Ru",Si:12.0; Ru:8.0,2,20.0
+mp-20192.cif,"Hf, Mn, Si",Hf:4.0; Mn:4.0; Si:4.0,3,12.0
+mp-20197.cif,"Cr, Ga, C",Cr:4.0; Ga:2.0; C:2.0,3,8.0
+mp-20199.cif,"P, Pb, S",P:4.0; Pb:4.0; S:12.0,3,20.0
+mp-20202.cif,"Mg, Sn, Ru",Mg:4.0; Sn:16.0; Ru:4.0,3,24.0
+mp-20211.cif,"Mn, Si",Mn:12.0; Si:4.0,2,16.0
+mp-20249.cif,"Mn, Co, P",Mn:4.0; Co:4.0; P:4.0,3,12.0
+mp-2025.cif,"Hf, Be",Hf:1.0; Be:5.0,2,6.0
+mp-20255.cif,"Ti, Cu, Si",Ti:4.0; Cu:4.0; Si:4.0,3,12.0
+mp-20268.cif,"Ti, Ge, Pd",Ti:4.0; Ge:4.0; Pd:4.0,3,12.0
+mp-2027.cif,"Hf, Co",Hf:1.0; Co:1.0,2,2.0
+mp-20279.cif,"Nb, In, Se",Nb:1.0; In:1.0; Se:2.0,3,4.0
+mp-2028.cif,"Be, Nb",Be:16.0; Nb:8.0,2,24.0
+mp-20296.cif,"In, Co",In:32.0; Co:16.0,2,48.0
+mp-203.cif,"Ni, Te",Ni:2.0; Te:2.0,2,4.0
+mp-20305.cif,"In, As",In:4.0; As:4.0,2,8.0
+mp-2031.cif,"Be, Cu",Be:16.0; Cu:8.0,2,24.0
+mp-20315.cif,"Ti, In, C",Ti:4.0; In:2.0; C:2.0,3,8.0
+mp-20318.cif,"Mn, B",Mn:8.0; B:4.0,2,12.0
+mp-20325.cif,"Ti, In, C",Ti:3.0; In:1.0; C:1.0,3,5.0
+mp-20327.cif,"Ti, P",Ti:4.0; P:8.0,2,12.0
+mp-2033.cif,"Ni, N",Ni:6.0; N:2.0,2,8.0
+mp-20335.cif,"Mn, Nb, P",Mn:4.0; Nb:4.0; P:4.0,3,12.0
+mp-20337.cif,"Zr, Pb, O",Zr:2.0; Pb:2.0; O:6.0,3,10.0
+mp-2034.cif,"W, C",W:8.0; C:4.0,2,12.0
+mp-20344.cif,"Fe, Ge",Fe:3.0; Ge:1.0,2,4.0
+mp-20351.cif,"In, P",In:4.0; P:4.0,2,8.0
+mp-20354.cif,"Mg, Mn, Ge",Mg:2.0; Mn:2.0; Ge:2.0,3,6.0
+mp-20361.cif,"Fe, P, O",Fe:4.0; P:4.0; O:16.0,3,24.0
+mp-20382.cif,"Ti, Sn",Ti:12.0; Sn:10.0,2,22.0
+mp-2039.cif,"Sc, Mn",Sc:4.0; Mn:8.0,2,12.0
+mp-20395.cif,"V, As, Rh",V:4.0; As:4.0; Rh:4.0,3,12.0
+mp-20401.cif,"Hf, Cu, Si",Hf:2.0; Cu:2.0; Si:4.0,3,8.0
+mp-20418.cif,"Si, Rh",Si:4.0; Rh:8.0,2,12.0
+mp-20424.cif,"Mg, Co, C",Mg:1.0; Co:3.0; C:1.0,3,5.0
+mp-20426.cif,"Fe, As",Fe:4.0; As:2.0,2,6.0
+mp-20432.cif,"Fe, Ge",Fe:4.0; Ge:2.0,2,6.0
+mp-20436.cif,"Ta, Si, Rh",Ta:4.0; Si:4.0; Rh:4.0,3,12.0
+mp-20443.cif,"Ca, Mn, O",Ca:4.0; Mn:4.0; O:10.0,3,18.0
+mp-20452.cif,"Ba, Mg, Pb",Ba:2.0; Mg:4.0; Pb:4.0,3,10.0
+mp-20465.cif,"As, Pd",As:8.0; Pd:4.0,2,12.0
+mp-20466.cif,"Sn, Ir",Sn:14.0; Ir:10.0,2,24.0
+mp-20483.cif,Pb,Pb:4.0,1,4.0
+mp-20485.cif,"In, Se",In:4.0; Se:4.0,2,8.0
+mp-2049.cif,"Zr, Mo",Zr:8.0; Mo:16.0,2,24.0
+mp-20492.cif,"Sc, Si, Rh",Sc:4.0; Si:4.0; Rh:4.0,3,12.0
+mp-20516.cif,"In, Pt",In:1.0; Pt:3.0,2,4.0
+mp-20528.cif,"K, Co, O",K:2.0; Co:2.0; O:4.0,3,8.0
+mp-2053.cif,"Nb, Sb",Nb:6.0; Sb:2.0,2,8.0
+mp-20536.cif,"Co, Sn",Co:3.0; Sn:3.0,2,6.0
+mp-20539.cif,"Sc, In",Sc:1.0; In:3.0,2,4.0
+mp-20541.cif,"V, P",V:8.0; P:4.0,2,12.0
+mp-20545.cif,"Cu, As, S",Cu:3.0; As:1.0; S:4.0,3,8.0
+mp-20551.cif,"Ga, Co, Ni",Ga:1.0; Co:2.0; Ni:1.0,3,4.0
+mp-20557.cif,"Y, Si, Ni",Y:4.0; Si:4.0; Ni:4.0,3,12.0
+mp-2056.cif,"Ni, Se",Ni:9.0; Se:6.0,2,15.0
+mp-20563.cif,"Ba, Co, As",Ba:2.0; Co:4.0; As:4.0,3,10.0
+mp-20565.cif,"Mn, Co, Ge",Mn:2.0; Co:2.0; Ge:2.0,3,6.0
+mp-20566.cif,"Mg, In",Mg:1.0; In:3.0,2,4.0
+mp-20572.cif,"Na, V, F",Na:1.0; V:1.0; F:3.0,3,5.0
+mp-20586.cif,"V, Co, Si",V:4.0; Co:8.0; Si:4.0,3,16.0
+mp-2059.cif,"Nb, As",Nb:4.0; As:4.0,2,8.0
+mp-20599.cif,"Pd, Pb",Pd:4.0; Pb:8.0,2,12.0
+mp-20618.cif,"Y, Co, Si",Y:8.0; Co:12.0; Si:20.0,3,40.0
+mp-20619.cif,"Sb, Rh",Sb:4.0; Rh:4.0,2,8.0
+mp-20622.cif,"Si, Pd",Si:4.0; Pd:12.0,2,16.0
+mp-20648.cif,"V, C",V:8.0; C:4.0,2,12.0
+mp-2065.cif,"Mn, S",Mn:4.0; S:4.0,2,8.0
+mp-20661.cif,"Ti, Pb, C",Ti:4.0; Pb:2.0; C:2.0,3,8.0
+mp-20662.cif,"Sn, Pt",Sn:16.0; Pt:4.0,2,20.0
+mp-20674.cif,"Ba, Y, Cu, O",Ba:2.0; Y:1.0; Cu:3.0; O:7.0,4,13.0
+mp-20679.cif,"Co, Sn, C",Co:3.0; Sn:1.0; C:1.0,3,5.0
+mp-20695.cif,"Zr, In",Zr:3.0; In:1.0,2,4.0
+mp-20698.cif,"Li, Co, As",Li:2.0; Co:2.0; As:2.0,3,6.0
+mp-2070.cif,"Co, S",Co:4.0; S:8.0,2,12.0
+mp-20714.cif,"Fe, Sb",Fe:2.0; Sb:4.0,2,6.0
+mp-20724.cif,"Mg, Pb",Mg:8.0; Pb:4.0,2,12.0
+mp-20725.cif,"Pb, O",Pb:2.0; O:4.0,2,6.0
+mp-20730.cif,"Hf, Co, Sn",Hf:4.0; Co:8.0; Sn:4.0,3,16.0
+mp-20738.cif,"Fe, Si",Fe:1.0; Si:2.0,2,3.0
+mp-20757.cif,"Mn, Al, Ge",Mn:2.0; Al:2.0; Ge:2.0,3,6.0
+mp-2078.cif,"Ti, Cu",Ti:2.0; Cu:2.0,2,4.0
+mp-20787.cif,"Fe, B",Fe:4.0; B:4.0,2,8.0
+mp-20793.cif,"Ga, Fe, S",Ga:2.0; Fe:1.0; S:4.0,3,7.0
+mp-20800.cif,"Zr, In",Zr:8.0; In:16.0,2,24.0
+mp-20817.cif,"Ge, Pt, Se",Ge:4.0; Pt:4.0; Se:4.0,3,12.0
+mp-20826.cif,"Cu, Te",Cu:2.0; Te:2.0,2,4.0
+mp-20828.cif,"Pt, Pb",Pt:3.0; Pb:1.0,2,4.0
+mp-2083.cif,"Sn, Ir",Sn:8.0; Ir:4.0,2,12.0
+mp-20832.cif,"Zn, In, Te",Zn:2.0; In:4.0; Te:8.0,3,14.0
+mp-20840.cif,"Mn, Co, Sn",Mn:4.0; Co:8.0; Sn:4.0,3,16.0
+mp-20847.cif,"Ti, Sn",Ti:10.0; Sn:6.0,2,16.0
+mp-20849.cif,"Pd, Pb",Pd:3.0; Pb:1.0,2,4.0
+mp-20857.cif,"Co, B",Co:4.0; B:4.0,2,8.0
+mp-20860.cif,"Mn, Sn, C",Mn:3.0; Sn:1.0; C:1.0,3,5.0
+mp-20862.cif,"Co, Se",Co:2.0; Se:4.0,2,6.0
+mp-20865.cif,"Y, Cu, Pb",Y:2.0; Cu:2.0; Pb:2.0,3,6.0
+mp-20868.cif,"Fe, W",Fe:8.0; W:4.0,2,12.0
+mp-20883.cif,"Fe, Sn",Fe:6.0; Sn:2.0,2,8.0
+mp-2089.cif,"Zr, Te",Zr:2.0; Te:6.0,2,8.0
+mp-20892.cif,"Zr, Fe, P",Zr:4.0; Fe:4.0; P:4.0,3,12.0
+mp-20897.cif,"Ba, Y, Cu, O",Ba:4.0; Y:2.0; Cu:6.0; O:13.0,4,25.0
+mp-2090.cif,"Fe, Co",Fe:1.0; Co:1.0,2,2.0
+mp-20900.cif,"Cu, Sb",Cu:6.0; Sb:2.0,2,8.0
+mp-20901.cif,"Ni, Se",Ni:4.0; Se:8.0,2,12.0
+mp-20905.cif,"Os, S",Os:4.0; S:8.0,2,12.0
+mp-20928.cif,"Sb, Ru",Sb:4.0; Ru:2.0,2,6.0
+mp-20930.cif,"In, Cu, O",In:3.0; Cu:3.0; O:6.0,3,12.0
+mp-20932.cif,"Nb, Ni, P",Nb:4.0; Ni:4.0; P:4.0,3,12.0
+mp-20935.cif,"Zr, Sn, Ir",Zr:3.0; Sn:3.0; Ir:3.0,3,9.0
+mp-20937.cif,"Cr, C",Cr:12.0; C:8.0,2,20.0
+mp-20940.cif,"Ti, Cd, O",Ti:4.0; Cd:4.0; O:12.0,3,20.0
+mp-20949.cif,"Mn, Si, Ni",Mn:4.0; Si:4.0; Ni:4.0,3,12.0
+mp-20952.cif,"Ti, Ni, Sb",Ti:4.0; Ni:4.0; Sb:4.0,3,12.0
+mp-2097.cif,"Sn, O",Sn:2.0; O:2.0,2,4.0
+mp-20971.cif,"Sn, Pt",Sn:1.0; Pt:3.0,2,4.0
+mp-20974.cif,"V, O",V:4.0; O:8.0,2,12.0
+mp-20983.cif,"V, In, C",V:4.0; In:2.0; C:2.0,3,8.0
+mp-20987.cif,"Y, Zn, Sn",Y:4.0; Zn:4.0; Sn:4.0,3,12.0
+mp-20997.cif,"In, Ni",In:1.0; Ni:1.0,2,2.0
+mp-21003.cif,"Y, Re, C",Y:8.0; Re:4.0; C:8.0,3,20.0
+mp-21008.cif,"Ni, Ge",Ni:3.0; Ge:1.0,2,4.0
+mp-21012.cif,"Si, Rh",Si:6.0; Rh:10.0,2,16.0
+mp-21017.cif,"Y, Pb, C",Y:3.0; Pb:1.0; C:1.0,3,5.0
+mp-21023.cif,"Ti, Sn, C",Ti:6.0; Sn:2.0; C:4.0,3,12.0
+mp-21027.cif,"Ca, In, Pt",Ca:4.0; In:8.0; Pt:4.0,3,16.0
+mp-2103.cif,"Cu, Au",Cu:1.0; Au:3.0,2,4.0
+mp-21035.cif,"Sc, Pb, C",Sc:3.0; Pb:1.0; C:1.0,3,5.0
+mp-2105.cif,"Hf, Si",Hf:6.0; Si:4.0,2,10.0
+mp-21069.cif,"Y, Si, Ru",Y:4.0; Si:4.0; Ru:4.0,3,12.0
+mp-21075.cif,"Hf, C",Hf:4.0; C:4.0,2,8.0
+mp-21078.cif,"Fe, Ge",Fe:6.0; Ge:2.0,2,8.0
+mp-2108.cif,"Ti, Si",Ti:10.0; Si:6.0,2,16.0
+mp-21090.cif,"Mn, Ni, Ge",Mn:2.0; Ni:2.0; Ge:2.0,3,6.0
+mp-21104.cif,"Hf, Sn",Hf:10.0; Sn:6.0,2,16.0
+mp-21117.cif,"Fe, Ge",Fe:4.0; Ge:8.0,2,12.0
+mp-21124.cif,"Sr, In, Pt",Sr:4.0; In:16.0; Pt:4.0,3,24.0
+mp-2114.cif,"Y, N",Y:4.0; N:4.0,2,8.0
+mp-21145.cif,"Sr, Fe, O",Sr:1.0; Fe:1.0; O:2.0,3,4.0
+mp-2116.cif,"Zr, Mn",Zr:8.0; Mn:16.0,2,24.0
+mp-21164.cif,"Sr, Ge, Pt",Sr:4.0; Ge:4.0; Pt:4.0,3,12.0
+mp-21167.cif,"Ni, P",Ni:6.0; P:3.0,2,9.0
+mp-21179.cif,"Ni, W, O",Ni:2.0; W:2.0; O:8.0,3,12.0
+mp-2121.cif,"Sc, Al",Sc:1.0; Al:3.0,2,4.0
+mp-21215.cif,"In, Pd",In:1.0; Pd:1.0,2,2.0
+mp-2123.cif,"Nb, Au",Nb:6.0; Au:4.0,2,10.0
+mp-21236.cif,"Ba, P, Pt",Ba:4.0; P:4.0; Pt:4.0,3,12.0
+mp-21248.cif,"Nb, Si, Ir",Nb:4.0; Si:4.0; Ir:4.0,3,12.0
+mp-21249.cif,"Y, Mn, Si",Y:2.0; Mn:2.0; Si:2.0,3,6.0
+mp-21255.cif,"Fe, Ge",Fe:4.0; Ge:4.0,2,8.0
+mp-2126.cif,"Hf, Ir",Hf:1.0; Ir:3.0,2,4.0
+mp-21276.cif,"Pb, S",Pb:4.0; S:4.0,2,8.0
+mp-2128.cif,"Sn, Pd",Sn:16.0; Pd:4.0,2,20.0
+mp-21297.cif,"Li, Sn, Ru",Li:4.0; Sn:16.0; Ru:4.0,3,24.0
+mp-213.cif,"Ca, Pd",Ca:1.0; Pd:1.0,2,2.0
+mp-21306.cif,"Ti, Co, Si",Ti:4.0; Co:4.0; Si:4.0,3,12.0
+mp-21313.cif,"Mn, Ga, C",Mn:3.0; Ga:1.0; C:1.0,3,5.0
+mp-21316.cif,"Ta, Si, Ir",Ta:4.0; Si:4.0; Ir:4.0,3,12.0
+mp-21318.cif,"Pt, Pb",Pt:4.0; Pb:8.0,2,12.0
+mp-21328.cif,"Hf, Sn",Hf:4.0; Sn:4.0,2,8.0
+mp-2133.cif,"Zn, O",Zn:2.0; O:2.0,2,4.0
+mp-21336.cif,"Ta, Fe, P",Ta:4.0; Fe:4.0; P:4.0,3,12.0
+mp-21340.cif,"Hf, Ge, Pt",Hf:4.0; Ge:4.0; Pt:4.0,3,12.0
+mp-21342.cif,"V, Sn",V:6.0; Sn:2.0,2,8.0
+mp-21347.cif,"Co, B, Mo",Co:4.0; B:4.0; Mo:4.0,3,12.0
+mp-21359.cif,"Sb, Rh",Sb:4.0; Rh:8.0,2,12.0
+mp-2136.cif,"Sb, O",Sb:8.0; O:12.0,2,20.0
+mp-21371.cif,"V, Co, Si",V:4.0; Co:4.0; Si:4.0,3,12.0
+mp-21374.cif,"Cd, In, Te",Cd:2.0; In:4.0; Te:8.0,3,14.0
+mp-21385.cif,"In, Ni",In:3.0; Ni:2.0,2,5.0
+mp-214.cif,"Zr, Ru",Zr:1.0; Ru:1.0,2,2.0
+mp-21418.cif,"Mn, Sn, Pt",Mn:4.0; Sn:4.0; Pt:4.0,3,12.0
+mp-21422.cif,"Y, Co, C",Y:2.0; Co:2.0; C:2.0,3,6.0
+mp-21434.cif,"Co, C, O",Co:6.0; C:6.0; O:18.0,3,30.0
+mp-21440.cif,"Nb, Cr, Ge",Nb:3.0; Cr:3.0; Ge:3.0,3,9.0
+mp-21447.cif,"Nb, Co, P",Nb:8.0; Co:2.0; P:2.0,3,12.0
+mp-21449.cif,"Nb, Co, P",Nb:4.0; Co:4.0; P:4.0,3,12.0
+mp-21464.cif,"Co, Re, B",Co:4.0; Re:4.0; B:4.0,3,12.0
+mp-21467.cif,"Ti, Co, Sn",Ti:4.0; Co:8.0; Sn:4.0,3,16.0
+mp-21469.cif,"V, Co, Sn",V:4.0; Co:8.0; Sn:4.0,3,16.0
+mp-21471.cif,"Li, Fe, As",Li:2.0; Fe:2.0; As:2.0,3,6.0
+mp-21476.cif,"Fe, N",Fe:8.0; N:4.0,2,12.0
+mp-21495.cif,"Cr, Fe, P",Cr:4.0; Fe:4.0; P:4.0,3,12.0
+mp-215.cif,"Y, Sb",Y:4.0; Sb:4.0,2,8.0
+mp-21503.cif,"Y, Mg, In",Y:3.0; Mg:3.0; In:3.0,3,9.0
+mp-2151.cif,"Mg, Al",Mg:34.0; Al:24.0,2,58.0
+mp-2152.cif,"Y, Ni",Y:1.0; Ni:5.0,2,6.0
+mp-2157.cif,"Co, W",Co:6.0; W:2.0,2,8.0
+mp-216.cif,"Sc, O",Sc:32.0; O:48.0,2,80.0
+mp-2168.cif,"Sn, Se",Sn:4.0; Se:4.0,2,8.0
+mp-2170.cif,"Li, Pt",Li:2.0; Pt:1.0,2,3.0
+mp-2172.cif,"Al, As",Al:4.0; As:4.0,2,8.0
+mp-2173.cif,"P, O",P:8.0; O:20.0,2,28.0
+mp-2176.cif,"Zn, Te",Zn:4.0; Te:4.0,2,8.0
+mp-21845.cif,"Fe, Pd",Fe:1.0; Pd:3.0,2,4.0
+mp-21850.cif,"Fe, Sn, C",Fe:3.0; Sn:1.0; C:1.0,3,5.0
+mp-21851.cif,"Mn, Si, Ir",Mn:4.0; Si:4.0; Ir:4.0,3,12.0
+mp-21855.cif,"V, Cu, Se",V:1.0; Cu:3.0; Se:4.0,3,8.0
+mp-2187.cif,"Ti, Sb",Ti:2.0; Sb:2.0,2,4.0
+mp-21873.cif,"Ni, As",Ni:4.0; As:8.0,2,12.0
+mp-21894.cif,"Li, Sn, Ir",Li:4.0; Sn:16.0; Ir:4.0,3,24.0
+mp-219.cif,"Mo, P",Mo:1.0; P:1.0,2,2.0
+mp-21907.cif,"Nb, Si, As",Nb:2.0; Si:2.0; As:2.0,3,6.0
+mp-21926.cif,"Sr, Fe, O",Sr:8.0; Fe:16.0; O:32.0,3,56.0
+mp-2199.cif,"Fe, Si",Fe:12.0; Si:4.0,2,16.0
+mp-22003.cif,"Na, N",Na:3.0; N:9.0,2,12.0
+mp-2201.cif,"Pb, Se",Pb:4.0; Se:4.0,2,8.0
+mp-22027.cif,"Mn, Sn, Au",Mn:4.0; Sn:4.0; Au:4.0,3,12.0
+mp-22033.cif,"Ti, Sb",Ti:20.0; Sb:12.0,2,32.0
+mp-22036.cif,"Zr, Sb, Pd",Zr:4.0; Sb:4.0; Pd:4.0,3,12.0
+mp-22040.cif,"Sn, Ir",Sn:28.0; Ir:12.0,2,40.0
+mp-22050.cif,"Hf, In",Hf:4.0; In:10.0,2,14.0
+mp-22060.cif,"Nb, In",Nb:6.0; In:2.0,2,8.0
+mp-22086.cif,"Ba, W, O",Ba:12.0; W:4.0; O:24.0,3,40.0
+mp-22095.cif,"Ga, Pt",Ga:8.0; Pt:4.0,2,12.0
+mp-2210.cif,"Zr, Cu",Zr:1.0; Cu:1.0,2,2.0
+mp-2211.cif,"V, Pt",V:6.0; Pt:2.0,2,8.0
+mp-2212.cif,"Sc, Co",Sc:1.0; Co:1.0,2,2.0
+mp-22120.cif,"Y, Rh, C",Y:1.0; Rh:3.0; C:1.0,3,5.0
+mp-2213.cif,"Fe, Ni",Fe:1.0; Ni:1.0,2,2.0
+mp-22144.cif,"Ta, In, C",Ta:4.0; In:2.0; C:2.0,3,8.0
+mp-22150.cif,"Zr, In, Co",Zr:4.0; In:2.0; Co:4.0,3,10.0
+mp-22151.cif,"Ba, Ge, Pt",Ba:4.0; Ge:4.0; Pt:4.0,3,12.0
+mp-22152.cif,"Na, Fe, As",Na:2.0; Fe:2.0; As:2.0,3,6.0
+mp-22154.cif,"In, Au",In:8.0; Au:4.0,2,12.0
+mp-22156.cif,"Hf, In, C",Hf:4.0; In:2.0; C:2.0,3,8.0
+mp-22167.cif,"Zr, Ga, Co",Zr:6.0; Ga:2.0; Co:1.0,3,9.0
+mp-22179.cif,"Y, Ti, Si",Y:2.0; Ti:2.0; Si:2.0,3,6.0
+mp-22191.cif,"Hf, Fe, Ge",Hf:3.0; Fe:3.0; Ge:3.0,3,9.0
+mp-22204.cif,"Co, P",Co:8.0; P:4.0,2,12.0
+mp-2221.cif,"Zr, Ag",Zr:4.0; Ag:2.0,2,6.0
+mp-22227.cif,"Zr, Mn, Si",Zr:4.0; Mn:4.0; Si:4.0,3,12.0
+mp-2225.cif,"Be, Fe",Be:8.0; Fe:4.0,2,12.0
+mp-22253.cif,"Zn, In, S",Zn:1.0; In:2.0; S:4.0,3,7.0
+mp-22258.cif,"Hf, Si, Mo",Hf:4.0; Si:4.0; Mo:4.0,3,12.0
+mp-22260.cif,"Y, Mn, Sn",Y:1.0; Mn:6.0; Sn:6.0,3,13.0
+mp-22262.cif,"Co, Mo, P",Co:4.0; Mo:4.0; P:4.0,3,12.0
+mp-22268.cif,"Zr, P, Ru",Zr:4.0; P:4.0; Ru:4.0,3,12.0
+mp-22270.cif,"Co, P",Co:4.0; P:4.0,2,8.0
+mp-22275.cif,"Y, Sn, Pt",Y:4.0; Sn:4.0; Pt:4.0,3,12.0
+mp-22284.cif,"Sr, In, Pt",Sr:4.0; In:4.0; Pt:4.0,3,12.0
+mp-22287.cif,"Nb, Ge, Ir",Nb:4.0; Ge:4.0; Ir:4.0,3,12.0
+mp-22302.cif,"Zr, V, P",Zr:4.0; V:4.0; P:4.0,3,12.0
+mp-22304.cif,"Cd, In, Se",Cd:2.0; In:4.0; Se:8.0,3,14.0
+mp-22309.cif,"Co, Se",Co:4.0; Se:8.0,2,12.0
+mp-2231.cif,"Sn, S",Sn:4.0; S:4.0,2,8.0
+mp-22315.cif,"Hf, Co, Sn",Hf:6.0; Co:6.0; Sn:6.0,3,18.0
+mp-22318.cif,"Sr, Al",Sr:4.0; Al:8.0,2,12.0
+mp-22320.cif,"Ga, Ru",Ga:1.0; Ru:1.0,2,2.0
+mp-22325.cif,"P, Pb, O",P:8.0; Pb:8.0; O:28.0,3,44.0
+mp-22344.cif,"Sn, Ru",Sn:28.0; Ru:12.0,2,40.0
+mp-22346.cif,"Ba, Ge, Pt",Ba:2.0; Ge:6.0; Pt:2.0,3,10.0
+mp-22390.cif,"Sr, Ru, O",Sr:4.0; Ru:4.0; O:12.0,3,20.0
+mp-22391.cif,"Sr, V, O",Sr:6.0; V:4.0; O:14.0,3,24.0
+mp-22396.cif,"Nb, Si, Ni",Nb:8.0; Si:2.0; Ni:2.0,3,12.0
+mp-22408.cif,"Co, O",Co:4.0; O:4.0,2,8.0
+mp-22414.cif,"Cu, Se, O",Cu:4.0; Se:4.0; O:12.0,3,20.0
+mp-22426.cif,"Sc, Si, Ni",Sc:4.0; Si:4.0; Ni:4.0,3,12.0
+mp-2243.cif,"Nb, S",Nb:1.0; S:1.0,2,2.0
+mp-22434.cif,"Hf, Fe, P",Hf:4.0; Fe:4.0; P:4.0,3,12.0
+mp-22444.cif,"Ta, Fe, P",Ta:8.0; Fe:2.0; P:2.0,3,12.0
+mp-22447.cif,"Zr, P",Zr:24.0; P:8.0,2,32.0
+mp-22461.cif,"Fe, Sn",Fe:3.0; Sn:1.0,2,4.0
+mp-22469.cif,"In, Ni",In:2.0; Ni:6.0,2,8.0
+mp-22474.cif,"Na, Co, O",Na:4.0; Co:8.0; O:16.0,3,28.0
+mp-22478.cif,"Fe, Ge",Fe:3.0; Ge:3.0,2,6.0
+mp-22489.cif,"Hf, Cu, Si",Hf:4.0; Cu:4.0; Si:4.0,3,12.0
+mp-22493.cif,"Y, In, Au",Y:4.0; In:4.0; Au:8.0,3,16.0
+mp-22498.cif,"Cr, Sb",Cr:2.0; Sb:4.0,2,6.0
+mp-2250.cif,"Zr, Ni",Zr:8.0; Ni:16.0,2,24.0
+mp-22508.cif,"Y, Mn",Y:2.0; Mn:24.0,2,26.0
+mp-2251.cif,"Li, N",Li:3.0; N:1.0,2,4.0
+mp-2252.cif,"Sc, B",Sc:1.0; B:2.0,2,3.0
+mp-22522.cif,"Zr, Cu, Si",Zr:4.0; Cu:4.0; Si:4.0,3,12.0
+mp-22535.cif,"Hf, Pb, O",Hf:1.0; Pb:1.0; O:3.0,3,5.0
+mp-22546.cif,"Co, As, Rh",Co:4.0; As:4.0; Rh:4.0,3,12.0
+mp-22565.cif,"Mn, Si, Rh",Mn:4.0; Si:4.0; Rh:4.0,3,12.0
+mp-22566.cif,"Tl, In, S",Tl:3.0; In:3.0; S:6.0,3,12.0
+mp-22568.cif,"V, Ga",V:6.0; Ga:2.0,2,8.0
+mp-2258.cif,"Cu, Au",Cu:3.0; Au:1.0,2,4.0
+mp-22592.cif,"Ca, Ti, Cu, O",Ca:2.0; Ti:8.0; Cu:6.0; O:24.0,4,40.0
+mp-22598.cif,"In, O",In:32.0; O:48.0,2,80.0
+mp-226.cif,"Fe, S",Fe:4.0; S:8.0,2,12.0
+mp-2260.cif,"Fe, Pt",Fe:1.0; Pt:1.0,2,2.0
+mp-22607.cif,"Zn, In, Se",Zn:2.0; In:4.0; Se:8.0,3,14.0
+mp-22608.cif,"Ca, V, O",Ca:4.0; V:4.0; O:12.0,3,20.0
+mp-22617.cif,"Y, Ni, Sn",Y:4.0; Ni:4.0; Sn:4.0,3,12.0
+mp-22619.cif,"Ni, P",Ni:4.0; P:8.0,2,12.0
+mp-2263.cif,"Sc, Ir",Sc:8.0; Ir:16.0,2,24.0
+mp-22631.cif,"Co, N",Co:4.0; N:2.0,2,6.0
+mp-22636.cif,"Ta, Ni, Ge",Ta:4.0; Ni:4.0; Ge:4.0,3,12.0
+mp-22637.cif,"Hf, Nb, P",Hf:4.0; Nb:4.0; P:4.0,3,12.0
+mp-22646.cif,"In, Pd",In:4.0; Pd:8.0,2,12.0
+mp-22662.cif,"Ti, Ga, Pt",Ti:2.0; Ga:2.0; Pt:2.0,3,6.0
+mp-22682.cif,"In, Pt",In:8.0; Pt:4.0,2,12.0
+mp-22700.cif,"V, Se",V:6.0; Se:8.0,2,14.0
+mp-22716.cif,"Li, Cu, P",Li:2.0; Cu:4.0; P:2.0,3,8.0
+mp-22717.cif,"Ca, In, Pd",Ca:4.0; In:8.0; Pd:4.0,3,16.0
+mp-22722.cif,"Nb, Si, Pd",Nb:4.0; Si:4.0; Pd:4.0,3,12.0
+mp-22735.cif,"Ca, Sn",Ca:8.0; Sn:4.0,2,12.0
+mp-22749.cif,"Mn, C",Mn:20.0; C:8.0,2,28.0
+mp-22752.cif,"Fe, Sn",Fe:4.0; Sn:8.0,2,12.0
+mp-22759.cif,"Co, B, W",Co:4.0; B:4.0; W:4.0,3,12.0
+mp-22769.cif,"Ti, Co, Ge",Ti:3.0; Co:3.0; Ge:3.0,3,9.0
+mp-22773.cif,"Cu, W, O",Cu:2.0; W:2.0; O:8.0,3,12.0
+mp-22784.cif,"In, Ni",In:1.0; Ni:3.0,2,4.0
+mp-22787.cif,"Fe, Si",Fe:4.0; Si:2.0,2,6.0
+mp-22792.cif,"Mn, Te, Pd",Mn:4.0; Te:4.0; Pd:4.0,3,12.0
+mp-22793.cif,"Al, Fe, C",Al:1.0; Fe:3.0; C:1.0,3,5.0
+mp-22795.cif,"Pb, Au",Pb:8.0; Au:4.0,2,12.0
+mp-2280.cif,"Cu, Se",Cu:4.0; Se:8.0,2,12.0
+mp-2283.cif,"Zr, Co",Zr:1.0; Co:1.0,2,2.0
+mp-2286.cif,"Li, Se",Li:8.0; Se:4.0,2,12.0
+mp-22862.cif,"Na, Cl",Na:4.0; Cl:4.0,2,8.0
+mp-22864.cif,"Bi, Pt",Bi:8.0; Pt:4.0,2,12.0
+mp-22865.cif,"Cs, Cl",Cs:1.0; Cl:1.0,2,2.0
+mp-22867.cif,"Rb, Br",Rb:4.0; Br:4.0,2,8.0
+mp-2287.cif,"Si, Rh",Si:4.0; Rh:4.0,2,8.0
+mp-22870.cif,"In, Br",In:4.0; Br:4.0,2,8.0
+mp-22875.cif,"Tl, Br",Tl:1.0; Br:1.0,2,2.0
+mp-22888.cif,"Ca, Br",Ca:2.0; Br:4.0,2,6.0
+mp-22889.cif,"Zn, Cl",Zn:4.0; Cl:8.0,2,12.0
+mp-22894.cif,"Ag, I",Ag:2.0; I:2.0,2,4.0
+mp-22895.cif,"Cu, I",Cu:4.0; I:4.0,2,8.0
+mp-22898.cif,"K, I",K:4.0; I:4.0,2,8.0
+mp-22899.cif,"Li, I",Li:4.0; I:4.0,2,8.0
+mp-229.cif,"Zr, Rh",Zr:1.0; Rh:3.0,2,4.0
+mp-22903.cif,"Rb, I",Rb:4.0; I:4.0,2,8.0
+mp-22904.cif,"Ca, Cl",Ca:2.0; Cl:4.0,2,6.0
+mp-22905.cif,"Li, Cl",Li:4.0; Cl:4.0,2,8.0
+mp-22909.cif,"Zn, Cl",Zn:4.0; Cl:8.0,2,12.0
+mp-22913.cif,"Cu, Br",Cu:4.0; Br:4.0,2,8.0
+mp-22914.cif,"Cu, Cl",Cu:4.0; Cl:4.0,2,8.0
+mp-22916.cif,"Na, Br",Na:4.0; Br:4.0,2,8.0
+mp-22919.cif,"Ag, I",Ag:4.0; I:4.0,2,8.0
+mp-22922.cif,"Ag, Cl",Ag:4.0; Cl:4.0,2,8.0
+mp-22925.cif,"Ag, I",Ag:4.0; I:4.0,2,8.0
+mp-22934.cif,"K, Pt, Cl",K:2.0; Pt:1.0; Cl:4.0,3,7.0
+mp-2294.cif,"Al, Ir",Al:6.0; Ir:2.0,2,8.0
+mp-22956.cif,"K, Pd, Cl",K:2.0; Pd:1.0; Cl:4.0,3,7.0
+mp-22967.cif,"Li, Fe, Br",Li:4.0; Fe:2.0; Br:8.0,3,14.0
+mp-22980.cif,"Li, Co, Cl",Li:4.0; Co:2.0; Cl:8.0,3,14.0
+mp-22987.cif,"Bi, I, O",Bi:2.0; I:2.0; O:2.0,3,6.0
+mp-22992.cif,"Ti, Cl, O",Ti:2.0; Cl:2.0; O:2.0,3,6.0
+mp-23.cif,Ni,Ni:4.0,1,4.0
+mp-230.cif,"Sb, O",Sb:8.0; O:16.0,2,24.0
+mp-23002.cif,"Ti, Br, O",Ti:2.0; Br:2.0; O:2.0,3,6.0
+mp-2301.cif,"Ni, P",Ni:8.0; P:24.0,2,32.0
+mp-23034.cif,"Sr, Zn, Cl",Sr:4.0; Zn:4.0; Cl:16.0,3,24.0
+mp-23037.cif,"Cs, Pb, Cl",Cs:1.0; Pb:1.0; Cl:3.0,3,5.0
+mp-23044.cif,"V, Bi, O",V:4.0; Bi:4.0; O:16.0,3,24.0
+mp-2305.cif,"Mo, C",Mo:1.0; C:1.0,2,2.0
+mp-23052.cif,"Zr, I, N",Zr:2.0; I:2.0; N:2.0,3,6.0
+mp-23054.cif,"Na, Bi, O",Na:6.0; Bi:6.0; O:18.0,3,30.0
+mp-23056.cif,"Sr, Br, N",Sr:6.0; Br:3.0; N:3.0,3,12.0
+mp-23060.cif,"Cs, Pt, I",Cs:8.0; Pt:4.0; I:24.0,3,36.0
+mp-23061.cif,"V, Cl, O",V:2.0; Cl:2.0; O:2.0,3,6.0
+mp-23067.cif,"K, Pd, Cl",K:8.0; Pd:4.0; Cl:24.0,3,36.0
+mp-2310.cif,"Cd, O",Cd:4.0; O:8.0,2,12.0
+mp-2311.cif,"Nb, O",Nb:3.0; O:3.0,2,6.0
+mp-2313.cif,"Mg, In",Mg:1.0; In:1.0,2,2.0
+mp-23152.cif,Bi,Bi:6.0,1,6.0
+mp-2318.cif,"Nb, C",Nb:2.0; C:1.0,2,3.0
+mp-23193.cif,"K, Cl",K:4.0; Cl:4.0,2,8.0
+mp-23195.cif,"Bi, O",Bi:8.0; O:12.0,2,20.0
+mp-23202.cif,"In, I",In:4.0; I:4.0,2,8.0
+mp-23209.cif,"Sr, Cl",Sr:4.0; Cl:8.0,2,12.0
+mp-23214.cif,"Ca, Cl",Ca:2.0; Cl:4.0,2,6.0
+mp-23219.cif,"Cu, Br",Cu:2.0; Br:4.0,2,6.0
+mp-2322.cif,"Y, Al",Y:8.0; Al:16.0,2,24.0
+mp-23227.cif,"Cu, Br",Cu:2.0; Br:2.0,2,4.0
+mp-2323.cif,"Be, Cu",Be:1.0; Cu:1.0,2,2.0
+mp-23231.cif,"Ag, Br",Ag:4.0; Br:4.0,2,8.0
+mp-23251.cif,"K, Br",K:4.0; Br:4.0,2,8.0
+mp-23259.cif,"Li, Br",Li:4.0; Br:4.0,2,8.0
+mp-23260.cif,"Ba, I",Ba:4.0; I:8.0,2,12.0
+mp-23262.cif,"Bi, O",Bi:8.0; O:12.0,2,20.0
+mp-23268.cif,"Na, I",Na:4.0; I:4.0,2,8.0
+mp-2327.cif,"Ti, Zn",Ti:4.0; Zn:64.0,2,68.0
+mp-23295.cif,"Rb, Cl",Rb:4.0; Cl:4.0,2,8.0
+mp-23313.cif,"In, Bi",In:2.0; Bi:2.0,2,4.0
+mp-23350.cif,"Rb, Pt, Cl",Rb:8.0; Pt:4.0; Cl:24.0,3,36.0
+mp-2337.cif,"Hf, Co",Hf:8.0; Co:16.0,2,24.0
+mp-2339.cif,"Ti, Pt",Ti:6.0; Pt:2.0,2,8.0
+mp-2340.cif,"Na, O",Na:6.0; O:6.0,2,12.0
+mp-23406.cif,"Cs, Pt, Cl",Cs:8.0; Pt:4.0; Cl:24.0,3,36.0
+mp-2343.cif,"Mg, Sn",Mg:8.0; Sn:4.0,2,12.0
+mp-23431.cif,"Cs, Cu, I",Cs:4.0; Cu:8.0; I:12.0,3,24.0
+mp-23477.cif,"Mn, Bi, O",Mn:8.0; Bi:8.0; O:24.0,3,40.0
+mp-2348.cif,"Zr, Au",Zr:4.0; Au:2.0,2,6.0
+mp-23480.cif,"Bi, W, O",Bi:8.0; W:4.0; O:24.0,3,36.0
+mp-23485.cif,"Ag, Hg, I",Ag:4.0; Hg:2.0; I:8.0,3,14.0
+mp-2349.cif,"Y, Cd",Y:4.0; Cd:12.0,2,16.0
+mp-23501.cif,"Fe, Bi, O",Fe:6.0; Bi:6.0; O:18.0,3,30.0
+mp-23506.cif,"V, Bi, O",V:4.0; Bi:4.0; O:16.0,3,24.0
+mp-23513.cif,"K, Pt, Cl",K:8.0; Pt:4.0; Cl:24.0,3,36.0
+mp-2352.cif,"Na, O",Na:8.0; O:4.0,2,12.0
+mp-2354.cif,"Ti, Hg",Ti:6.0; Hg:2.0,2,8.0
+mp-23560.cif,"Ge, Bi, O",Ge:12.0; Bi:16.0; O:48.0,3,76.0
+mp-2361.cif,"Hf, Al",Hf:10.0; Al:6.0,2,16.0
+mp-2363.cif,"Hf, Mo",Hf:8.0; Mo:16.0,2,24.0
+mp-2369.cif,"Sn, Pd",Sn:4.0; Pd:4.0,2,8.0
+mp-23703.cif,"Li, H",Li:4.0; H:4.0,2,8.0
+mp-23709.cif,"Mg, Al, H",Mg:1.0; Al:2.0; H:8.0,3,11.0
+mp-2371.cif,"Ga, Te",Ga:4.0; Te:10.0,2,14.0
+mp-23710.cif,"Mg, H",Mg:2.0; H:4.0,2,6.0
+mp-23711.cif,"Mg, H",Mg:4.0; H:8.0,2,12.0
+mp-23713.cif,"Ca, H",Ca:4.0; H:8.0,2,12.0
+mp-23714.cif,"Sr, H",Sr:4.0; H:8.0,2,12.0
+mp-23715.cif,"Ba, H",Ba:4.0; H:8.0,2,12.0
+mp-23736.cif,"Li, Mg, H",Li:6.0; Mg:6.0; H:18.0,3,30.0
+mp-23737.cif,"K, Mg, H",K:1.0; Mg:1.0; H:3.0,3,5.0
+mp-23752.cif,"Cs, Mg, H",Cs:4.0; Mg:2.0; H:8.0,3,14.0
+mp-2379.cif,"Co, Si",Co:4.0; Si:8.0,2,12.0
+mp-23804.cif,"Mg, Fe, H",Mg:8.0; Fe:4.0; H:24.0,3,36.0
+mp-23807.cif,"Al, H, O",Al:2.0; H:2.0; O:4.0,3,8.0
+mp-2385.cif,"Ta, Cr",Ta:8.0; Cr:16.0,2,24.0
+mp-239.cif,"Ba, S",Ba:2.0; S:6.0,2,8.0
+mp-2395.cif,"Sb, Rh",Sb:24.0; Rh:8.0,2,32.0
+mp-23956.cif,"K, Mg, H",K:4.0; Mg:2.0; H:8.0,3,14.0
+mp-2399.cif,"Y, Hg",Y:1.0; Hg:1.0,2,2.0
+mp-2403.cif,"Y, Pt",Y:1.0; Pt:3.0,2,4.0
+mp-2404.cif,"Ca, Al",Ca:8.0; Al:16.0,2,24.0
+mp-2406.cif,"Mg, Pd",Mg:20.0; Pd:8.0,2,28.0
+mp-24084.cif,"K, H",K:4.0; H:4.0,2,8.0
+mp-24093.cif,"Cu, H",Cu:2.0; H:2.0,2,4.0
+mp-241.cif,"Cd, F",Cd:4.0; F:8.0,2,12.0
+mp-2410.cif,"Sr, Ag",Sr:1.0; Ag:5.0,2,6.0
+mp-24154.cif,"Nb, H",Nb:4.0; H:8.0,2,12.0
+mp-2420.cif,"P, W",P:4.0; W:4.0,2,8.0
+mp-24237.cif,"Sc, H",Sc:4.0; H:8.0,2,12.0
+mp-24286.cif,"Zr, H",Zr:2.0; H:4.0,2,6.0
+mp-24289.cif,"H, Pd",H:4.0; Pd:4.0,2,8.0
+mp-2430.cif,"Zr, Ge",Zr:4.0; Ge:8.0,2,12.0
+mp-2432.cif,"Ca, Mg",Ca:4.0; Mg:8.0,2,12.0
+mp-24409.cif,"P, H, I",P:2.0; H:8.0; I:2.0,3,12.0
+mp-2444.cif,"Ga, Rh",Ga:1.0; Rh:1.0,2,2.0
+mp-2449.cif,"Nb, Rh",Nb:1.0; Rh:3.0,2,4.0
+mp-2451.cif,"Y, Al",Y:9.0; Al:27.0,2,36.0
+mp-2454.cif,"Ti, Fe",Ti:4.0; Fe:8.0,2,12.0
+mp-246.cif,"Ti, F",Ti:1.0; F:3.0,2,4.0
+mp-2469.cif,"Cd, S",Cd:4.0; S:4.0,2,8.0
+mp-24719.cif,"Ni, H",Ni:4.0; H:4.0,2,8.0
+mp-2472.cif,"Sr, O",Sr:4.0; O:4.0,2,8.0
+mp-24726.cif,"Ti, H",Ti:2.0; H:4.0,2,6.0
+mp-24728.cif,"V, H",V:4.0; H:8.0,2,12.0
+mp-2478.cif,"Nb, Si",Nb:3.0; Si:6.0,2,9.0
+mp-248.cif,"Fe, N",Fe:6.0; N:3.0,2,9.0
+mp-2481.cif,"Mg, Cu",Mg:32.0; Cu:16.0,2,48.0
+mp-2488.cif,"Si, Os",Si:4.0; Os:4.0,2,8.0
+mp-249.cif,"Hf, Al",Hf:4.0; Al:4.0,2,8.0
+mp-2490.cif,"Ga, P",Ga:4.0; P:4.0,2,8.0
+mp-2500.cif,"Al, Cu",Al:10.0; Cu:10.0,2,20.0
+mp-2501.cif,"B, Mo",B:4.0; Mo:8.0,2,12.0
+mp-2513.cif,"As, Pt",As:8.0; Pt:4.0,2,12.0
+mp-2515.cif,"Cr, Pt",Cr:1.0; Pt:3.0,2,4.0
+mp-2516.cif,"Y, Zn",Y:1.0; Zn:1.0,2,2.0
+mp-2517.cif,"Ca, Si",Ca:8.0; Si:4.0,2,12.0
+mp-25275.cif,"Mn, O",Mn:16.0; O:32.0,2,48.0
+mp-253.cif,"Sc, Co",Sc:8.0; Co:16.0,2,24.0
+mp-2533.cif,"Nb, O",Nb:2.0; O:4.0,2,6.0
+mp-2534.cif,"Ga, As",Ga:4.0; As:4.0,2,8.0
+mp-2536.cif,"Ni, B",Ni:8.0; B:4.0,2,12.0
+mp-25372.cif,"Li, Cu, O",Li:3.0; Cu:3.0; O:6.0,3,12.0
+mp-2540.cif,"V, Tc",V:1.0; Tc:1.0,2,2.0
+mp-25417.cif,"Li, Ti, O",Li:3.0; Ti:3.0; O:6.0,3,12.0
+mp-2542.cif,"Be, O",Be:2.0; O:2.0,2,4.0
+mp-25424.cif,"Mn, O",Mn:3.0; O:6.0,2,9.0
+mp-25433.cif,"Ti, O",Ti:3.0; O:6.0,2,9.0
+mp-255.cif,"Na, Hg",Na:8.0; Hg:8.0,2,16.0
+mp-2552.cif,"Te, O",Te:6.0; O:18.0,2,24.0
+mp-2553.cif,"Hf, Be",Hf:1.0; Be:2.0,2,3.0
+mp-2554.cif,"Al, V",Al:6.0; V:2.0,2,8.0
+mp-2557.cif,"Zr, Al",Zr:4.0; Al:2.0,2,6.0
+mp-2560.cif,"Ti, Hg",Ti:3.0; Hg:1.0,2,4.0
+mp-2562.cif,"Mn, S",Mn:2.0; S:2.0,2,4.0
+mp-2567.cif,"V, Si",V:6.0; Si:2.0,2,8.0
+mp-2572.cif,"Sr, Mg",Sr:4.0; Mg:8.0,2,12.0
+mp-2574.cif,"Zr, O",Zr:2.0; O:4.0,2,6.0
+mp-2578.cif,"Ni, Te",Ni:1.0; Te:2.0,2,3.0
+mp-258.cif,"Zr, V",Zr:8.0; V:16.0,2,24.0
+mp-2580.cif,"Nb, B",Nb:4.0; B:4.0,2,8.0
+mp-2582.cif,"Ti, Si",Ti:8.0; Si:16.0,2,24.0
+mp-2583.cif,"Ti, Rh",Ti:1.0; Rh:1.0,2,2.0
+mp-2588.cif,"Y, Co",Y:9.0; Co:27.0,2,36.0
+mp-25886.cif,"Cu, P, O",Cu:8.0; P:8.0; O:32.0,3,48.0
+mp-2589.cif,"Mg, O",Mg:4.0; O:8.0,2,12.0
+mp-259.cif,"Al, Mo",Al:2.0; Mo:6.0,2,8.0
+mp-2592.cif,"Si, Mo",Si:4.0; Mo:2.0,2,6.0
+mp-2598.cif,"Ta, Sb",Ta:10.0; Sb:8.0,2,18.0
+mp-26025.cif,"Li, Fe, P, O",Li:8.0; Fe:4.0; P:8.0; O:28.0,4,48.0
+mp-2604.cif,"Mg, Te",Mg:4.0; Te:8.0,2,12.0
+mp-2605.cif,"Ca, O",Ca:4.0; O:4.0,2,8.0
+mp-2606.cif,"Ba, Pd",Ba:1.0; Pd:5.0,2,6.0
+mp-2612.cif,"Ge, Te",Ge:4.0; Te:4.0,2,8.0
+mp-2614.cif,"Hf, Al",Hf:2.0; Al:6.0,2,8.0
+mp-2619.cif,"Fe, Sb",Fe:2.0; Sb:2.0,2,4.0
+mp-2624.cif,"Al, Sb",Al:4.0; Sb:4.0,2,8.0
+mp-2634.cif,"Nb, N",Nb:1.0; N:1.0,2,2.0
+mp-2643.cif,"Ti, Cu",Ti:6.0; Cu:8.0,2,14.0
+mp-2644.cif,"Co, Sb",Co:2.0; Sb:2.0,2,4.0
+mp-2646.cif,"Mg, Sb",Mg:3.0; Sb:2.0,2,5.0
+mp-2647.cif,"Al, Au",Al:8.0; Au:4.0,2,12.0
+mp-265.cif,"Ta, Ir",Ta:1.0; Ir:3.0,2,4.0
+mp-2652.cif,"Y, O",Y:32.0; O:48.0,2,80.0
+mp-2653.cif,"B, N",B:2.0; N:2.0,2,4.0
+mp-2654.cif,"Al, S",Al:12.0; S:18.0,2,30.0
+mp-2657.cif,"Ti, O",Ti:2.0; O:4.0,2,6.0
+mp-2658.cif,"Al, Fe",Al:1.0; Fe:1.0,2,2.0
+mp-2659.cif,"Li, N",Li:2.0; N:6.0,2,8.0
+mp-266.cif,"Zr, Pd",Zr:4.0; Pd:2.0,2,6.0
+mp-2663.cif,"Nb, Pt",Nb:6.0; Pt:2.0,2,8.0
+mp-2667.cif,"Cs, Au",Cs:1.0; Au:1.0,2,2.0
+mp-2670.cif,"Nb, Ga",Nb:6.0; Ga:2.0,2,8.0
+mp-2672.cif,"K, O",K:8.0; O:8.0,2,16.0
+mp-2674.cif,"Y, Pt",Y:8.0; Pt:16.0,2,24.0
+mp-2676.cif,"Ta, Be",Ta:8.0; Be:16.0,2,24.0
+mp-2677.cif,"Sc, Pd",Sc:1.0; Pd:3.0,2,4.0
+mp-2682.cif,"Sb, Rh",Sb:8.0; Rh:4.0,2,12.0
+mp-2685.cif,"Hg, Pd",Hg:1.0; Pd:1.0,2,2.0
+mp-2691.cif,"Cd, Se",Cd:4.0; Se:4.0,2,8.0
+mp-2695.cif,"Sb, Os",Sb:4.0; Os:2.0,2,6.0
+mp-2696.cif,"Mg, Ag",Mg:1.0; Ag:1.0,2,2.0
+mp-2697.cif,"Sr, O",Sr:2.0; O:4.0,2,6.0
+mp-2698.cif,"Y, Cu",Y:4.0; Cu:8.0,2,12.0
+mp-2700.cif,"Ca, Si",Ca:3.0; Si:6.0,2,9.0
+mp-2701.cif,"Nb, N",Nb:2.0; N:2.0,2,4.0
+mp-2705.cif,"V, Pt",V:2.0; Pt:6.0,2,8.0
+mp-27138.cif,"K, Pd, Br",K:2.0; Pd:1.0; Br:4.0,3,7.0
+mp-27148.cif,"Be, P",Be:16.0; P:32.0,2,48.0
+mp-2715.cif,"Co, As",Co:4.0; As:8.0,2,12.0
+mp-27164.cif,"Fe, P",Fe:6.0; P:24.0,2,30.0
+mp-27207.cif,"K, Mg, Cl",K:4.0; Mg:2.0; Cl:8.0,3,14.0
+mp-27226.cif,"Mg, Cu, O",Mg:2.0; Cu:4.0; O:6.0,3,12.0
+mp-2723.cif,"Ir, O",Ir:2.0; O:4.0,2,6.0
+mp-27243.cif,"K, Pt, Br",K:2.0; Pt:1.0; Br:4.0,3,7.0
+mp-27255.cif,"Ga, Te, S",Ga:8.0; Te:4.0; S:8.0,3,20.0
+mp-27275.cif,"Li, B, O",Li:12.0; B:4.0; O:12.0,3,28.0
+mp-2730.cif,"Hg, Te",Hg:4.0; Te:4.0,2,8.0
+mp-2731.cif,"Ti, Ga",Ti:2.0; Ga:6.0,2,8.0
+mp-2733.cif,"Al, Mo",Al:16.0; Mo:6.0,2,22.0
+mp-27335.cif,"Na, Al, Si",Na:2.0; Al:2.0; Si:2.0,3,6.0
+mp-27393.cif,"Al, Pd, I",Al:2.0; Pd:10.0; I:4.0,3,16.0
+mp-274.cif,"Nb, Sb",Nb:10.0; Sb:8.0,2,18.0
+mp-2741.cif,"Ca, F",Ca:4.0; F:8.0,2,12.0
+mp-2743.cif,"Li, Pd",Li:1.0; Pd:1.0,2,2.0
+mp-2744.cif,"Li, Pd",Li:1.0; Pd:1.0,2,2.0
+mp-27456.cif,"Ba, Br",Ba:4.0; Br:8.0,2,12.0
+mp-27471.cif,"Nb, P, S",Nb:4.0; P:4.0; S:4.0,3,12.0
+mp-2749.cif,"Ti, Be",Ti:8.0; Be:16.0,2,24.0
+mp-27505.cif,"Fe, Sn",Fe:18.0; Sn:12.0,2,30.0
+mp-2752.cif,"Nb, Au",Nb:6.0; Au:2.0,2,8.0
+mp-27545.cif,"V, H, O",V:4.0; H:8.0; O:12.0,3,24.0
+mp-27577.cif,"Cd, As, I",Cd:8.0; As:12.0; I:4.0,3,24.0
+mp-2758.cif,"Sr, Se",Sr:4.0; Se:4.0,2,8.0
+mp-2760.cif,"Nb, C",Nb:12.0; C:10.0,2,22.0
+mp-27606.cif,"Zr, As",Zr:4.0; As:8.0,2,12.0
+mp-2762.cif,"Y, Ir",Y:8.0; Ir:16.0,2,24.0
+mp-27660.cif,"Ba, Fe, S",Ba:2.0; Fe:4.0; S:8.0,3,14.0
+mp-2767.cif,"Ti, Ga",Ti:1.0; Ga:1.0,2,2.0
+mp-27677.cif,"K, Cu, S",K:1.0; Cu:4.0; S:3.0,3,8.0
+mp-27678.cif,"Y, Cl",Y:8.0; Cl:12.0,2,20.0
+mp-27691.cif,"K, Pt, Br",K:8.0; Pt:4.0; Br:24.0,3,36.0
+mp-2772.cif,"Zr, Al",Zr:4.0; Al:8.0,2,12.0
+mp-27726.cif,"S, O",S:4.0; O:8.0,2,12.0
+mp-2773.cif,"Be, Co",Be:1.0; Co:1.0,2,2.0
+mp-27731.cif,"Hf, H",Hf:2.0; H:4.0,2,6.0
+mp-27743.cif,"Bi, F",Bi:2.0; F:10.0,2,12.0
+mp-27747.cif,"Pd, I",Pd:4.0; I:8.0,2,12.0
+mp-2775.cif,"Sr, Al",Sr:2.0; Al:8.0,2,10.0
+mp-27757.cif,"Be, B",Be:8.0; B:2.0,2,10.0
+mp-2780.cif,"Fe, Se",Fe:6.0; Se:8.0,2,14.0
+mp-2781.cif,"Sc, Pd",Sc:1.0; Pd:1.0,2,2.0
+mp-27827.cif,"Rb, Ti, Cl",Rb:8.0; Ti:4.0; Cl:24.0,3,36.0
+mp-27828.cif,"Cs, Ti, Cl",Cs:8.0; Ti:4.0; Cl:24.0,3,36.0
+mp-2783.cif,"Ta, Si",Ta:8.0; Si:4.0,2,12.0
+mp-27831.cif,"Rb, Zr, Cl",Rb:8.0; Zr:4.0; Cl:24.0,3,36.0
+mp-27834.cif,"Tl, Pt, Cl",Tl:8.0; Pt:4.0; Cl:24.0,3,36.0
+mp-27838.cif,"Na, Bi",Na:6.0; Bi:2.0,2,8.0
+mp-27839.cif,"K, Ti, Cl",K:8.0; Ti:4.0; Cl:24.0,3,36.0
+mp-27841.cif,"V, Br, O",V:2.0; Br:2.0; O:2.0,3,6.0
+mp-27848.cif,"Ti, I, N",Ti:2.0; I:2.0; N:2.0,3,6.0
+mp-27888.cif,"Zr, Ge, O",Zr:6.0; Ge:2.0; O:16.0,3,24.0
+mp-27891.cif,"Bi, S, O",Bi:4.0; S:2.0; O:4.0,3,10.0
+mp-27912.cif,"Ni, H, O",Ni:1.0; H:2.0; O:2.0,3,5.0
+mp-27919.cif,"Ti, C",Ti:24.0; C:15.0,2,39.0
+mp-27932.cif,"Li, Ge",Li:36.0; Ge:16.0,2,52.0
+mp-2794.cif,"Fe, C",Fe:20.0; C:8.0,2,28.0
+mp-2795.cif,"Zr, C",Zr:4.0; C:4.0,2,8.0
+mp-2797.cif,"Y, Cu",Y:1.0; Cu:5.0,2,6.0
+mp-2802.cif,"Hf, Ru",Hf:1.0; Ru:1.0,2,2.0
+mp-28020.cif,"Al, Cu, Cl",Al:2.0; Cu:2.0; Cl:8.0,3,12.0
+mp-28024.cif,"Y, Si, Pd",Y:4.0; Si:4.0; Pd:8.0,3,16.0
+mp-2807.cif,"Sc, P",Sc:4.0; P:4.0,2,8.0
+mp-2809.cif,"Sb, S",Sb:8.0; S:12.0,2,20.0
+mp-28110.cif,"Rb, Pt, I",Rb:8.0; Pt:4.0; I:24.0,3,36.0
+mp-28145.cif,"Rb, Pd, Cl",Rb:8.0; Pd:4.0; Cl:24.0,3,36.0
+mp-28163.cif,"K, Pd, F",K:4.0; Pd:2.0; F:8.0,3,14.0
+mp-28230.cif,"Tl, Sb, S",Tl:4.0; Sb:4.0; S:8.0,3,16.0
+mp-2824.cif,"Al, Pd",Al:4.0; Pd:8.0,2,12.0
+mp-28266.cif,"P, Pd",P:8.0; Pd:4.0,2,12.0
+mp-2827.cif,"Y, Co",Y:1.0; Co:5.0,2,6.0
+mp-28270.cif,"K, Cu, S",K:4.0; Cu:4.0; S:4.0,3,12.0
+mp-2828.cif,"Hf, N",Hf:4.0; N:4.0,2,8.0
+mp-2831.cif,"Fe, Pd",Fe:1.0; Pd:1.0,2,2.0
+mp-28319.cif,"Pt, I",Pt:4.0; I:8.0,2,12.0
+mp-28339.cif,"Ca, P, Pt",Ca:4.0; P:4.0; Pt:4.0,3,12.0
+mp-28376.cif,"Cu, Au, F",Cu:1.0; Au:1.0; F:5.0,3,7.0
+mp-284.cif,"Al, Co",Al:1.0; Co:1.0,2,2.0
+mp-2845.cif,"Sb, Pt",Sb:2.0; Pt:2.0,2,4.0
+mp-2851.cif,"V, Sb",V:4.0; Sb:8.0,2,12.0
+mp-2856.cif,"Mn, Al",Mn:4.0; Al:11.0,2,15.0
+mp-2857.cif,"Sc, N",Sc:4.0; N:4.0,2,8.0
+mp-2858.cif,"Zr, O",Zr:4.0; O:8.0,2,12.0
+mp-28645.cif,"Ca, Ni, N",Ca:2.0; Ni:2.0; N:2.0,3,6.0
+mp-28711.cif,"Sb, S, O",Sb:8.0; S:8.0; O:4.0,3,20.0
+mp-28782.cif,"Na, P, S",Na:6.0; P:2.0; S:8.0,3,16.0
+mp-28783.cif,"Co, Re, O",Co:2.0; Re:2.0; O:8.0,3,12.0
+mp-2879.cif,"Sr, Sn, O",Sr:4.0; Sn:4.0; O:12.0,3,20.0
+mp-288.cif,"Pt, S",Pt:2.0; S:2.0,2,4.0
+mp-28895.cif,"Ba, P, Pd",Ba:2.0; P:8.0; Pd:4.0,3,14.0
+mp-28896.cif,"Cu, B, Ir",Cu:16.0; B:16.0; Ir:16.0,3,48.0
+mp-28897.cif,"B, Ir, Pd",B:16.0; Ir:16.0; Pd:16.0,3,48.0
+mp-28901.cif,"Al, Fe, F",Al:2.0; Fe:2.0; F:10.0,3,14.0
+mp-2894.cif,"Sc, Sn, Au",Sc:4.0; Sn:4.0; Au:4.0,3,12.0
+mp-28945.cif,"Si, Ni, P",Si:4.0; Ni:2.0; P:6.0,3,12.0
+mp-2895.cif,"Mg, Si, O",Mg:8.0; Si:4.0; O:16.0,3,28.0
+mp-28980.cif,"K, Bi, Se",K:12.0; Bi:4.0; Se:12.0,3,28.0
+mp-29009.cif,"Li, Mg, Br",Li:4.0; Mg:2.0; Br:8.0,3,14.0
+mp-29011.cif,"Bi, Te, Pd",Bi:4.0; Te:4.0; Pd:4.0,3,12.0
+mp-29066.cif,"Al, Fe, Si",Al:24.0; Fe:16.0; Si:24.0,3,64.0
+mp-29069.cif,"Na, Cu, S",Na:1.0; Cu:4.0; S:4.0,3,9.0
+mp-29076.cif,"Fe, W, N",Fe:2.0; W:2.0; N:4.0,3,8.0
+mp-291.cif,"Ti, Os",Ti:1.0; Os:1.0,2,2.0
+mp-2910.cif,"K, Al, F",K:2.0; Al:2.0; F:8.0,3,12.0
+mp-29111.cif,"Al, Fe, Si",Al:8.0; Fe:12.0; Si:16.0,3,36.0
+mp-29135.cif,"Zr, Co, As",Zr:6.0; Co:1.0; As:2.0,3,9.0
+mp-29145.cif,"H, N",H:12.0; N:4.0,2,16.0
+mp-29152.cif,"Zr, Co, P",Zr:4.0; Co:2.0; P:2.0,3,8.0
+mp-29153.cif,"Zr, Ni, P",Zr:4.0; Ni:2.0; P:2.0,3,8.0
+mp-29154.cif,"Hf, Co, P",Hf:4.0; Co:2.0; P:2.0,3,8.0
+mp-29157.cif,"Si, P, Pt",Si:6.0; P:4.0; Pt:2.0,3,12.0
+mp-2918.cif,"Y, Cu, O",Y:2.0; Cu:2.0; O:4.0,3,8.0
+mp-292.cif,"V, As",V:6.0; As:2.0,2,8.0
+mp-29208.cif,"Ca, Mg, Bi",Ca:1.0; Mg:2.0; Bi:2.0,3,5.0
+mp-29209.cif,"Ba, Mg, Bi",Ba:1.0; Mg:2.0; Bi:2.0,3,5.0
+mp-2930.cif,"Mn, Zn, C",Mn:3.0; Zn:1.0; C:1.0,3,5.0
+mp-2931.cif,"Li, Ti, O",Li:16.0; Ti:8.0; O:24.0,3,48.0
+mp-2932.cif,"Y, Si, Mo",Y:4.0; Si:8.0; Mo:6.0,3,18.0
+mp-29352.cif,"Ba, Pd, O",Ba:4.0; Pd:2.0; O:6.0,3,12.0
+mp-29362.cif,"Ga, Cu, Cl",Ga:2.0; Cu:2.0; Cl:8.0,3,12.0
+mp-29398.cif,"Cs, Hf, I",Cs:8.0; Hf:4.0; I:24.0,3,36.0
+mp-29403.cif,"Ga, Cu, I",Ga:2.0; Cu:2.0; I:8.0,3,12.0
+mp-29481.cif,"Rb, W, Br",Rb:8.0; W:4.0; Br:24.0,3,36.0
+mp-2949.cif,"Ca, Ni, Ge",Ca:2.0; Ni:4.0; Ge:4.0,3,10.0
+mp-2955.cif,"Na, Mg, F",Na:4.0; Mg:4.0; F:12.0,3,20.0
+mp-29556.cif,"Tl, W, Cl",Tl:8.0; W:4.0; Cl:24.0,3,36.0
+mp-29638.cif,"Bi, Te, Pt",Bi:4.0; Te:4.0; Pt:4.0,3,12.0
+mp-29641.cif,"Ge, Sb, Te",Ge:1.0; Sb:4.0; Te:7.0,3,12.0
+mp-29646.cif,"Hf, As",Hf:4.0; As:8.0,2,12.0
+mp-29661.cif,"Si, Pt",Si:10.0; Pt:12.0,2,22.0
+mp-29674.cif,"Al, B, Ru",Al:4.0; B:4.0; Ru:6.0,3,14.0
+mp-29678.cif,"Ag, Bi, S",Ag:3.0; Bi:3.0; S:6.0,3,12.0
+mp-29733.cif,"Mg, Ni, Bi",Mg:4.0; Ni:4.0; Bi:4.0,3,12.0
+mp-29736.cif,"Y, Al, Ge",Y:4.0; Al:4.0; Ge:4.0,3,12.0
+mp-29748.cif,"Te, Pd, I",Te:4.0; Pd:4.0; I:4.0,3,12.0
+mp-29752.cif,"Ni, Ge, Pt",Ni:8.0; Ge:8.0; Pt:16.0,3,32.0
+mp-29889.cif,"Tl, Pd, Cl",Tl:2.0; Pd:1.0; Cl:4.0,3,7.0
+mp-29896.cif,"Y, B, C",Y:4.0; B:6.0; C:4.0,3,14.0
+mp-29898.cif,"Tl, Au, S",Tl:4.0; Au:8.0; S:6.0,3,18.0
+mp-29973.cif,"Sr, N",Sr:8.0; N:8.0,2,16.0
+mp-2998.cif,"Ba, Ti, O",Ba:1.0; Ti:1.0; O:3.0,3,5.0
+mp-30.cif,Cu,Cu:4.0,1,4.0
+mp-30062.cif,"Cs, Pt, Br",Cs:8.0; Pt:4.0; Br:24.0,3,36.0
+mp-30147.cif,"Zr, Ti, As",Zr:4.0; Ti:4.0; As:4.0,3,12.0
+mp-30151.cif,"Cu, Au, Se",Cu:2.0; Au:2.0; Se:8.0,3,12.0
+mp-30156.cif,"Li, Mg, N",Li:4.0; Mg:4.0; N:4.0,3,12.0
+mp-30175.cif,"Ca, Al, Zn",Ca:2.0; Al:4.0; Zn:4.0,3,10.0
+mp-30177.cif,"Y, Al, Cr",Y:2.0; Al:16.0; Cr:8.0,3,26.0
+mp-30180.cif,"Al, Mo",Al:24.0; Mo:6.0,2,30.0
+mp-3020.cif,"Ba, Nb, O",Ba:1.0; Nb:1.0; O:3.0,3,5.0
+mp-30208.cif,"Y, Cu, P",Y:2.0; Cu:2.0; P:4.0,3,8.0
+mp-30227.cif,"Rb, W, Cl",Rb:8.0; W:4.0; Cl:24.0,3,36.0
+mp-30234.cif,"Cs, W, Cl",Cs:8.0; W:4.0; Cl:24.0,3,36.0
+mp-30242.cif,"Mg, H, O",Mg:4.0; H:2.0; O:5.0,3,11.0
+mp-30244.cif,"Mg, H, O",Mg:2.0; H:2.0; O:3.0,3,7.0
+mp-30245.cif,"Mg, H, O",Mg:3.0; H:4.0; O:5.0,3,12.0
+mp-30247.cif,"Mg, H, O",Mg:1.0; H:2.0; O:2.0,3,5.0
+mp-30312.cif,"Ca, Si, Ir",Ca:8.0; Si:4.0; Ir:8.0,3,20.0
+mp-30338.cif,"Y, Al",Y:3.0; Al:1.0,2,4.0
+mp-3034.cif,"Mg, Al, Cu",Mg:4.0; Al:8.0; Cu:4.0,3,16.0
+mp-30353.cif,"Ag, Pt",Ag:1.0; Pt:3.0,2,4.0
+mp-30354.cif,"Sc, Ag",Sc:2.0; Ag:8.0,2,10.0
+mp-30357.cif,"Sr, Ag",Sr:27.0; Ag:18.0,2,45.0
+mp-30363.cif,"Ba, Au",Ba:1.0; Au:2.0,2,3.0
+mp-30365.cif,"Be, Au",Be:4.0; Au:4.0,2,8.0
+mp-30366.cif,"Ca, Au",Ca:12.0; Au:4.0,2,16.0
+mp-3038.cif,"Al, Hg, Se",Al:4.0; Hg:2.0; Se:8.0,3,14.0
+mp-30383.cif,"Hf, Au",Hf:4.0; Au:2.0,2,6.0
+mp-30404.cif,"Li, Sb, Au",Li:8.0; Sb:4.0; Au:4.0,3,16.0
+mp-30405.cif,"Li, Sn, Au",Li:8.0; Sn:4.0; Au:4.0,3,16.0
+mp-30408.cif,"Mg, Au",Mg:16.0; Au:48.0,2,64.0
+mp-30410.cif,"Mn, Au",Mn:4.0; Au:10.0,2,14.0
+mp-30423.cif,"V, Au",V:4.0; Au:8.0,2,12.0
+mp-30428.cif,"Ba, Cu",Ba:4.0; Cu:4.0,2,8.0
+mp-30435.cif,"Ba, Zn",Ba:4.0; Zn:8.0,2,12.0
+mp-30437.cif,"Ca, Sn, Pd",Ca:4.0; Sn:4.0; Pd:4.0,3,12.0
+mp-30438.cif,"Be, Cr",Be:8.0; Cr:4.0,2,12.0
+mp-30441.cif,"Be, Nb",Be:51.0; Nb:6.0,2,57.0
+mp-30443.cif,"Be, Ru",Be:136.0; Ru:24.0,2,160.0
+mp-30449.cif,"Mg, Cu, Bi",Mg:4.0; Cu:4.0; Bi:4.0,3,12.0
+mp-30451.cif,"Sr, Cu, Bi",Sr:2.0; Cu:2.0; Bi:2.0,3,6.0
+mp-30459.cif,"Sc, Ni, Bi",Sc:4.0; Ni:4.0; Bi:4.0,3,12.0
+mp-30460.cif,"Y, Ni, Bi",Y:4.0; Ni:4.0; Bi:4.0,3,12.0
+mp-30461.cif,"Bi, Pd, Pb",Bi:4.0; Pd:8.0; Pb:4.0,3,16.0
+mp-30472.cif,"Ca, Ga, Cu",Ca:4.0; Ga:2.0; Cu:4.0,3,10.0
+mp-30477.cif,"Li, Ca, Sn",Li:3.0; Ca:3.0; Sn:3.0,3,9.0
+mp-30481.cif,"Ca, Pt",Ca:1.0; Pt:5.0,2,6.0
+mp-30483.cif,"Ca, Zn",Ca:4.0; Zn:4.0,2,8.0
+mp-30485.cif,"Ca, Zn",Ca:12.0; Zn:4.0,2,16.0
+mp-30488.cif,"Cd, Hg",Cd:2.0; Hg:4.0,2,6.0
+mp-30490.cif,"Mg, Cd",Mg:6.0; Cd:2.0,2,8.0
+mp-30491.cif,"Mg, Cd",Mg:2.0; Cd:6.0,2,8.0
+mp-30493.cif,"Zn, Cd, Pt",Zn:1.0; Cd:1.0; Pt:2.0,3,4.0
+mp-30494.cif,"Sc, Cd",Sc:2.0; Cd:6.0,2,8.0
+mp-305.cif,"Ti, Fe",Ti:1.0; Fe:1.0,2,2.0
+mp-30501.cif,"Ti, Cd",Ti:4.0; Cd:2.0,2,6.0
+mp-30533.cif,"K, Pt, S",K:6.0; Pt:12.0; S:18.0,3,36.0
+mp-30536.cif,"V, Sb",V:10.0; Sb:8.0,2,18.0
+mp-3054.cif,"Li, C, O",Li:8.0; C:4.0; O:12.0,3,24.0
+mp-30555.cif,"Ta, Ga, Co",Ta:4.0; Ga:4.0; Co:8.0,3,16.0
+mp-30562.cif,"Sc, Co",Sc:8.0; Co:4.0,2,12.0
+mp-30563.cif,"Zr, Co, Sn",Zr:3.0; Co:3.0; Sn:3.0,3,9.0
+mp-30570.cif,"Cr, Ga, Fe",Cr:4.0; Ga:4.0; Fe:8.0,3,16.0
+mp-30572.cif,"Hf, Ga",Hf:8.0; Ga:4.0,2,12.0
+mp-30581.cif,"Hf, Cu",Hf:4.0; Cu:2.0,2,6.0
+mp-30591.cif,"Li, Cu, Sn",Li:8.0; Cu:4.0; Sn:4.0,3,16.0
+mp-30593.cif,"Zn, Cu, Ni",Zn:1.0; Cu:2.0; Ni:1.0,3,4.0
+mp-30594.cif,"Cu, Pd",Cu:16.0; Pd:4.0,2,20.0
+mp-30595.cif,"Cu, Sn, Rh",Cu:4.0; Sn:4.0; Rh:8.0,3,16.0
+mp-30599.cif,"Ti, Cu",Ti:4.0; Cu:6.0,2,10.0
+mp-306.cif,"B, O",B:6.0; O:9.0,2,15.0
+mp-30603.cif,"Zr, Cu",Zr:4.0; Cu:20.0,2,24.0
+mp-30648.cif,"Li, Mg, Ga",Li:4.0; Mg:8.0; Ga:4.0,3,16.0
+mp-30656.cif,"Ti, Ga, Ni",Ti:3.0; Ga:3.0; Ni:3.0,3,9.0
+mp-30671.cif,"Ti, Ga",Ti:4.0; Ga:2.0,2,6.0
+mp-30672.cif,"Ti, Ga",Ti:6.0; Ga:2.0,2,8.0
+mp-30682.cif,"Zr, Ga",Zr:8.0; Ga:8.0,2,16.0
+mp-30683.cif,"Zr, Ga",Zr:4.0; Ga:8.0,2,12.0
+mp-30684.cif,"Zr, Ga",Zr:6.0; Ga:4.0,2,10.0
+mp-30685.cif,"Zr, Ga",Zr:2.0; Ga:6.0,2,8.0
+mp-30686.cif,"Zr, Ga",Zr:16.0; Ga:24.0,2,40.0
+mp-30719.cif,"Mg, Hg",Mg:8.0; Hg:4.0,2,12.0
+mp-30722.cif,"Sc, Hg",Sc:2.0; Hg:6.0,2,8.0
+mp-30725.cif,"Y, Hg",Y:1.0; Hg:2.0,2,3.0
+mp-30726.cif,"Y, Hg",Y:2.0; Hg:6.0,2,8.0
+mp-30727.cif,"Mg, Cd, Ag",Mg:4.0; Cd:4.0; Ag:8.0,3,16.0
+mp-30737.cif,"Y, Mg, Ag",Y:3.0; Mg:3.0; Ag:3.0,3,9.0
+mp-30739.cif,"Mg, Ir",Mg:6.0; Ir:2.0,2,8.0
+mp-30744.cif,"Ir, W",Ir:2.0; W:2.0,2,4.0
+mp-30746.cif,"Y, Ir",Y:1.0; Ir:1.0,2,2.0
+mp-30764.cif,"Li, Pt",Li:8.0; Pt:16.0,2,24.0
+mp-30767.cif,"Li, Sn",Li:28.0; Sn:8.0,2,36.0
+mp-30768.cif,"Li, Sn",Li:14.0; Sn:6.0,2,20.0
+mp-30769.cif,"Li, Sn",Li:13.0; Sn:5.0,2,18.0
+mp-30777.cif,"Mg, Pt",Mg:1.0; Pt:3.0,2,4.0
+mp-30778.cif,"Mg, Rh",Mg:20.0; Rh:8.0,2,28.0
+mp-30780.cif,"Sr, Mg, Sn",Sr:4.0; Mg:4.0; Sn:4.0,3,12.0
+mp-30784.cif,"Mg, Zn",Mg:6.0; Zn:33.0,2,39.0
+mp-30787.cif,"Mo, Rh",Mo:2.0; Rh:6.0,2,8.0
+mp-30788.cif,"Sn, Mo",Sn:2.0; Mo:6.0,2,8.0
+mp-30798.cif,"Nb, Zn",Nb:8.0; Zn:16.0,2,24.0
+mp-30807.cif,"Zr, Ni, Sn",Zr:4.0; Ni:16.0; Sn:4.0,3,24.0
+mp-30811.cif,"Ni, W",Ni:8.0; W:2.0,2,10.0
+mp-30816.cif,"Li, Al, Pd",Li:8.0; Al:4.0; Pd:4.0,3,16.0
+mp-30817.cif,"Li, Al, Pd",Li:4.0; Al:8.0; Pd:4.0,3,16.0
+mp-30818.cif,"Li, Al, Pt",Li:8.0; Al:4.0; Pt:4.0,3,16.0
+mp-30819.cif,"Li, Al, Pt",Li:4.0; Al:8.0; Pt:4.0,3,16.0
+mp-30820.cif,"Li, Al, Rh",Li:8.0; Al:4.0; Rh:4.0,3,16.0
+mp-30821.cif,"Li, Al, Rh",Li:4.0; Al:8.0; Rh:4.0,3,16.0
+mp-30835.cif,"Ta, Pd",Ta:2.0; Pd:4.0,2,6.0
+mp-30836.cif,"Ta, Pd",Ta:2.0; Pd:6.0,2,8.0
+mp-30840.cif,"Ti, Pd",Ti:8.0; Pd:12.0,2,20.0
+mp-30842.cif,"Zr, Pd",Zr:4.0; Pd:12.0,2,16.0
+mp-30846.cif,"Sn, Pt",Sn:6.0; Pt:4.0,2,10.0
+mp-30847.cif,"Ti, Sn, Pt",Ti:4.0; Sn:4.0; Pt:4.0,3,12.0
+mp-30849.cif,"Ta, Pt",Ta:4.0; Pt:8.0,2,12.0
+mp-30850.cif,"Ta, Pt",Ta:2.0; Pt:6.0,2,8.0
+mp-30851.cif,"Ti, Pt",Ti:12.0; Pt:20.0,2,32.0
+mp-30852.cif,"Ti, Pt",Ti:2.0; Pt:16.0,2,18.0
+mp-30856.cif,"Zn, Pt",Zn:1.0; Pt:3.0,2,4.0
+mp-30858.cif,"Zr, Pt",Zr:1.0; Pt:3.0,2,4.0
+mp-30866.cif,"Rh, W",Rh:6.0; W:2.0,2,8.0
+mp-30867.cif,"Sc, Ru",Sc:1.0; Ru:1.0,2,2.0
+mp-30871.cif,"Ta, Sn",Ta:6.0; Sn:2.0,2,8.0
+mp-30875.cif,"Ti, Sn",Ti:4.0; Sn:2.0,2,6.0
+mp-30876.cif,"Zr, Sn",Zr:6.0; Sn:2.0,2,8.0
+mp-30882.cif,"Ti, Zn",Ti:4.0; Zn:8.0,2,12.0
+mp-30883.cif,"V, Zn",V:8.0; Zn:10.0,2,18.0
+mp-30884.cif,"Y, Zn",Y:4.0; Zn:12.0,2,16.0
+mp-30885.cif,"Y, Zn",Y:1.0; Zn:5.0,2,6.0
+mp-30886.cif,"Y, Zn",Y:2.0; Zn:24.0,2,26.0
+mp-3094.cif,"Sr, Al, O",Sr:4.0; Al:8.0; O:16.0,3,28.0
+mp-3098.cif,"Al, Cu, O",Al:2.0; Cu:2.0; O:4.0,3,8.0
+mp-31011.cif,"Y, Si, Rh",Y:8.0; Si:8.0; Rh:4.0,3,20.0
+mp-3104.cif,"Ba, Zr, N",Ba:2.0; Zr:2.0; N:4.0,3,8.0
+mp-31055.cif,"Sc, In, N",Sc:3.0; In:1.0; N:1.0,3,5.0
+mp-31059.cif,"Ba, Al, Ge",Ba:2.0; Al:4.0; Ge:4.0,3,10.0
+mp-31080.cif,"Y, Al, Si",Y:4.0; Al:4.0; Si:4.0,3,12.0
+mp-31081.cif,"Sc, Mn, Al",Sc:2.0; Mn:8.0; Al:16.0,3,26.0
+mp-31138.cif,"Mn, Pd",Mn:4.0; Pd:12.0,2,16.0
+mp-31147.cif,"Ba, Zn, Si",Ba:2.0; Zn:2.0; Si:2.0,3,6.0
+mp-31153.cif,"Ca, Ge, Pt",Ca:4.0; Ge:4.0; Pt:4.0,3,12.0
+mp-31160.cif,"Ca, Zn, Sn",Ca:2.0; Zn:2.0; Sn:2.0,3,6.0
+mp-31172.cif,"Ca, Ag",Ca:20.0; Ag:12.0,2,32.0
+mp-31185.cif,"Mn, Al, Fe",Mn:4.0; Al:4.0; Fe:8.0,3,16.0
+mp-31187.cif,"Ti, Al, Fe",Ti:4.0; Al:4.0; Fe:8.0,3,16.0
+mp-31212.cif,"K, Mg, F",K:4.0; Mg:2.0; F:8.0,3,14.0
+mp-31219.cif,"Si, W",Si:12.0; W:20.0,2,32.0
+mp-31277.cif,"Sn, Ir",Sn:32.0; Ir:8.0,2,40.0
+mp-31297.cif,"Sc, In, Pt",Sc:3.0; In:3.0; Pt:3.0,3,9.0
+mp-313.cif,"Y, C",Y:2.0; C:4.0,2,6.0
+mp-31301.cif,"Li, Sn, Au",Li:2.0; Sn:8.0; Au:6.0,3,16.0
+mp-31326.cif,"Mg, In",Mg:6.0; In:3.0,2,9.0
+mp-31337.cif,"In, Pd",In:1.0; Pd:3.0,2,4.0
+mp-31348.cif,"Sc, In",Sc:4.0; In:2.0,2,6.0
+mp-3136.cif,"Na, Nb, O",Na:1.0; Nb:1.0; O:3.0,3,5.0
+mp-31379.cif,"Zr, Sb",Zr:8.0; Sb:4.0,2,12.0
+mp-3138.cif,"Na, Sn, Sb",Na:64.0; Sn:8.0; Sb:32.0,3,104.0
+mp-31383.cif,"Hf, Co, Bi",Hf:6.0; Co:1.0; Bi:2.0,3,9.0
+mp-31438.cif,"Y, Zr, Sb",Y:4.0; Zr:4.0; Sb:4.0,3,12.0
+mp-31451.cif,"Zr, Co, Bi",Zr:4.0; Co:4.0; Bi:4.0,3,12.0
+mp-31452.cif,"Zr, Ni, Bi",Zr:4.0; Ni:4.0; Bi:4.0,3,12.0
+mp-31453.cif,"Nb, Sb, Rh",Nb:4.0; Sb:4.0; Rh:4.0,3,12.0
+mp-31454.cif,"Ta, Sb, Ru",Ta:4.0; Sb:4.0; Ru:4.0,3,12.0
+mp-31455.cif,"V, Sb, Ru",V:4.0; Sb:4.0; Ru:4.0,3,12.0
+mp-31456.cif,"Hf, Sb, Ru",Hf:4.0; Sb:4.0; Ru:4.0,3,12.0
+mp-31457.cif,"Zr, Sb, Ru",Zr:4.0; Sb:4.0; Ru:4.0,3,12.0
+mp-31458.cif,"Ti, Sb, Ru",Ti:4.0; Sb:4.0; Ru:4.0,3,12.0
+mp-31459.cif,"Ta, Co, Sb",Ta:4.0; Co:4.0; Sb:4.0,3,12.0
+mp-31460.cif,"Nb, Co, Sb",Nb:4.0; Co:4.0; Sb:4.0,3,12.0
+mp-31469.cif,"Hf, Cu, Sn",Hf:10.0; Cu:2.0; Sn:6.0,3,18.0
+mp-31496.cif,"Li, Sn, Au",Li:8.0; Sn:8.0; Au:4.0,3,20.0
+mp-31498.cif,"Ba, Pt",Ba:2.0; Pt:2.0,2,4.0
+mp-315.cif,"Pb, F",Pb:4.0; F:8.0,2,12.0
+mp-31502.cif,"Sc, Cd",Sc:4.0; Cd:28.0,2,32.0
+mp-31510.cif,"Nb, Cu, Te",Nb:2.0; Cu:2.0; Te:4.0,3,8.0
+mp-31516.cif,"Co, Re, O",Co:1.0; Re:2.0; O:8.0,3,11.0
+mp-3155.cif,"Sc, Fe, C",Sc:6.0; Fe:2.0; C:8.0,3,16.0
+mp-3158.cif,"Li, Sb, Pt",Li:8.0; Sb:4.0; Pt:4.0,3,16.0
+mp-3159.cif,"Al, Cd, Se",Al:4.0; Cd:2.0; Se:8.0,3,14.0
+mp-316.cif,"Mn, V",Mn:1.0; V:1.0,2,2.0
+mp-3161.cif,"Li, Al, Si",Li:4.0; Al:4.0; Si:4.0,3,12.0
+mp-3163.cif,"Ba, Sn, O",Ba:1.0; Sn:1.0; O:3.0,3,5.0
+mp-317.cif,"Sn, Rh",Sn:4.0; Rh:4.0,2,8.0
+mp-3173.cif,"Ca, Al, Si",Ca:1.0; Al:1.0; Si:1.0,3,3.0
+mp-32.cif,Ge,Ge:8.0,1,8.0
+mp-3210.cif,"Ca, Co, P",Ca:2.0; Co:4.0; P:4.0,3,10.0
+mp-3216.cif,"Li, Zr, N",Li:2.0; Zr:1.0; N:2.0,3,5.0
+mp-32311.cif,"Re, Ni, O",Re:2.0; Ni:1.0; O:8.0,3,11.0
+mp-32662.cif,"W, O",W:6.0; O:18.0,2,24.0
+mp-32669.cif,"Ag, S",Ag:8.0; S:4.0,2,12.0
+mp-32679.cif,"Nb, C",Nb:20.0; C:14.0,2,34.0
+mp-32686.cif,"Co, O",Co:1.0; O:2.0,2,3.0
+mp-3271.cif,"Ti, Al, C",Ti:3.0; Al:1.0; C:1.0,3,5.0
+mp-3274.cif,"Ni, Ge, Pd",Ni:2.0; Ge:2.0; Pd:2.0,3,6.0
+mp-328.cif,"Zr, Ni",Zr:8.0; Ni:4.0,2,12.0
+mp-32880.cif,"Cu, Br",Cu:2.0; Br:2.0,2,4.0
+mp-32994.cif,"Hf, N",Hf:8.0; N:6.0,2,14.0
+mp-33.cif,Ru,Ru:2.0,1,2.0
+mp-33009.cif,"Mn, O",Mn:2.0; O:4.0,2,6.0
+mp-331.cif,"Sc, Al",Sc:1.0; Al:1.0,2,2.0
+mp-33107.cif,"S, F",S:2.0; F:8.0,2,10.0
+mp-3315.cif,"Ca, Pd, O",Ca:2.0; Pd:6.0; O:8.0,3,16.0
+mp-3323.cif,"Sr, Zr, O",Sr:1.0; Zr:1.0; O:3.0,3,5.0
+mp-333.cif,"Hf, Fe",Hf:8.0; Fe:16.0,2,24.0
+mp-3340.cif,"Ta, Al, Co",Ta:4.0; Al:4.0; Co:8.0,3,16.0
+mp-3349.cif,"Sr, Ti, O",Sr:6.0; Ti:4.0; O:14.0,3,24.0
+mp-3378.cif,"Sr, Hf, O",Sr:4.0; Hf:4.0; O:12.0,3,20.0
+mp-3390.cif,"Y, Cu, Si",Y:2.0; Cu:4.0; Si:4.0,3,10.0
+mp-3397.cif,"Ba, Ti, O",Ba:8.0; Ti:4.0; O:16.0,3,28.0
+mp-341.cif,"Pb, F",Pb:2.0; F:8.0,2,10.0
+mp-34202.cif,"Bi, Te",Bi:6.0; Te:9.0,2,15.0
+mp-3427.cif,"Li, Al, O",Li:4.0; Al:4.0; O:8.0,3,16.0
+mp-3432.cif,"Sc, Ni, Sb",Sc:4.0; Ni:4.0; Sb:4.0,3,12.0
+mp-34328.cif,"Mn, Cu, Cl",Mn:2.0; Cu:4.0; Cl:8.0,3,14.0
+mp-3441.cif,"Y, Si, Rh",Y:2.0; Si:4.0; Rh:4.0,3,10.0
+mp-3448.cif,"K, Mg, F",K:1.0; Mg:1.0; F:3.0,3,5.0
+mp-3464.cif,"Fe, Si, Ru",Fe:4.0; Si:4.0; Ru:8.0,3,16.0
+mp-3469.cif,"Zr, Ni, Sb",Zr:2.0; Ni:4.0; Sb:2.0,3,8.0
+mp-351.cif,"Si, Ni",Si:4.0; Ni:4.0,2,8.0
+mp-35143.cif,"Ba, Nb, S",Ba:2.0; Nb:2.0; S:6.0,3,10.0
+mp-3519.cif,"Zr, S, O",Zr:4.0; S:4.0; O:4.0,3,12.0
+mp-352.cif,"Hf, O",Hf:4.0; O:8.0,2,12.0
+mp-3522.cif,"Mg, Cu, Sb",Mg:4.0; Cu:4.0; Sb:4.0,3,12.0
+mp-3534.cif,"Ge, Sb, Te",Ge:2.0; Sb:2.0; Te:5.0,3,9.0
+mp-3536.cif,"Mg, Al, O",Mg:8.0; Al:16.0; O:32.0,3,56.0
+mp-35539.cif,"Zn, Ge, Se",Zn:4.0; Ge:2.0; Se:8.0,3,14.0
+mp-3567.cif,"Na, V, Se",Na:3.0; V:3.0; Se:6.0,3,12.0
+mp-3574.cif,"Mn, Al, Cu",Mn:4.0; Al:4.0; Cu:8.0,3,16.0
+mp-3576.cif,"Hf, Ga, Co",Hf:4.0; Ga:4.0; Co:8.0,3,16.0
+mp-35785.cif,"Y, Cd, S",Y:16.0; Cd:8.0; S:32.0,3,56.0
+mp-3582.cif,"Mg, B, C",Mg:16.0; B:32.0; C:32.0,3,80.0
+mp-3595.cif,"Zn, Si, As",Zn:4.0; Si:4.0; As:8.0,3,16.0
+mp-361.cif,"Cu, O",Cu:4.0; O:2.0,2,6.0
+mp-36111.cif,"Li, Mg, P",Li:4.0; Mg:4.0; P:4.0,3,12.0
+mp-3618.cif,"Sc, Fe, Si",Sc:8.0; Fe:4.0; Si:8.0,3,20.0
+mp-362.cif,"Ni, S",Ni:9.0; S:6.0,2,15.0
+mp-3623.cif,"Mn, Al, Co",Mn:4.0; Al:4.0; Co:8.0,3,16.0
+mp-363.cif,"Nb, Ge",Nb:3.0; Ge:6.0,2,9.0
+mp-3635.cif,"Li, B, O",Li:4.0; B:4.0; O:8.0,3,16.0
+mp-364.cif,"Al, Rh",Al:1.0; Rh:1.0,2,2.0
+mp-3642.cif,"Sc, Cu, O",Sc:2.0; Cu:2.0; O:4.0,3,8.0
+mp-3654.cif,"Rb, Ca, F",Rb:1.0; Ca:1.0; F:3.0,3,5.0
+mp-3657.cif,"Ti, Co, Si",Ti:4.0; Co:8.0; Si:4.0,3,16.0
+mp-3666.cif,"Li, Ta, O",Li:6.0; Ta:6.0; O:18.0,3,30.0
+mp-3668.cif,"Cd, Ge, P",Cd:4.0; Ge:4.0; P:8.0,3,16.0
+mp-3676.cif,"Mg, Cu, Sn",Mg:4.0; Cu:16.0; Sn:4.0,3,24.0
+mp-3677.cif,"Mg, Si, N",Mg:4.0; Si:4.0; N:8.0,3,16.0
+mp-3679.cif,"Ni, Sb, S",Ni:4.0; Sb:4.0; S:4.0,3,12.0
+mp-36862.cif,"V, Cl, O",V:4.0; Cl:8.0; O:4.0,3,16.0
+mp-3698.cif,"Sr, Al, Si",Sr:1.0; Al:1.0; Si:1.0,3,3.0
+mp-3700.cif,"Li, Y, F",Li:4.0; Y:4.0; F:16.0,3,24.0
+mp-3701.cif,"Sc, Al, Fe",Sc:2.0; Al:16.0; Fe:8.0,3,26.0
+mp-3702.cif,"Fe, Cu, Pt",Fe:1.0; Cu:1.0; Pt:2.0,3,4.0
+mp-37091.cif,"Sr, Al, Te",Sr:2.0; Al:4.0; Te:8.0,3,14.0
+mp-372.cif,"V, Pt",V:1.0; Pt:3.0,2,4.0
+mp-3721.cif,"Sr, Hf, O",Sr:4.0; Hf:4.0; O:12.0,3,20.0
+mp-3731.cif,"Li, Nb, O",Li:6.0; Nb:6.0; O:18.0,3,30.0
+mp-3732.cif,"Ti, C, S",Ti:4.0; C:2.0; S:2.0,3,8.0
+mp-374.cif,"Cr, B",Cr:1.0; B:2.0,2,3.0
+mp-3747.cif,"Ti, Al, C",Ti:6.0; Al:2.0; C:4.0,3,12.0
+mp-37473.cif,"Ti, O, F",Ti:2.0; O:2.0; F:4.0,3,8.0
+mp-3748.cif,"Al, Cu, O",Al:3.0; Cu:3.0; O:6.0,3,12.0
+mp-3759.cif,"Mg, Ge, O",Mg:6.0; Ge:6.0; O:18.0,3,30.0
+mp-37614.cif,"Al, Ni, O",Al:8.0; Ni:4.0; O:16.0,3,28.0
+mp-3762.cif,"V, Cu, S",V:1.0; Cu:3.0; S:4.0,3,8.0
+mp-37620.cif,"Li, Mn, O",Li:4.0; Mn:4.0; O:8.0,3,16.0
+mp-3771.cif,"Mg, Ti, O",Mg:6.0; Ti:6.0; O:18.0,3,30.0
+mp-37906.cif,"Li, Mg, N",Li:4.0; Mg:4.0; N:4.0,3,12.0
+mp-3791.cif,"Sc, Co, Sn",Sc:4.0; Co:8.0; Sn:4.0,3,16.0
+mp-3792.cif,"Y, Al, O",Y:4.0; Al:4.0; O:12.0,3,20.0
+mp-380.cif,"Zn, Se",Zn:2.0; Se:2.0,2,4.0
+mp-3803.cif,"Ta, Al, C",Ta:8.0; Al:2.0; C:6.0,3,16.0
+mp-38035.cif,"Sr, C, O",Sr:6.0; C:6.0; O:18.0,3,30.0
+mp-3805.cif,"Al, Fe, B",Al:2.0; Fe:4.0; B:4.0,3,10.0
+mp-381.cif,"Si, Ru",Si:1.0; Ru:1.0,2,2.0
+mp-3813.cif,"Ba, Zr, S",Ba:4.0; Zr:2.0; S:8.0,3,14.0
+mp-3821.cif,"K, Pt, F",K:2.0; Pt:1.0; F:6.0,3,9.0
+mp-3833.cif,"Mg, Al, Si",Mg:1.0; Al:2.0; Si:2.0,3,5.0
+mp-3834.cif,"Ba, Zr, O",Ba:1.0; Zr:1.0; O:3.0,3,5.0
+mp-38394.cif,"Ba, Al, Te",Ba:2.0; Al:4.0; Te:8.0,3,14.0
+mp-384.cif,"Mg, P",Mg:2.0; P:8.0,2,10.0
+mp-3854.cif,"Y, Mn, Si",Y:2.0; Mn:4.0; Si:4.0,3,10.0
+mp-3862.cif,"Ca, Al, Ge",Ca:1.0; Al:2.0; Ge:2.0,3,5.0
+mp-38683.cif,"Co, Ni, O",Co:8.0; Ni:4.0; O:16.0,3,28.0
+mp-3871.cif,"Ti, Sn, C",Ti:4.0; Sn:2.0; C:2.0,3,8.0
+mp-38818.cif,"Hf, Nb, B",Hf:2.0; Nb:2.0; B:8.0,3,12.0
+mp-3886.cif,"Zr, Al, C",Zr:4.0; Al:2.0; C:2.0,3,8.0
+mp-389.cif,"Si, Pd",Si:4.0; Pd:4.0,2,8.0
+mp-3896.cif,"Y, Si, Ir",Y:2.0; Si:4.0; Ir:4.0,3,10.0
+mp-38970.cif,"Ga, Te",Ga:8.0; Te:12.0,2,20.0
+mp-390.cif,"Ti, O",Ti:4.0; O:8.0,2,12.0
+mp-3909.cif,"Zr, Al, Co",Zr:4.0; Al:4.0; Co:8.0,3,16.0
+mp-3924.cif,"Li, Nb, O",Li:2.0; Nb:2.0; O:4.0,3,8.0
+mp-3938.cif,"Zr, Si, S",Zr:2.0; Si:2.0; S:2.0,3,6.0
+mp-3953.cif,"Ca, C, O",Ca:6.0; C:6.0; O:18.0,3,30.0
+mp-3955.cif,"Al, P, O",Al:3.0; P:3.0; O:12.0,3,18.0
+mp-3970.cif,"K, Ti, F",K:2.0; Ti:1.0; F:6.0,3,9.0
+mp-3988.cif,"Ba, Cu, O",Ba:2.0; Cu:6.0; O:8.0,3,16.0
+mp-399.cif,"Te, Pt",Te:2.0; Pt:1.0,2,3.0
+mp-4002.cif,"Li, Zr, F",Li:2.0; Zr:1.0; F:6.0,3,9.0
+mp-4019.cif,"Ca, Ti, O",Ca:4.0; Ti:4.0; O:12.0,3,20.0
+mp-4043.cif,"Nb, Cu, Se",Nb:1.0; Cu:3.0; Se:4.0,3,8.0
+mp-406.cif,"Cd, Te",Cd:4.0; Te:4.0,2,8.0
+mp-4064.cif,"Ca, Ni, P",Ca:2.0; Ni:4.0; P:4.0,3,10.0
+mp-4076.cif,"V, Co, Sb",V:4.0; Co:4.0; Sb:4.0,3,12.0
+mp-4079.cif,"Sc, Al, C",Sc:3.0; Al:1.0; C:1.0,3,5.0
+mp-408.cif,"Mg, Ge",Mg:8.0; Ge:4.0,2,12.0
+mp-4081.cif,"Ta, Cu, Se",Ta:1.0; Cu:3.0; Se:4.0,3,8.0
+mp-4083.cif,"Mg, Cu, As",Mg:2.0; Cu:2.0; As:2.0,3,6.0
+mp-4120.cif,"Ca, Cu, As",Ca:2.0; Cu:2.0; As:2.0,3,6.0
+mp-4124.cif,"Ca, C, N",Ca:3.0; C:3.0; N:6.0,3,12.0
+mp-4131.cif,"Sc, Co, Si",Sc:2.0; Co:4.0; Si:4.0,3,10.0
+mp-4152.cif,"Ga, Co, S",Ga:4.0; Co:2.0; S:8.0,3,14.0
+mp-416.cif,"Cr, Os",Cr:6.0; Os:2.0,2,8.0
+mp-4163.cif,"Ca, Ti, O",Ca:12.0; Ti:8.0; O:28.0,3,48.0
+mp-417.cif,"Mn, Rh",Mn:1.0; Rh:1.0,2,2.0
+mp-4182.cif,"Cr, Ag, S",Cr:3.0; Ag:3.0; S:6.0,3,12.0
+mp-4192.cif,"Ca, As, N",Ca:12.0; As:4.0; N:4.0,3,20.0
+mp-42.cif,Ta,Ta:30.0,1,30.0
+mp-4200.cif,"Sc, P, O",Sc:4.0; P:4.0; O:16.0,3,24.0
+mp-423.cif,"Ge, Pd",Ge:3.0; Pd:6.0,2,9.0
+mp-4230.cif,"Sc, Tl, C",Sc:3.0; Tl:1.0; C:1.0,3,5.0
+mp-4236.cif,"Ba, Zn, O",Ba:3.0; Zn:3.0; O:6.0,3,12.0
+mp-4247.cif,"Na, Zn, Sb",Na:2.0; Zn:2.0; Sb:2.0,3,6.0
+mp-4248.cif,"Y, Co, C",Y:2.0; Co:2.0; C:4.0,3,8.0
+mp-4252.cif,"Sn, P, S",Sn:4.0; P:4.0; S:12.0,3,20.0
+mp-4253.cif,"V, Cr, C",V:4.0; Cr:8.0; C:8.0,3,20.0
+mp-4255.cif,"Ba, Cu, S",Ba:2.0; Cu:4.0; S:4.0,3,10.0
+mp-4259.cif,"Ca, Co, Ge",Ca:2.0; Co:4.0; Ge:4.0,3,10.0
+mp-4262.cif,"Be, Al, B",Be:4.0; Al:4.0; B:4.0,3,12.0
+mp-427.cif,"Fe, As",Fe:4.0; As:4.0,2,8.0
+mp-4280.cif,"Ga, Cu, O",Ga:3.0; Cu:3.0; O:6.0,3,12.0
+mp-429.cif,"Zn, Ni",Zn:1.0; Ni:1.0,2,2.0
+mp-432.cif,"Nb, Ru",Nb:1.0; Ru:1.0,2,2.0
+mp-4342.cif,"K, Nb, O",K:1.0; Nb:1.0; O:3.0,3,5.0
+mp-4359.cif,"Sr, Pd, O",Sr:4.0; Pd:2.0; O:6.0,3,12.0
+mp-4366.cif,"Na, Pt, C",Na:2.0; Pt:1.0; C:2.0,3,5.0
+mp-4368.cif,"Sb, Pd, Se",Sb:4.0; Pd:4.0; Se:4.0,3,12.0
+mp-437.cif,"Mg, Au",Mg:1.0; Au:1.0,2,2.0
+mp-4385.cif,"Cd, C, O",Cd:6.0; C:6.0; O:18.0,3,30.0
+mp-443.cif,"Ca, Au",Ca:4.0; Au:8.0,2,12.0
+mp-4441.cif,"Ca, Cu, Ge",Ca:2.0; Cu:4.0; Ge:4.0,3,10.0
+mp-4448.cif,"Y, Al, C",Y:3.0; Al:1.0; C:1.0,3,5.0
+mp-446.cif,"Cr, Pt",Cr:6.0; Pt:2.0,2,8.0
+mp-4471.cif,"Sc, Al, O",Sc:4.0; Al:4.0; O:12.0,3,20.0
+mp-4472.cif,"B, Mo, C",B:4.0; Mo:8.0; C:4.0,3,16.0
+mp-4478.cif,"Ca, Si, Pt",Ca:4.0; Si:4.0; Pt:4.0,3,12.0
+mp-448.cif,"Co, N",Co:4.0; N:4.0,2,8.0
+mp-4492.cif,"Mn, Co, Si",Mn:4.0; Co:8.0; Si:4.0,3,16.0
+mp-4499.cif,"Mg, Al, Si",Mg:4.0; Al:4.0; Si:4.0,3,12.0
+mp-45.cif,Ca,Ca:4.0,1,4.0
+mp-4500.cif,"Zr, Nb, P",Zr:4.0; Nb:4.0; P:4.0,3,12.0
+mp-452.cif,"Co, As",Co:8.0; As:24.0,2,32.0
+mp-4524.cif,"Zn, Ge, P",Zn:4.0; Ge:4.0; P:8.0,3,16.0
+mp-4541.cif,"Na, Cu, O",Na:2.0; Cu:2.0; O:4.0,3,8.0
+mp-4551.cif,"Sr, Hf, O",Sr:1.0; Hf:1.0; O:3.0,3,5.0
+mp-4559.cif,"Ba, C, O",Ba:3.0; C:3.0; O:9.0,3,15.0
+mp-4563.cif,"Ti, Tl, C",Ti:3.0; Tl:1.0; C:1.0,3,5.0
+mp-4573.cif,"Tl, Sb, Te",Tl:3.0; Sb:3.0; Te:6.0,3,12.0
+mp-458.cif,"Ti, O",Ti:12.0; O:18.0,2,30.0
+mp-4593.cif,"Mn, Al, C",Mn:3.0; Al:1.0; C:1.0,3,5.0
+mp-46.cif,Ti,Ti:2.0,1,2.0
+mp-4612.cif,"Ti, Co, Ge",Ti:4.0; Co:8.0; Ge:4.0,3,16.0
+mp-4613.cif,"Zr, Sn, C",Zr:4.0; Sn:2.0; C:2.0,3,8.0
+mp-4627.cif,"Co, As, S",Co:4.0; As:4.0; S:4.0,3,12.0
+mp-4628.cif,"Zr, Si, Se",Zr:2.0; Si:2.0; Se:2.0,3,6.0
+mp-463.cif,"K, F",K:4.0; F:4.0,2,8.0
+mp-4630.cif,"Li, Ru, O",Li:8.0; Ru:4.0; O:12.0,3,24.0
+mp-4636.cif,"Sc, Cu, O",Sc:3.0; Cu:3.0; O:6.0,3,12.0
+mp-4651.cif,"Sr, Ti, O",Sr:4.0; Ti:4.0; O:12.0,3,20.0
+mp-4653.cif,"Y, Si, Ir",Y:2.0; Si:4.0; Ir:4.0,3,10.0
+mp-4656.cif,"Y, Al, Fe",Y:2.0; Al:16.0; Fe:8.0,3,26.0
+mp-4661.cif,"Sc, O, F",Sc:4.0; O:4.0; F:4.0,3,12.0
+mp-4666.cif,"Cd, Si, P",Cd:4.0; Si:4.0; P:8.0,3,16.0
+mp-4673.cif,"Sr, Hf, O",Sr:8.0; Hf:8.0; O:24.0,3,40.0
+mp-4678.cif,"Zr, Al, N",Zr:4.0; Al:2.0; N:2.0,3,8.0
+mp-468.cif,"Al, F",Al:6.0; F:18.0,2,24.0
+mp-4697.cif,"Zn, Cr, Se",Zn:8.0; Cr:16.0; Se:32.0,3,56.0
+mp-4720.cif,"Si, Ni, B",Si:2.0; Ni:6.0; B:1.0,3,9.0
+mp-4728.cif,"Cu, Ge, Se",Cu:4.0; Ge:2.0; Se:6.0,3,12.0
+mp-4730.cif,"Ga, Hg, Se",Ga:4.0; Hg:2.0; Se:8.0,3,14.0
+mp-4744.cif,"Ca, Ni, As",Ca:2.0; Ni:4.0; As:4.0,3,10.0
+mp-4753.cif,"Al, Si, O",Al:8.0; Si:4.0; O:20.0,3,32.0
+mp-4756.cif,"Zn, Sn, Sb",Zn:4.0; Sn:4.0; Sb:8.0,3,16.0
+mp-4771.cif,"Ti, Al, Cu",Ti:4.0; Al:4.0; Cu:8.0,3,16.0
+mp-4779.cif,"Li, B, O",Li:16.0; B:32.0; O:56.0,3,104.0
+mp-4798.cif,"Sc, Al, C",Sc:2.0; Al:6.0; C:6.0,3,14.0
+mp-481.cif,"Sc, Pt",Sc:1.0; Pt:3.0,2,4.0
+mp-4820.cif,"Zr, Si, O",Zr:4.0; Si:4.0; O:16.0,3,24.0
+mp-4822.cif,"Y, Si, Pd",Y:2.0; Si:4.0; Pd:4.0,3,10.0
+mp-4823.cif,"Na, Pd, C",Na:2.0; Pd:1.0; C:2.0,3,5.0
+mp-4824.cif,"Na, Zn, P",Na:2.0; Zn:2.0; P:2.0,3,6.0
+mp-4826.cif,"Ca, Cu, O",Ca:1.0; Cu:1.0; O:2.0,3,4.0
+mp-4842.cif,"Al, Zn, S",Al:16.0; Zn:8.0; S:32.0,3,56.0
+mp-4846.cif,"Mn, Sb, Rh",Mn:4.0; Sb:4.0; Rh:4.0,3,12.0
+mp-485.cif,"Zr, Ni",Zr:2.0; Ni:6.0,2,8.0
+mp-4852.cif,"Ni, Rh, Se",Ni:2.0; Rh:4.0; Se:8.0,3,14.0
+mp-486.cif,"Ni, P",Ni:4.0; P:8.0,2,12.0
+mp-4864.cif,"Ca, Mg, Sn",Ca:4.0; Mg:4.0; Sn:4.0,3,12.0
+mp-487.cif,"Mn, P",Mn:2.0; P:8.0,2,10.0
+mp-4876.cif,"Tl, Sb, Se",Tl:12.0; Sb:4.0; Se:12.0,3,28.0
+mp-4878.cif,"Zr, Ge, Se",Zr:2.0; Ge:2.0; Se:2.0,3,6.0
+mp-488.cif,"Cu, Se",Cu:6.0; Se:6.0,2,12.0
+mp-4883.cif,"Ba, Fe, P",Ba:2.0; Fe:4.0; P:4.0,3,10.0
+mp-4893.cif,"Hf, Sn, C",Hf:4.0; Sn:2.0; C:2.0,3,8.0
+mp-4897.cif,"Sc, Sn, Pd",Sc:4.0; Sn:4.0; Pd:8.0,3,16.0
+mp-49.cif,Os,Os:2.0,1,2.0
+mp-4901.cif,"Y, Mg, Cu",Y:4.0; Mg:2.0; Cu:4.0,3,10.0
+mp-4909.cif,"V, Ni, S",V:4.0; Ni:2.0; S:8.0,3,14.0
+mp-492.cif,"Ti, N",Ti:4.0; N:4.0,2,8.0
+mp-493.cif,"Co, B",Co:8.0; B:4.0,2,12.0
+mp-4938.cif,"Sc, Co, B",Sc:1.0; Co:3.0; B:2.0,3,6.0
+mp-4955.cif,"Al, V, Co",Al:4.0; V:4.0; Co:8.0,3,16.0
+mp-4964.cif,"Y, Sb, Pt",Y:4.0; Sb:4.0; Pt:4.0,3,12.0
+mp-4978.cif,"Ti, Al, N",Ti:4.0; Al:2.0; N:2.0,3,8.0
+mp-4979.cif,"Al, Cu, S",Al:4.0; Cu:4.0; S:8.0,3,16.0
+mp-4989.cif,"Cr, Ni, As",Cr:3.0; Ni:3.0; As:3.0,3,9.0
+mp-4992.cif,"Sc, Cr, C",Sc:2.0; Cr:2.0; C:4.0,3,8.0
+mp-4997.cif,"Zr, Ge, S",Zr:2.0; Ge:2.0; S:2.0,3,6.0
+mp-50.cif,Ta,Ta:2.0,1,2.0
+mp-501.cif,"Ta, Se",Ta:4.0; Se:8.0,2,12.0
+mp-5014.cif,"Cu, Ag, S",Cu:4.0; Ag:4.0; S:4.0,3,12.0
+mp-5019.cif,"Y, Co, B",Y:1.0; Co:3.0; B:2.0,3,6.0
+mp-5020.cif,"Ba, Ti, O",Ba:3.0; Ti:3.0; O:9.0,3,15.0
+mp-5025.cif,"Zr, C, S",Zr:4.0; C:2.0; S:2.0,3,8.0
+mp-504.cif,"Cu, S",Cu:6.0; S:6.0,2,12.0
+mp-5042.cif,"Y, Ti, Ge",Y:2.0; Ti:2.0; Ge:2.0,3,6.0
+mp-504552.cif,"Nb, Co, O",Nb:8.0; Co:4.0; O:24.0,3,36.0
+mp-504580.cif,"V, Cu, O",V:6.0; Cu:6.0; O:18.0,3,30.0
+mp-5046.cif,"Be, S, O",Be:2.0; S:2.0; O:8.0,3,12.0
+mp-504659.cif,"Hf, P",Hf:24.0; P:12.0,2,36.0
+mp-504711.cif,"Co, Cu, O",Co:3.0; Cu:3.0; O:6.0,3,12.0
+mp-504741.cif,"Hf, Fe, Si",Hf:4.0; Fe:8.0; Si:8.0,3,20.0
+mp-504908.cif,"In, Te, O",In:6.0; Te:3.0; O:18.0,3,27.0
+mp-505071.cif,"Si, Pd",Si:8.0; Pd:36.0,2,44.0
+mp-505110.cif,"Fe, Cu, O",Fe:2.0; Cu:2.0; O:4.0,3,8.0
+mp-505206.cif,"Ta, Si, Te",Ta:12.0; Si:4.0; Te:24.0,3,40.0
+mp-505215.cif,"Ba, Cu, As",Ba:1.0; Cu:6.0; As:2.0,3,9.0
+mp-505297.cif,"Nb, Sb, Ru",Nb:4.0; Sb:4.0; Ru:4.0,3,12.0
+mp-505517.cif,"Ba, Nb, O",Ba:1.0; Nb:4.0; O:6.0,3,11.0
+mp-505527.cif,"Ti, Si",Ti:20.0; Si:16.0,2,36.0
+mp-505540.cif,"Ti, As, Rh",Ti:4.0; As:4.0; Rh:4.0,3,12.0
+mp-505554.cif,"Sc, Fe, Si",Sc:4.0; Fe:8.0; Si:8.0,3,20.0
+mp-505562.cif,"Cr, Cu, O",Cr:2.0; Cu:2.0; O:4.0,3,8.0
+mp-505766.cif,"Sr, Co, O",Sr:1.0; Co:1.0; O:3.0,3,5.0
+mp-505803.cif,"Mn, Fe, As",Mn:2.0; Fe:2.0; As:2.0,3,6.0
+mp-505820.cif,"Ni, P, S",Ni:4.0; P:4.0; S:4.0,3,12.0
+mp-505822.cif,"Ti, Si, Ru",Ti:4.0; Si:4.0; Ru:4.0,3,12.0
+mp-505824.cif,"Cs, Pd, C",Cs:2.0; Pd:1.0; C:2.0,3,5.0
+mp-505825.cif,"Cs, Pt, C",Cs:2.0; Pt:1.0; C:2.0,3,5.0
+mp-507.cif,"Si, Ni",Si:2.0; Ni:4.0,2,6.0
+mp-5077.cif,"Na, Li, Sb",Na:4.0; Li:8.0; Sb:4.0,3,16.0
+mp-5078.cif,"Sr, Zn, F",Sr:4.0; Zn:4.0; F:16.0,3,24.0
+mp-510219.cif,"Sn, Ru",Sn:8.0; Ru:4.0,2,12.0
+mp-510281.cif,"Fe, Cu, O",Fe:3.0; Cu:3.0; O:6.0,3,12.0
+mp-510311.cif,"Ba, Zn, Pb",Ba:2.0; Zn:2.0; Pb:2.0,3,6.0
+mp-510346.cif,"In, Se, Br",In:10.0; Se:10.0; Br:2.0,3,22.0
+mp-510347.cif,"In, S, Br",In:10.0; S:10.0; Br:2.0,3,22.0
+mp-510409.cif,"Ti, Si, Ni",Ti:4.0; Si:4.0; Ni:4.0,3,12.0
+mp-510412.cif,"Si, Ru",Si:12.0; Ru:16.0,2,28.0
+mp-510437.cif,"In, Pd",In:3.0; Pd:2.0,2,5.0
+mp-510441.cif,"Y, In, Pt",Y:2.0; In:2.0; Pt:4.0,3,8.0
+mp-510623.cif,"Fe, C",Fe:12.0; C:4.0,2,16.0
+mp-510624.cif,"Sr, Fe, O",Sr:1.0; Fe:1.0; O:3.0,3,5.0
+mp-510625.cif,"Cr, Cu, O",Cr:3.0; Cu:3.0; O:6.0,3,12.0
+mp-510691.cif,"Hf, Sn",Hf:10.0; Sn:8.0,2,18.0
+mp-510753.cif,"Ni, O",Ni:1.0; O:2.0,2,3.0
+mp-5129.cif,"Y, Co, Si",Y:2.0; Co:4.0; Si:4.0,3,10.0
+mp-5137.cif,"Zr, Sb, P",Zr:4.0; Sb:2.0; P:2.0,3,8.0
+mp-514.cif,"Hf, Zn",Hf:8.0; Zn:16.0,2,24.0
+mp-5149.cif,"Nb, Al, Co",Nb:4.0; Al:4.0; Co:8.0,3,16.0
+mp-5166.cif,"Ca, As, Pd",Ca:2.0; As:4.0; Pd:4.0,3,10.0
+mp-517.cif,"Ta, Si",Ta:3.0; Si:6.0,2,9.0
+mp-5186.cif,"Sc, Ni, Sn",Sc:4.0; Ni:4.0; Sn:4.0,3,12.0
+mp-5193.cif,"Sr, Zr, S",Sr:4.0; Zr:4.0; S:12.0,3,20.0
+mp-5213.cif,"Cd, Sn, P",Cd:4.0; Sn:4.0; P:8.0,3,16.0
+mp-522.cif,"Cu, Au",Cu:1.0; Au:1.0,2,2.0
+mp-5221.cif,"Hf, Al, Co",Hf:4.0; Al:4.0; Co:8.0,3,16.0
+mp-5244.cif,"Ti, Sb, P",Ti:4.0; Sb:2.0; P:2.0,3,8.0
+mp-5259.cif,"Rb, Al, F",Rb:2.0; Al:2.0; F:8.0,3,12.0
+mp-5288.cif,"Y, Fe, Si",Y:2.0; Fe:4.0; Si:4.0,3,10.0
+mp-5292.cif,"Ca, Si, Ni",Ca:2.0; Si:4.0; Ni:4.0,3,10.0
+mp-530399.cif,"Li, Al, O",Li:4.0; Al:20.0; O:32.0,3,56.0
+mp-5305.cif,"Cu, As, S",Cu:4.0; As:4.0; S:4.0,3,12.0
+mp-5318.cif,"Mn, Co, Sb",Mn:4.0; Co:4.0; Sb:4.0,3,12.0
+mp-5348.cif,"Mg, C, O",Mg:6.0; C:6.0; O:18.0,3,30.0
+mp-535.cif,"Fe, N",Fe:4.0; N:1.0,2,5.0
+mp-5396.cif,"Mn, Co, Sb",Mn:4.0; Co:8.0; Sb:4.0,3,16.0
+mp-54.cif,Co,Co:2.0,1,2.0
+mp-540.cif,"Sc, Fe",Sc:8.0; Fe:16.0,2,24.0
+mp-540111.cif,"Fe, P, O",Fe:4.0; P:4.0; O:16.0,3,24.0
+mp-540231.cif,"Li, Fe, P, O",Li:8.0; Fe:4.0; P:8.0; O:28.0,4,48.0
+mp-540284.cif,"Cu, P, O",Cu:2.0; P:2.0; O:8.0,3,12.0
+mp-5407.cif,"Ti, Al, Co",Ti:4.0; Al:4.0; Co:8.0,3,16.0
+mp-540791.cif,"Si, Rh",Si:16.0; Rh:12.0,2,28.0
+mp-540828.cif,"Fe, Cl, O",Fe:2.0; Cl:2.0; O:2.0,3,6.0
+mp-540839.cif,"Cs, Pb, I",Cs:4.0; Pb:4.0; I:12.0,3,20.0
+mp-540925.cif,"Hg, As, F",Hg:8.0; As:4.0; F:24.0,3,36.0
+mp-540957.cif,"Cs, Te, I",Cs:8.0; Te:4.0; I:24.0,3,36.0
+mp-541.cif,"Ta, Sb",Ta:6.0; Sb:2.0,2,8.0
+mp-541014.cif,"Cs, Sb, I",Cs:3.0; Sb:2.0; I:9.0,3,14.0
+mp-541037.cif,"Cs, Cu, O",Cs:4.0; Cu:4.0; O:4.0,3,12.0
+mp-5414.cif,"Na, Sb, S",Na:4.0; Sb:4.0; S:8.0,3,16.0
+mp-541404.cif,"V, O",V:8.0; O:16.0,2,24.0
+mp-541487.cif,"Tl, Pt, Se",Tl:2.0; Pt:4.0; Se:6.0,3,12.0
+mp-541753.cif,"Cs, W, Br",Cs:8.0; W:4.0; Br:24.0,3,36.0
+mp-541837.cif,"Bi, Se",Bi:6.0; Se:9.0,2,15.0
+mp-542018.cif,"Sr, Fe, O",Sr:8.0; Fe:8.0; O:20.0,3,36.0
+mp-542136.cif,"Na, P, S, O",Na:18.0; P:6.0; S:6.0; O:18.0,4,48.0
+mp-542429.cif,"Mg, Rh",Mg:18.0; Rh:6.0,2,24.0
+mp-542488.cif,"Mg, Co",Mg:48.0; Co:48.0,2,96.0
+mp-542569.cif,"Al, Ru",Al:1.0; Ru:1.0,2,2.0
+mp-542640.cif,"Ge, Pt",Ge:4.0; Pt:4.0,2,8.0
+mp-542812.cif,"Ga, Te",Ga:12.0; Te:12.0,2,24.0
+mp-542854.cif,"Mg, Si",Mg:18.0; Si:10.0,2,28.0
+mp-542915.cif,"Ti, Al",Ti:2.0; Al:6.0,2,8.0
+mp-543001.cif,"Zr, Sn",Zr:10.0; Sn:8.0,2,18.0
+mp-544.cif,"Ti, Ir",Ti:6.0; Ir:2.0,2,8.0
+mp-5443.cif,"Nb, Sn, C",Nb:4.0; Sn:2.0; C:2.0,3,8.0
+mp-5456.cif,"Sr, Cu, O",Sr:4.0; Cu:2.0; O:6.0,3,12.0
+mp-545665.cif,"W, O",W:3.0; O:9.0,2,12.0
+mp-545974.cif,"Al, P, O",Al:2.0; P:2.0; O:8.0,3,12.0
+mp-546011.cif,"Y, Zn, As, O",Y:2.0; Zn:2.0; As:2.0; O:2.0,4,8.0
+mp-546125.cif,"Sc, As, O",Sc:4.0; As:4.0; O:16.0,3,24.0
+mp-546279.cif,"Sc, Br, O",Sc:2.0; Br:2.0; O:2.0,3,6.0
+mp-546552.cif,"K, Cr, O",K:3.0; Cr:3.0; O:6.0,3,12.0
+mp-5473.cif,"Ca, Mg, Si",Ca:4.0; Mg:4.0; Si:4.0,3,12.0
+mp-5475.cif,"Na, Ta, N",Na:3.0; Ta:3.0; N:6.0,3,12.0
+mp-5479.cif,"Rb, Al, F",Rb:1.0; Al:1.0; F:4.0,3,6.0
+mp-548.cif,"Nb, Cr",Nb:8.0; Cr:16.0,2,24.0
+mp-5486.cif,"Ca, Cu, Si",Ca:2.0; Cu:4.0; Si:4.0,3,10.0
+mp-549.cif,"Sc, Sb",Sc:4.0; Sb:4.0,2,8.0
+mp-549158.cif,"In, Cu, O",In:2.0; Cu:2.0; O:4.0,3,8.0
+mp-549706.cif,"Mg, O",Mg:2.0; O:2.0,2,4.0
+mp-550.cif,"Al, Mo",Al:24.0; Mo:2.0,2,26.0
+mp-550306.cif,"Y, Cu, Bi, Se, O",Y:2.0; Cu:4.0; Bi:4.0; Se:4.0; O:8.0,5,22.0
+mp-550893.cif,"Hf, O",Hf:4.0; O:8.0,2,12.0
+mp-550908.cif,"Sr, Hf, O",Sr:2.0; Hf:2.0; O:6.0,3,10.0
+mp-551918.cif,"Al, Bi, O",Al:6.0; Bi:6.0; O:18.0,3,30.0
+mp-552454.cif,"Sr, Ta, N, O",Sr:4.0; Ta:4.0; N:4.0; O:8.0,4,20.0
+mp-552588.cif,"Li, Nb, O",Li:6.0; Nb:6.0; O:18.0,3,30.0
+mp-5529.cif,"Mn, Fe, Si",Mn:4.0; Fe:8.0; Si:4.0,3,16.0
+mp-5532.cif,"Sr, Ti, O",Sr:4.0; Ti:2.0; O:8.0,3,14.0
+mp-553243.cif,"Y, Bi, Br, O",Y:1.0; Bi:2.0; Br:1.0; O:4.0,4,8.0
+mp-553303.cif,"Cs, Cu, O",Cs:1.0; Cu:3.0; O:2.0,3,6.0
+mp-553432.cif,"Ti, O",Ti:3.0; O:6.0,2,9.0
+mp-5538.cif,"Y, Sn, Pd",Y:4.0; Sn:4.0; Pd:8.0,3,16.0
+mp-553875.cif,"Zr, S, N",Zr:2.0; S:1.0; N:2.0,3,5.0
+mp-553946.cif,"Co, As, S",Co:2.0; As:2.0; S:2.0,3,6.0
+mp-553961.cif,"Sc, Nb, O",Sc:2.0; Nb:2.0; O:8.0,3,12.0
+mp-554089.cif,"Si, O",Si:4.0; O:8.0,2,12.0
+mp-5541.cif,"Zr, V, Si",Zr:2.0; V:2.0; Si:2.0,3,6.0
+mp-554107.cif,"K, Na, Ge, O",K:8.0; Na:16.0; Ge:8.0; O:28.0,4,60.0
+mp-554278.cif,"Ti, O",Ti:8.0; O:16.0,2,24.0
+mp-554405.cif,"Zn, S",Zn:15.0; S:15.0,2,30.0
+mp-554573.cif,"Si, O",Si:8.0; O:16.0,2,24.0
+mp-554601.cif,"Rb, Cu, F",Rb:1.0; Cu:1.0; F:3.0,3,5.0
+mp-554689.cif,"Li, Co, F",Li:2.0; Co:2.0; F:8.0,3,12.0
+mp-5549.cif,"Mg, Sn, Au",Mg:4.0; Sn:4.0; Au:4.0,3,12.0
+mp-554973.cif,"Tl, Cu, F",Tl:1.0; Cu:1.0; F:3.0,3,5.0
+mp-555280.cif,"Zn, S",Zn:18.0; S:18.0,2,36.0
+mp-555370.cif,"V, Mo, S",V:2.0; Mo:4.0; S:8.0,3,14.0
+mp-555599.cif,"Cu, S",Cu:12.0; S:12.0,2,24.0
+mp-555908.cif,"Co, F",Co:2.0; F:4.0,2,6.0
+mp-555934.cif,"V, F",V:2.0; F:4.0,2,6.0
+mp-556.cif,"Zr, Ni",Zr:4.0; Ni:4.0,2,8.0
+mp-556125.cif,"Na, B, H, O",Na:8.0; B:4.0; H:4.0; O:12.0,4,28.0
+mp-556194.cif,"Sr, Sb, Se, F",Sr:2.0; Sb:2.0; Se:4.0; F:2.0,4,10.0
+mp-556324.cif,"Ni, F",Ni:2.0; F:4.0,2,6.0
+mp-556415.cif,"Li, Mn, O",Li:8.0; Mn:8.0; O:16.0,3,32.0
+mp-556417.cif,"Rb, Ni, F",Rb:8.0; Ni:4.0; F:24.0,3,36.0
+mp-556424.cif,"Rb, V, F",Rb:1.0; V:1.0; F:3.0,3,5.0
+mp-556548.cif,"Bi, B, O",Bi:4.0; B:12.0; O:24.0,3,40.0
+mp-556605.cif,"Zr, O",Zr:4.0; O:8.0,2,12.0
+mp-556911.cif,"Fe, F",Fe:2.0; F:4.0,2,6.0
+mp-556927.cif,"Rb, Fe, F",Rb:2.0; Fe:2.0; F:8.0,3,12.0
+mp-557257.cif,"K, V, F",K:1.0; V:1.0; F:3.0,3,5.0
+mp-557373.cif,"Cu, W, S",Cu:4.0; W:2.0; S:8.0,3,14.0
+mp-557686.cif,"Zr, V, F",Zr:4.0; V:4.0; F:24.0,3,32.0
+mp-557862.cif,"Ba, Ag, Hg, O",Ba:2.0; Ag:4.0; Hg:4.0; O:8.0,4,18.0
+mp-557938.cif,"Hf, V, F",Hf:4.0; V:4.0; F:24.0,3,32.0
+mp-557993.cif,"Bi, O",Bi:8.0; O:16.0,2,24.0
+mp-558432.cif,"Na, P, S, O",Na:24.0; P:8.0; S:16.0; O:16.0,4,64.0
+mp-558781.cif,"Sc, Ta, O",Sc:2.0; Ta:2.0; O:8.0,3,12.0
+mp-558852.cif,"Fe, F",Fe:1.0; F:3.0,2,4.0
+mp-559.cif,"Y, Pd",Y:1.0; Pd:3.0,2,4.0
+mp-5590.cif,"Y, Mg, Ga",Y:3.0; Mg:3.0; Ga:3.0,3,9.0
+mp-559092.cif,"Sc, F",Sc:3.0; F:9.0,2,12.0
+mp-559122.cif,"W, O",W:4.0; O:12.0,2,16.0
+mp-559435.cif,"Co, F",Co:1.0; F:3.0,2,4.0
+mp-559598.cif,"Li, Sc, F",Li:4.0; Sc:4.0; F:16.0,3,24.0
+mp-559676.cif,"Sn, S",Sn:4.0; S:4.0,2,8.0
+mp-5597.cif,"Ca, Fe, P",Ca:2.0; Fe:4.0; P:4.0,3,10.0
+mp-559798.cif,"Ni, F",Ni:2.0; F:4.0,2,6.0
+mp-559976.cif,"Ta, C, S",Ta:2.0; C:1.0; S:2.0,3,5.0
+mp-560588.cif,"Zn, S",Zn:2.0; S:2.0,2,4.0
+mp-5606.cif,"Al, Tl, F",Al:1.0; Tl:1.0; F:4.0,3,6.0
+mp-560865.cif,"Zr, Cu, F",Zr:1.0; Cu:1.0; F:6.0,3,8.0
+mp-560878.cif,"Rb, Co, F",Rb:8.0; Co:4.0; F:24.0,3,36.0
+mp-560888.cif,"Cu, Mo, O",Cu:2.0; Mo:2.0; O:8.0,3,12.0
+mp-560902.cif,"Mn, F",Mn:2.0; F:4.0,2,6.0
+mp-560976.cif,"K, Ni, F",K:1.0; Ni:1.0; F:3.0,3,5.0
+mp-561317.cif,"Rb, Ni, F",Rb:4.0; Ni:2.0; F:8.0,3,14.0
+mp-561511.cif,"Fe, As, S",Fe:4.0; As:4.0; S:4.0,3,12.0
+mp-562.cif,"Sb, Pt",Sb:8.0; Pt:4.0,2,12.0
+mp-5621.cif,"Nb, Cu, S",Nb:1.0; Cu:3.0; S:4.0,3,8.0
+mp-562561.cif,"Mo, O",Mo:2.0; O:6.0,2,8.0
+mp-564.cif,"Te, Pd",Te:2.0; Pd:2.0,2,4.0
+mp-565.cif,"Sn, Rh",Sn:8.0; Rh:4.0,2,12.0
+mp-5652.cif,"Y, Si, O",Y:4.0; Si:4.0; O:14.0,3,22.0
+mp-5659.cif,"Ti, Si, C",Ti:6.0; Si:2.0; C:4.0,3,12.0
+mp-566278.cif,"W, O",W:4.0; O:12.0,2,16.0
+mp-5670.cif,"Li, Ti, O",Li:8.0; Ti:16.0; O:32.0,3,56.0
+mp-567164.cif,"B, Rh",B:2.0; Rh:2.0,2,4.0
+mp-567191.cif,"Ca, Al, Si",Ca:5.0; Al:5.0; Si:5.0,3,15.0
+mp-567197.cif,"Y, Sn, Au",Y:2.0; Sn:2.0; Au:2.0,3,6.0
+mp-567220.cif,"Hf, Sb, P",Hf:4.0; Sb:2.0; P:2.0,3,8.0
+mp-567276.cif,"Ta, V",Ta:8.0; V:16.0,2,24.0
+mp-567313.cif,Te,Te:3.0,1,3.0
+mp-567345.cif,"Nb, Rh",Nb:3.0; Rh:3.0,2,6.0
+mp-567395.cif,"Li, Au",Li:60.0; Au:16.0,2,76.0
+mp-567397.cif,"W, C",W:6.0; C:3.0,2,9.0
+mp-567412.cif,"Y, Sn",Y:10.0; Sn:6.0,2,16.0
+mp-567462.cif,"Sc, Rh, C",Sc:12.0; Rh:4.0; C:16.0,3,32.0
+mp-567510.cif,"Ba, Sn",Ba:1.0; Sn:2.0,2,3.0
+mp-5676.cif,"Mn, Sb, Pt",Mn:4.0; Sb:4.0; Pt:4.0,3,12.0
+mp-567612.cif,"Sc, Os",Sc:4.0; Os:8.0,2,12.0
+mp-567618.cif,"Si, Pt",Si:20.0; Pt:48.0,2,68.0
+mp-567629.cif,"Cs, Pb, Br",Cs:4.0; Pb:4.0; Br:12.0,3,20.0
+mp-567636.cif,"V, Fe, Sb",V:4.0; Fe:4.0; Sb:4.0,3,12.0
+mp-567652.cif,"Cs, Li, Y, Cl",Cs:8.0; Li:4.0; Y:4.0; Cl:24.0,4,40.0
+mp-567666.cif,"Ba, Bi, N",Ba:6.0; Bi:2.0; N:2.0,3,10.0
+mp-567681.cif,"Cs, Pb, Br",Cs:4.0; Pb:4.0; Br:12.0,3,20.0
+mp-567705.cif,"Ti, Al",Ti:8.0; Al:16.0,2,24.0
+mp-567713.cif,"Nb, Te, I",Nb:3.0; Te:1.0; I:7.0,3,11.0
+mp-567749.cif,"Y, Si, Os",Y:2.0; Si:4.0; Os:4.0,3,10.0
+mp-567750.cif,"Sc, Ru",Sc:4.0; Ru:8.0,2,12.0
+mp-567769.cif,"Ca, Si, Pd",Ca:2.0; Si:4.0; Pd:4.0,3,10.0
+mp-567841.cif,"Be, P",Be:48.0; P:32.0,2,80.0
+mp-567842.cif,"Ta, Be",Ta:2.0; Be:24.0,2,26.0
+mp-567871.cif,"Nb, Si",Nb:10.0; Si:6.0,2,16.0
+mp-567889.cif,"Ti, Ge",Ti:8.0; Ge:16.0,2,24.0
+mp-567907.cif,"P, N",P:12.0; N:20.0,2,32.0
+mp-567929.cif,"Al, Os",Al:26.0; Os:8.0,2,34.0
+mp-567981.cif,"Cr, Ga, Co",Cr:4.0; Ga:4.0; Co:8.0,3,16.0
+mp-567982.cif,"Ta, Sn",Ta:16.0; Sn:32.0,2,48.0
+mp-567996.cif,"Nb, Si",Nb:20.0; Si:12.0,2,32.0
+mp-568.cif,"Ti, Sb",Ti:4.0; Sb:8.0,2,12.0
+mp-568014.cif,"Nb, Bi",Nb:6.0; Bi:2.0,2,8.0
+mp-568077.cif,"Ta, Fe",Ta:4.0; Fe:8.0,2,12.0
+mp-568106.cif,"Mg, Al",Mg:41.0; Al:67.0,2,108.0
+mp-568121.cif,"Mn, Si",Mn:16.0; Si:28.0,2,44.0
+mp-568186.cif,"Y, Ru",Y:4.0; Ru:8.0,2,12.0
+mp-568284.cif,"Sr, I",Sr:4.0; I:8.0,2,12.0
+mp-568293.cif,"Ca, N",Ca:12.0; N:8.0,2,20.0
+mp-568328.cif,"Fe, P",Fe:4.0; P:16.0,2,20.0
+mp-568346.cif,"Hf, Br, N",Hf:2.0; Br:2.0; N:2.0,3,6.0
+mp-568419.cif,"Mg, Ir",Mg:18.0; Ir:6.0,2,24.0
+mp-568495.cif,"Cu, Sn",Cu:20.0; Sn:6.0,2,26.0
+mp-568560.cif,"Tl, Br",Tl:4.0; Br:4.0,2,8.0
+mp-568565.cif,"Cr, As",Cr:2.0; As:2.0,2,4.0
+mp-568598.cif,"Cu, Hg, I",Cu:2.0; Hg:1.0; I:4.0,3,7.0
+mp-568607.cif,"Al, Mo",Al:10.0; Mo:2.0,2,12.0
+mp-568636.cif,"Ti, Cr",Ti:8.0; Cr:16.0,2,24.0
+mp-568661.cif,"Cd, In, Se",Cd:2.0; In:4.0; Se:8.0,3,14.0
+mp-568671.cif,"V, Si",V:20.0; Si:12.0,2,32.0
+mp-568673.cif,"Y, Si, Ru",Y:2.0; Si:4.0; Ru:4.0,3,10.0
+mp-568695.cif,"Ca, Cd, Sn",Ca:3.0; Cd:3.0; Sn:3.0,3,9.0
+mp-568711.cif,"V, Pd",V:1.0; Pd:3.0,2,4.0
+mp-568718.cif,"Hf, Al",Hf:4.0; Al:12.0,2,16.0
+mp-568746.cif,"Bi, Pd",Bi:8.0; Pd:4.0,2,12.0
+mp-568792.cif,"Si, Rh",Si:10.0; Rh:8.0,2,18.0
+mp-568803.cif,"Mg, B, C",Mg:4.0; B:48.0; C:8.0,3,60.0
+mp-568809.cif,"Ba, Al, Pb",Ba:5.0; Al:5.0; Pb:1.0,3,11.0
+mp-568827.cif,"Be, W",Be:24.0; W:2.0,2,26.0
+mp-568865.cif,"Zr, Te",Zr:4.0; Te:4.0,2,8.0
+mp-568901.cif,"Nb, Fe",Nb:4.0; Fe:8.0,2,12.0
+mp-568912.cif,"Be, Nb",Be:24.0; Nb:2.0,2,26.0
+mp-568914.cif,"K, W, Cl",K:8.0; W:4.0; Cl:24.0,3,36.0
+mp-568920.cif,"Ca, Au",Ca:4.0; Au:20.0,2,24.0
+mp-568961.cif,"Ba, Fe, As",Ba:2.0; Fe:4.0; As:4.0,3,10.0
+mp-568974.cif,"Ca, Cu, Sn",Ca:2.0; Cu:4.0; Sn:4.0,3,10.0
+mp-569018.cif,"Mg, Bi",Mg:3.0; Bi:2.0,2,5.0
+mp-569066.cif,"Cs, Pd, I",Cs:8.0; Pd:4.0; I:24.0,3,36.0
+mp-569073.cif,"Li, Sn",Li:3.0; Sn:3.0,2,6.0
+mp-569125.cif,"Mg, In",Mg:3.0; In:1.0,2,4.0
+mp-569151.cif,"Mn, Ga, Pt",Mn:2.0; Ga:2.0; Pt:2.0,3,6.0
+mp-569167.cif,"Nb, N",Nb:8.0; N:6.0,2,14.0
+mp-569196.cif,"Y, Ni",Y:9.0; Ni:27.0,2,36.0
+mp-569249.cif,"Ta, Au",Ta:6.0; Au:2.0,2,8.0
+mp-569250.cif,"V, Ir",V:4.0; Ir:4.0,2,8.0
+mp-569265.cif,"Mg, Pt",Mg:6.0; Pt:2.0,2,8.0
+mp-569298.cif,"Ca, Co, As",Ca:2.0; Co:4.0; As:4.0,3,10.0
+mp-5693.cif,"Na, Cr, S",Na:3.0; Cr:3.0; S:6.0,3,12.0
+mp-569331.cif,"Li, Sn, Pd",Li:2.0; Sn:12.0; Pd:4.0,3,18.0
+mp-569346.cif,"Cu, I",Cu:2.0; I:2.0,2,4.0
+mp-569364.cif,"Be, Re",Be:176.0; Re:8.0,2,184.0
+mp-569426.cif,"Sr, Zn",Sr:4.0; Zn:8.0,2,12.0
+mp-569446.cif,"Ni, Pb",Ni:2.0; Pb:2.0,2,4.0
+mp-569458.cif,"Al, V, C",Al:2.0; V:8.0; C:6.0,3,16.0
+mp-569511.cif,"Ni, Te, Pd",Ni:4.0; Te:4.0; Pd:4.0,3,12.0
+mp-569522.cif,"Mn, P",Mn:6.0; P:24.0,2,30.0
+mp-569558.cif,"Al, Au",Al:4.0; Au:8.0,2,12.0
+mp-569568.cif,"Ta, Al, C",Ta:6.0; Al:2.0; C:4.0,3,12.0
+mp-569581.cif,"Bi, Pt",Bi:2.0; Pt:1.0,2,3.0
+mp-569603.cif,"Ba, Ca, Cu, N",Ba:4.0; Ca:16.0; Cu:8.0; N:16.0,4,44.0
+mp-569624.cif,"Hf, Cr",Hf:4.0; Cr:8.0,2,12.0
+mp-569628.cif,"Ca, Cd, Au",Ca:4.0; Cd:4.0; Au:4.0,3,12.0
+mp-569639.cif,"Tl, Cl",Tl:4.0; Cl:4.0,2,8.0
+mp-569662.cif,"V, Ni, Se",V:4.0; Ni:2.0; Se:8.0,3,14.0
+mp-569671.cif,"Zr, Sb",Zr:4.0; Sb:4.0,2,8.0
+mp-569775.cif,"Zr, Al",Zr:1.0; Al:3.0,2,4.0
+mp-569779.cif,"Sc, Sb, Pd",Sc:4.0; Sb:4.0; Pd:4.0,3,12.0
+mp-569785.cif,"Tl, Pd",Tl:1.0; Pd:3.0,2,4.0
+mp-569788.cif,"Li, Zn, Ge",Li:3.0; Zn:3.0; Ge:3.0,3,9.0
+mp-569794.cif,Ta,Ta:30.0,1,30.0
+mp-569803.cif,"B, W",B:8.0; W:4.0,2,12.0
+mp-569815.cif,"Si, Ru",Si:32.0; Ru:16.0,2,48.0
+mp-569833.cif,"Zr, Ga",Zr:8.0; Ga:4.0,2,12.0
+mp-569834.cif,"Li, Cu, Sn",Li:2.0; Cu:4.0; Sn:2.0,3,8.0
+mp-569837.cif,"Ti, Sb",Ti:24.0; Sb:8.0,2,32.0
+mp-569849.cif,"Li, Si",Li:60.0; Si:16.0,2,76.0
+mp-569875.cif,"Sc, B, Rh",Sc:1.0; B:1.0; Rh:3.0,3,5.0
+mp-569886.cif,"K, In, Ni",K:1.0; In:9.0; Ni:2.0,3,12.0
+mp-5699.cif,"K, Cu, F",K:4.0; Cu:2.0; F:8.0,3,14.0
+mp-569989.cif,"Nb, C",Nb:8.0; C:4.0,2,12.0
+mp-570001.cif,"Al, Fe",Al:24.0; Fe:4.0,2,28.0
+mp-570074.cif,"Sc, Ir, C",Sc:12.0; Ir:4.0; C:16.0,3,32.0
+mp-570081.cif,"Cu, I",Cu:2.0; I:2.0,2,4.0
+mp-570097.cif,"Sr, Li, P",Sr:3.0; Li:12.0; P:6.0,3,21.0
+mp-570112.cif,"Cr, C",Cr:12.0; C:8.0,2,20.0
+mp-570150.cif,"Ca, Al, Si",Ca:6.0; Al:6.0; Si:6.0,3,18.0
+mp-570196.cif,"Zr, Sb",Zr:10.0; Sb:8.0,2,18.0
+mp-570197.cif,"Bi, Pd",Bi:4.0; Pd:2.0,2,6.0
+mp-570198.cif,"Ba, Zn, As",Ba:2.0; Zn:4.0; As:4.0,3,10.0
+mp-570199.cif,"Ti, Pd",Ti:3.0; Pd:5.0,2,8.0
+mp-570213.cif,"Li, Mg, Bi",Li:4.0; Mg:4.0; Bi:4.0,3,12.0
+mp-570256.cif,"Ag, Hg, I",Ag:2.0; Hg:1.0; I:4.0,3,7.0
+mp-570276.cif,"Zr, Zn",Zr:1.0; Zn:1.0,2,2.0
+mp-570287.cif,"Ta, Si",Ta:20.0; Si:12.0,2,32.0
+mp-570377.cif,"Sn, As",Sn:3.0; As:4.0,2,7.0
+mp-570428.cif,"Sc, In",Sc:3.0; In:1.0,2,4.0
+mp-570430.cif,"Ta, Co",Ta:4.0; Co:8.0,2,12.0
+mp-570436.cif,"Ca, Ir",Ca:8.0; Ir:16.0,2,24.0
+mp-570452.cif,"Y, Si, Au",Y:2.0; Si:4.0; Au:4.0,3,10.0
+mp-570483.cif,"V, Si",V:10.0; Si:6.0,2,16.0
+mp-570485.cif,"Sr, Al, Si, H",Sr:1.0; Al:1.0; Si:1.0; H:1.0,4,4.0
+mp-570491.cif,"Ta, Ni",Ta:2.0; Ni:6.0,2,8.0
+mp-570553.cif,"Fe, P",Fe:8.0; P:32.0,2,40.0
+mp-570557.cif,"Nb, Co",Nb:6.0; Co:18.0,2,24.0
+mp-570578.cif,"Zr, In",Zr:2.0; In:6.0,2,8.0
+mp-570632.cif,"Sc, Bi",Sc:4.0; Bi:4.0,2,8.0
+mp-570670.cif,"Y, Os",Y:4.0; Os:8.0,2,12.0
+mp-570673.cif,"Sc, Ni",Sc:1.0; Ni:5.0,2,6.0
+mp-570677.cif,"Ba, Al, Sn",Ba:5.0; Al:5.0; Sn:1.0,3,11.0
+mp-570684.cif,"Zr, Os",Zr:4.0; Os:8.0,2,12.0
+mp-570689.cif,"Ca, In, Pt",Ca:4.0; In:4.0; Pt:4.0,3,12.0
+mp-570691.cif,"Ti, Sn",Ti:3.0; Sn:1.0,2,4.0
+mp-570698.cif,"V, Au",V:3.0; Au:1.0,2,4.0
+mp-570713.cif,"Ti, Al, Pt",Ti:2.0; Al:2.0; Pt:2.0,3,6.0
+mp-570744.cif,"Si, As",Si:3.0; As:4.0,2,7.0
+mp-570751.cif,"Nb, Te",Nb:6.0; Te:2.0,2,8.0
+mp-570784.cif,"Hf, Al, C",Hf:4.0; Al:6.0; C:8.0,3,18.0
+mp-570832.cif,"Sr, Pt",Sr:1.0; Pt:5.0,2,6.0
+mp-570896.cif,"Tl, Pd",Tl:8.0; Pd:4.0,2,12.0
+mp-570904.cif,"Ga, Ni",Ga:2.0; Ni:4.0,2,6.0
+mp-570923.cif,"Y, Re",Y:4.0; Re:8.0,2,12.0
+mp-570930.cif,"Bi, Pb, Se",Bi:2.0; Pb:2.0; Se:5.0,3,9.0
+mp-570935.cif,"Li, I",Li:2.0; I:2.0,2,4.0
+mp-570963.cif,"Ta, Cr",Ta:4.0; Cr:8.0,2,12.0
+mp-571.cif,"Ti, Ni",Ti:1.0; Ni:1.0,2,2.0
+mp-571033.cif,"Ni, Se",Ni:2.0; Se:2.0,2,4.0
+mp-571039.cif,"Ca, Al, Pd",Ca:4.0; Al:4.0; Pd:4.0,3,12.0
+mp-571053.cif,"Al, Mo",Al:30.0; Mo:6.0,2,36.0
+mp-571059.cif,"Y, Cd",Y:4.0; Cd:12.0,2,16.0
+mp-571126.cif,"Ti, B, Rh",Ti:8.0; B:4.0; Rh:24.0,3,36.0
+mp-571160.cif,"Tl, Pt",Tl:8.0; Pt:4.0,2,12.0
+mp-571163.cif,"Mn, Sb, Rh",Mn:1.0; Sb:1.0; Rh:2.0,3,4.0
+mp-571193.cif,"Mn, P",Mn:16.0; P:64.0,2,80.0
+mp-571222.cif,"Cs, Br",Cs:4.0; Br:4.0,2,8.0
+mp-571247.cif,"Al, Mo",Al:24.0; Mo:8.0,2,32.0
+mp-571262.cif,"Ca, Rh",Ca:8.0; Rh:16.0,2,24.0
+mp-571263.cif,"K, In, Co",K:1.0; In:9.0; Co:2.0,3,12.0
+mp-571264.cif,"Ca, Au",Ca:10.0; Au:8.0,2,18.0
+mp-571270.cif,"Nb, Se",Nb:4.0; Se:8.0,2,12.0
+mp-571367.cif,"Hf, Co, Si",Hf:2.0; Co:4.0; Si:4.0,3,10.0
+mp-571420.cif,"Ba, Ni, P",Ba:2.0; Ni:4.0; P:8.0,3,14.0
+mp-571458.cif,"Rb, Ge, I",Rb:1.0; Ge:1.0; I:3.0,3,5.0
+mp-571499.cif,"Ta, Ir",Ta:6.0; Ir:6.0,2,12.0
+mp-571513.cif,"Rb, Nb, Cl",Rb:8.0; Nb:4.0; Cl:24.0,3,36.0
+mp-571555.cif,"In, Cl",In:4.0; Cl:4.0,2,8.0
+mp-571594.cif,"K, Ag, Sn, Se",K:6.0; Ag:2.0; Sn:6.0; Se:16.0,4,30.0
+mp-571599.cif,"Ba, Bi, Pd",Ba:2.0; Bi:4.0; Pd:4.0,3,10.0
+mp-571619.cif,"Hf, Al, Pt",Hf:6.0; Al:6.0; Pt:6.0,3,18.0
+mp-571622.cif,"Be, Pt",Be:24.0; Pt:2.0,2,26.0
+mp-571636.cif,"In, Cl",In:4.0; Cl:4.0,2,8.0
+mp-571651.cif,"Ti, Se",Ti:4.0; Se:4.0,2,8.0
+mp-5723.cif,"Zr, Al, Ni",Zr:3.0; Al:3.0; Ni:3.0,3,9.0
+mp-573697.cif,"Cs, Cl",Cs:4.0; Cl:4.0,2,8.0
+mp-574.cif,"Ta, Co",Ta:8.0; Co:4.0,2,12.0
+mp-5748.cif,"Hf, Al, Ni",Hf:4.0; Al:4.0; Ni:8.0,3,16.0
+mp-5777.cif,"Ba, Ti, O",Ba:2.0; Ti:2.0; O:6.0,3,10.0
+mp-5778.cif,"Al, V, Fe",Al:4.0; V:4.0; Fe:8.0,3,16.0
+mp-5782.cif,"Al, Ag, S",Al:4.0; Ag:4.0; S:8.0,3,16.0
+mp-578604.cif,"Na, Cr, O",Na:3.0; Cr:3.0; O:6.0,3,12.0
+mp-5795.cif,"Ca, Mg, N",Ca:1.0; Mg:2.0; N:2.0,3,5.0
+mp-580234.cif,"Fe, Rh, N",Fe:3.0; Rh:1.0; N:1.0,3,5.0
+mp-580287.cif,"Zr, Cu",Zr:3.0; Cu:1.0,2,4.0
+mp-580357.cif,"Cu, Pd",Cu:3.0; Pd:1.0,2,4.0
+mp-580886.cif,"Zr, I, N",Zr:6.0; I:6.0; N:6.0,3,18.0
+mp-581733.cif,"Zr, Cu, P",Zr:8.0; Cu:2.0; P:2.0,3,12.0
+mp-581786.cif,"Cu, Sn",Cu:6.0; Sn:2.0,2,8.0
+mp-582360.cif,"Ta, Pd",Ta:10.0; Pd:30.0,2,40.0
+mp-5827.cif,"Ca, Ti, O",Ca:1.0; Ti:1.0; O:3.0,3,5.0
+mp-583.cif,"Co, As",Co:4.0; As:4.0,2,8.0
+mp-5839.cif,"Ti, P, O",Ti:4.0; P:4.0; O:16.0,3,24.0
+mp-585.cif,"Mn, B",Mn:1.0; B:2.0,2,3.0
+mp-5869.cif,"Ca, Cu, O",Ca:4.0; Cu:2.0; O:6.0,3,12.0
+mp-5878.cif,"K, Zn, F",K:1.0; Zn:1.0; F:3.0,3,5.0
+mp-590.cif,"Ni, As",Ni:2.0; As:2.0,2,4.0
+mp-5910.cif,"Ca, Cu, Sb",Ca:2.0; Cu:2.0; Sb:2.0,3,6.0
+mp-5918.cif,"Hf, Ni, P",Hf:4.0; Ni:2.0; P:2.0,3,8.0
+mp-592.cif,"Ti, Ru",Ti:1.0; Ru:1.0,2,2.0
+mp-5920.cif,"Li, Al, Ge",Li:4.0; Al:4.0; Ge:4.0,3,12.0
+mp-5928.cif,"Al, Cd, S",Al:4.0; Cd:2.0; S:8.0,3,14.0
+mp-5929.cif,"Na, Si, P",Na:20.0; Si:4.0; P:12.0,3,36.0
+mp-593.cif,"Al, Cu",Al:16.0; Cu:36.0,2,52.0
+mp-5933.cif,"Ba, Ti, O",Ba:6.0; Ti:6.0; O:18.0,3,30.0
+mp-5938.cif,"Sr, Cu, O",Sr:2.0; Cu:4.0; O:6.0,3,12.0
+mp-5962.cif,"Na, Mg, As",Na:2.0; Mg:2.0; As:2.0,3,6.0
+mp-5967.cif,"Ti, Co, Sb",Ti:4.0; Co:4.0; Sb:4.0,3,12.0
+mp-597.cif,"Ti, Ni",Ti:9.0; Ni:9.0,2,18.0
+mp-5971.cif,"Y, B, Pt",Y:3.0; B:3.0; Pt:6.0,3,12.0
+mp-5986.cif,"Ba, Ti, O",Ba:1.0; Ti:1.0; O:3.0,3,5.0
+mp-600124.cif,"Mn, Ni, Sb",Mn:4.0; Ni:4.0; Sb:4.0,3,12.0
+mp-600428.cif,"Mn, Sn",Mn:12.0; Sn:8.0,2,20.0
+mp-601285.cif,"Mn, Ga, Ni",Mn:2.0; Ga:2.0; Ni:4.0,3,8.0
+mp-601820.cif,"Fe, Co",Fe:3.0; Co:1.0,2,4.0
+mp-601848.cif,"Fe, Co",Fe:11.0; Co:5.0,2,16.0
+mp-603.cif,"Be, Ag",Be:16.0; Ag:8.0,2,24.0
+mp-604908.cif,"Co, Se",Co:2.0; Se:2.0,2,4.0
+mp-605034.cif,"K, Ni, F",K:8.0; Ni:4.0; F:24.0,3,36.0
+mp-605663.cif,"Al, Pd",Al:4.0; Pd:20.0,2,24.0
+mp-606949.cif,C,C:12.0,1,12.0
+mp-607111.cif,"Al, Pt",Al:4.0; Pt:12.0,2,16.0
+mp-607475.cif,"Zr, In, Co",Zr:4.0; In:5.0; Co:2.0,3,11.0
+mp-610972.cif,"Mn, Ge, Pd",Mn:3.0; Ge:3.0; Pd:3.0,3,9.0
+mp-614603.cif,"Cs, I",Cs:4.0; I:4.0,2,8.0
+mp-615.cif,"Y, Mg",Y:1.0; Mg:1.0,2,2.0
+mp-615314.cif,"Sc, Co, C",Sc:2.0; Co:2.0; C:4.0,3,8.0
+mp-616378.cif,"Cs, Sn, I",Cs:2.0; Sn:2.0; I:6.0,3,10.0
+mp-616559.cif,"Ti, S",Ti:24.0; S:12.0,2,36.0
+mp-618991.cif,"Cu, S",Cu:8.0; S:4.0,2,12.0
+mp-620571.cif,"Ca, In, Pd",Ca:4.0; In:4.0; Pd:4.0,3,12.0
+mp-622209.cif,"Al, Ni",Al:12.0; Ni:4.0,2,16.0
+mp-622497.cif,"V, O",V:12.0; O:20.0,2,32.0
+mp-622570.cif,"Ti, Cu",Ti:4.0; Cu:6.0,2,10.0
+mp-625.cif,"Mg, Ru",Mg:12.0; Ru:8.0,2,20.0
+mp-625054.cif,"Al, H, O",Al:4.0; H:4.0; O:8.0,3,16.0
+mp-625055.cif,"Al, H, O",Al:2.0; H:2.0; O:4.0,3,8.0
+mp-625136.cif,"Cs, H, O",Cs:4.0; H:4.0; O:4.0,3,12.0
+mp-625487.cif,"Zn, H, O",Zn:1.0; H:2.0; O:2.0,3,5.0
+mp-626495.cif,"Fe, H, O",Fe:2.0; H:2.0; O:4.0,3,8.0
+mp-626680.cif,"Fe, H, O",Fe:1.0; H:2.0; O:2.0,3,5.0
+mp-628.cif,"Zr, Co",Zr:8.0; Co:4.0,2,12.0
+mp-628606.cif,"Rb, Pd, I",Rb:8.0; Pd:4.0; I:24.0,3,36.0
+mp-631.cif,"Ti, C",Ti:4.0; C:4.0,2,8.0
+mp-635.cif,"Sc, Rh",Sc:1.0; Rh:3.0,2,4.0
+mp-636284.cif,"W, O",W:4.0; O:12.0,2,16.0
+mp-636328.cif,"Ti, Pd",Ti:1.0; Pd:3.0,2,4.0
+mp-636334.cif,"Sn, Rh",Sn:4.0; Rh:8.0,2,12.0
+mp-637614.cif,"Zn, In, S",Zn:3.0; In:2.0; S:6.0,3,11.0
+mp-638.cif,"Sr, Zn",Sr:1.0; Zn:5.0,2,6.0
+mp-639789.cif,"Fe, Re",Fe:8.0; Re:12.0,2,20.0
+mp-639874.cif,"Ta, Al",Ta:20.0; Al:10.0,2,30.0
+mp-639910.cif,"Y, Sn, Ru",Y:2.0; Sn:12.0; Ru:8.0,3,22.0
+mp-640041.cif,"Nb, Zn",Nb:4.0; Zn:64.0,2,68.0
+mp-641526.cif,"Fe, Co",Fe:13.0; Co:3.0,2,16.0
+mp-642644.cif,"V, H",V:4.0; H:2.0,2,6.0
+mp-642659.cif,"V, H",V:16.0; H:8.0,2,24.0
+mp-643002.cif,"Mg, H, Os",Mg:8.0; H:24.0; Os:4.0,3,36.0
+mp-643009.cif,"Sr, Mg, H",Sr:4.0; Mg:4.0; H:16.0,3,24.0
+mp-643063.cif,"Nb, Se",Nb:4.0; Se:8.0,2,12.0
+mp-643101.cif,"Rb, H, Pt",Rb:8.0; H:24.0; Pt:4.0,3,36.0
+mp-643243.cif,"Cs, H, Pt",Cs:8.0; H:24.0; Pt:4.0,3,36.0
+mp-643257.cif,"K, H, Pd",K:4.0; H:8.0; Pd:2.0,3,14.0
+mp-643260.cif,"Na, H, Pd",Na:4.0; H:8.0; Pd:2.0,3,14.0
+mp-643279.cif,"K, H, Pt",K:8.0; H:24.0; Pt:4.0,3,36.0
+mp-643367.cif,"Y, C, Br",Y:4.0; C:4.0; Br:4.0,3,12.0
+mp-643370.cif,"Ba, Mg, H",Ba:2.0; Mg:1.0; H:6.0,3,9.0
+mp-643409.cif,"Ba, Y, Cu, O",Ba:8.0; Y:2.0; Cu:6.0; O:18.0,4,34.0
+mp-644225.cif,"Sr, Mg, H",Sr:2.0; Mg:1.0; H:6.0,3,9.0
+mp-644264.cif,"Ca, Mg, Fe, H",Ca:4.0; Mg:4.0; Fe:3.0; H:22.0,4,33.0
+mp-644278.cif,"Y, H, C",Y:2.0; H:2.0; C:1.0,3,5.0
+mp-644280.cif,"Ga, Cu, Pt",Ga:1.0; Cu:1.0; Pt:2.0,3,4.0
+mp-644481.cif,"Sc, O",Sc:4.0; O:4.0,2,8.0
+mp-645159.cif,"Fe, Bi, O",Fe:4.0; Bi:4.0; O:12.0,3,20.0
+mp-646824.cif,"Ca, Ag",Ca:12.0; Ag:32.0,2,44.0
+mp-647.cif,"Nb, S",Nb:2.0; S:2.0,2,4.0
+mp-648.cif,"Na, S",Na:8.0; S:4.0,2,12.0
+mp-649774.cif,"Cu, Sb, Pb, S",Cu:4.0; Sb:4.0; Pb:4.0; S:12.0,4,24.0
+mp-650.cif,"Be, Pd",Be:20.0; Pd:4.0,2,24.0
+mp-656887.cif,"Ni, O",Ni:6.0; O:8.0,2,14.0
+mp-6606.cif,"Sr, Y, Si, N",Sr:2.0; Y:2.0; Si:8.0; N:14.0,4,26.0
+mp-661.cif,"Al, N",Al:2.0; N:2.0,2,4.0
+mp-662.cif,"Ni, Se",Ni:2.0; Se:2.0,2,4.0
+mp-6668.cif,"Li, Ti, P, O",Li:4.0; Ti:4.0; P:4.0; O:20.0,4,32.0
+mp-669546.cif,"Al, Pd",Al:39.0; Pd:39.0,2,78.0
+mp-669692.cif,"Nb, Pd",Nb:6.0; Pd:18.0,2,24.0
+mp-669918.cif,"V, Sn, Rh",V:2.0; Sn:2.0; Rh:4.0,3,8.0
+mp-67.cif,Sc,Sc:2.0,1,2.0
+mp-670.cif,"Nb, Co",Nb:8.0; Co:16.0,2,24.0
+mp-672.cif,"Cd, S",Cd:2.0; S:2.0,2,4.0
+mp-672254.cif,"Ca, Pd, Pb",Ca:3.0; Pd:3.0; Pb:3.0,3,9.0
+mp-672287.cif,"Li, Si",Li:26.0; Si:8.0,2,34.0
+mp-672299.cif,"Y, In, Ni",Y:3.0; In:3.0; Ni:3.0,3,9.0
+mp-672340.cif,"Li, In, Ru",Li:4.0; In:8.0; Ru:4.0,3,16.0
+mp-672371.cif,"Ni, Sb",Ni:6.0; Sb:2.0,2,8.0
+mp-672645.cif,"Ti, Si, Rh",Ti:4.0; Si:4.0; Rh:4.0,3,12.0
+mp-674478.cif,"Ba, C, O",Ba:6.0; C:6.0; O:18.0,3,30.0
+mp-674490.cif,"Fe, Sb, O",Fe:2.0; Sb:2.0; O:8.0,3,12.0
+mp-674948.cif,"V, Mo, O",V:2.0; Mo:2.0; O:10.0,3,14.0
+mp-675.cif,"Zr, W",Zr:8.0; W:16.0,2,24.0
+mp-675120.cif,"Cu, Si, Te",Cu:8.0; Si:4.0; Te:12.0,3,24.0
+mp-675211.cif,"W, O",W:7.0; O:21.0,2,28.0
+mp-675324.cif,"Ba, C, O",Ba:2.0; C:2.0; O:6.0,3,10.0
+mp-675580.cif,"Nb, Cr, O",Nb:2.0; Cr:2.0; O:8.0,3,12.0
+mp-675748.cif,"Zn, Ge, S",Zn:4.0; Ge:2.0; S:8.0,3,14.0
+mp-675766.cif,"K, C, O",K:4.0; C:1.0; O:6.0,3,11.0
+mp-676.cif,"Ca, N",Ca:8.0; N:48.0,2,56.0
+mp-676058.cif,"V, Ni, S",V:9.0; Ni:3.0; S:18.0,3,30.0
+mp-676512.cif,"Na, Al, F",Na:9.0; Al:3.0; F:18.0,3,30.0
+mp-676586.cif,"Na, V, S",Na:1.0; V:2.0; S:4.0,3,7.0
+mp-676828.cif,"Zn, Cu, As",Zn:4.0; Cu:4.0; As:4.0,3,12.0
+mp-680677.cif,"Sn, Ru",Sn:12.0; Ru:8.0,2,20.0
+mp-6812.cif,"K, Ba, P, O",K:4.0; Ba:4.0; P:4.0; O:16.0,4,28.0
+mp-682.cif,"Na, F",Na:4.0; F:4.0,2,8.0
+mp-684580.cif,"Ag, I",Ag:2.0; I:2.0,2,4.0
+mp-684668.cif,"Ca, C",Ca:2.0; C:4.0,2,6.0
+mp-684709.cif,"K, B",K:12.0; B:68.0,2,80.0
+mp-685097.cif,"Hf, O",Hf:4.0; O:8.0,2,12.0
+mp-685156.cif,"Mo, O",Mo:4.0; O:12.0,2,16.0
+mp-685194.cif,"Li, Ti, O",Li:16.0; Ti:20.0; O:48.0,3,84.0
+mp-689940.cif,"Co, P, O",Co:4.0; P:4.0; O:16.0,3,24.0
+mp-690490.cif,"Ti, V, O",Ti:2.0; V:2.0; O:8.0,3,12.0
+mp-690658.cif,"V, Cu, O",V:2.0; Cu:1.0; O:6.0,3,9.0
+mp-690760.cif,"Ti, H",Ti:2.0; H:2.0,2,4.0
+mp-690785.cif,"Na, H, Pt",Na:8.0; H:24.0; Pt:4.0,3,36.0
+mp-6908.cif,"Y, Mg, Zn",Y:3.0; Mg:3.0; Zn:3.0,3,9.0
+mp-691.cif,"Sn, Se",Sn:4.0; Se:4.0,2,8.0
+mp-6914.cif,"Ca, Ga",Ca:4.0; Ga:4.0,2,8.0
+mp-6915.cif,"As, Pd, O",As:2.0; Pd:1.0; O:6.0,3,9.0
+mp-6919.cif,"Sc, Sn, Au",Sc:2.0; Sn:2.0; Au:2.0,3,6.0
+mp-6926.cif,"Ca, P, Pd",Ca:2.0; P:4.0; Pd:4.0,3,10.0
+mp-6931.cif,"Sr, Al, Si",Sr:1.0; Al:2.0; Si:2.0,3,5.0
+mp-6938.cif,"Zn, Rh",Zn:1.0; Rh:1.0,2,2.0
+mp-695.cif,"Ti, Co",Ti:8.0; Co:16.0,2,24.0
+mp-6959.cif,"Ga, Ni, S",Ga:2.0; Ni:1.0; S:4.0,3,7.0
+mp-696.cif,"Si, Pt",Si:4.0; Pt:4.0,2,8.0
+mp-6962.cif,"Ba, As, Pd",Ba:2.0; As:4.0; Pd:4.0,3,10.0
+mp-6963.cif,"Ba, Sb, Pd",Ba:2.0; Sb:4.0; Pd:4.0,3,10.0
+mp-696497.cif,"Mg, Si, H, O",Mg:3.0; Si:4.0; H:2.0; O:12.0,4,21.0
+mp-6969.cif,"Sc, Cu, Si",Sc:2.0; Cu:4.0; Si:4.0,3,10.0
+mp-697030.cif,"Mg, H, Ru",Mg:8.0; H:24.0; Ru:4.0,3,36.0
+mp-697096.cif,"Na, H, Pt",Na:4.0; H:8.0; Pt:2.0,3,14.0
+mp-697111.cif,"H, O",H:16.0; O:8.0,2,24.0
+mp-697179.cif,"Zr, H",Zr:2.0; H:2.0,2,4.0
+mp-6972.cif,"Y, Cu, O",Y:3.0; Cu:3.0; O:6.0,3,12.0
+mp-6980.cif,"Sc, Cu, S",Sc:1.0; Cu:1.0; S:2.0,3,4.0
+mp-6985.cif,Ti,Ti:4.0,1,4.0
+mp-6988.cif,"Fe, N",Fe:4.0; N:4.0,2,8.0
+mp-6997.cif,"Sb, Te",Sb:6.0; Te:3.0,2,9.0
+mp-700.cif,"Ge, Se",Ge:4.0; Se:4.0,2,8.0
+mp-7000.cif,"Si, O",Si:3.0; O:6.0,2,9.0
+mp-7002.cif,"Na, Ti, O",Na:3.0; Ti:3.0; O:6.0,3,12.0
+mp-7006.cif,"Sr, Nb, O",Sr:1.0; Nb:1.0; O:3.0,3,5.0
+mp-7017.cif,"Na, Nb, N",Na:3.0; Nb:3.0; N:6.0,3,12.0
+mp-7032.cif,"Hf, Mo, P",Hf:3.0; Mo:3.0; P:3.0,3,9.0
+mp-703260.cif,"Pb, W, O",Pb:2.0; W:2.0; O:8.0,3,12.0
+mp-7038.cif,"Tl, Pd, Se",Tl:2.0; Pd:4.0; Se:6.0,3,12.0
+mp-704645.cif,"Cu, O",Cu:4.0; O:4.0,2,8.0
+mp-7048.cif,"Al, O",Al:8.0; O:12.0,2,20.0
+mp-7066.cif,"Sc, Ni, Ge",Sc:4.0; Ni:4.0; Ge:4.0,3,12.0
+mp-7068.cif,"Sr, Al, Si",Sr:6.0; Al:4.0; Si:4.0,3,14.0
+mp-7070.cif,"Mn, Pt, N",Mn:3.0; Pt:1.0; N:1.0,3,5.0
+mp-7080.cif,"Li, Ni, N",Li:5.0; Ni:3.0; N:3.0,3,11.0
+mp-7088.cif,"Ta, C",Ta:2.0; C:1.0,2,3.0
+mp-7089.cif,"K, Mg, Sb",K:2.0; Mg:2.0; Sb:2.0,3,6.0
+mp-7090.cif,"Na, Mg, Sb",Na:2.0; Mg:2.0; Sb:2.0,3,6.0
+mp-7092.cif,"Ti, Si",Ti:4.0; Si:4.0,2,8.0
+mp-712.cif,"Y, Cu",Y:1.0; Cu:1.0,2,2.0
+mp-7140.cif,"Si, C",Si:2.0; C:2.0,2,4.0
+mp-715.cif,"Zr, Ir",Zr:8.0; Ir:16.0,2,24.0
+mp-715553.cif,"V, O",V:4.0; O:8.0,2,12.0
+mp-7173.cif,"Sc, Sb, Pt",Sc:4.0; Sb:4.0; Pt:4.0,3,12.0
+mp-718.cif,"Sn, Pd",Sn:1.0; Pd:3.0,2,4.0
+mp-7187.cif,"Ti, Al, Ni",Ti:4.0; Al:4.0; Ni:8.0,3,16.0
+mp-7188.cif,"Al, Os",Al:4.0; Os:2.0,2,6.0
+mp-7189.cif,"Al, Pd",Al:4.0; Pd:4.0,2,8.0
+mp-7192.cif,"Sc, Sb",Sc:4.0; Sb:2.0,2,6.0
+mp-7226.cif,"V, Ni",V:6.0; Ni:2.0,2,8.0
+mp-7250.cif,"Nb, Co",Nb:18.0; Co:21.0,2,39.0
+mp-728.cif,"Li, Pd",Li:2.0; Pd:1.0,2,3.0
+mp-7285.cif,"Hf, Ni",Hf:9.0; Ni:27.0,2,36.0
+mp-729.cif,"Cr, Si",Cr:6.0; Si:2.0,2,8.0
+mp-730.cif,"P, Pt",P:8.0; Pt:4.0,2,12.0
+mp-731.cif,"Mg, Hg",Mg:6.0; Hg:2.0,2,8.0
+mp-733.cif,"Ge, O",Ge:3.0; O:6.0,2,9.0
+mp-7339.cif,"Ba, Si, O",Ba:4.0; Si:4.0; O:12.0,3,20.0
+mp-7343.cif,"Y, Pt",Y:12.0; Pt:4.0,2,16.0
+mp-7350.cif,"Li, Y, Si",Li:2.0; Y:4.0; Si:4.0,3,10.0
+mp-7352.cif,"Mg, Cu, P",Mg:4.0; Cu:4.0; P:4.0,3,12.0
+mp-736.cif,"Li, P",Li:6.0; P:2.0,2,8.0
+mp-7364.cif,"Ca, Si, Au",Ca:2.0; Si:4.0; Au:4.0,3,10.0
+mp-7375.cif,"K, Nb, O",K:3.0; Nb:3.0; O:9.0,3,15.0
+mp-7376.cif,"Sr, Al, Sn",Sr:6.0; Al:4.0; Sn:4.0,3,14.0
+mp-7377.cif,"Ba, Al, Sn",Ba:6.0; Al:4.0; Sn:4.0,3,14.0
+mp-738.cif,"Sb, Au",Sb:8.0; Au:4.0,2,12.0
+mp-739.cif,"Ti, P",Ti:4.0; P:4.0,2,8.0
+mp-7400.cif,"Na, Al, Ge",Na:2.0; Al:2.0; Ge:2.0,3,6.0
+mp-742.cif,"Ti, Cu",Ti:4.0; Cu:2.0,2,6.0
+mp-7421.cif,"K, Zn, As",K:2.0; Zn:2.0; As:2.0,3,6.0
+mp-7422.cif,"Ca, Cu, P",Ca:2.0; Cu:4.0; P:4.0,3,10.0
+mp-7424.cif,"B, Pd",B:2.0; Pd:4.0,2,6.0
+mp-7426.cif,"Ba, Zn, P",Ba:2.0; Zn:4.0; P:4.0,3,10.0
+mp-7427.cif,"Ba, Zn, As",Ba:4.0; Zn:8.0; As:8.0,3,20.0
+mp-7429.cif,"Ca, Zn, Sb",Ca:1.0; Zn:2.0; Sb:2.0,3,5.0
+mp-7430.cif,"Ca, Cd, Sb",Ca:1.0; Cd:2.0; Sb:2.0,3,5.0
+mp-7431.cif,"Sr, Zn, Sb",Sr:1.0; Zn:2.0; Sb:2.0,3,5.0
+mp-7432.cif,"Sr, Cd, Sb",Sr:1.0; Cd:2.0; Sb:2.0,3,5.0
+mp-7433.cif,"Na, Cu, Se",Na:2.0; Cu:2.0; Se:2.0,3,6.0
+mp-7434.cif,"Na, Cu, Te",Na:2.0; Cu:2.0; Te:2.0,3,6.0
+mp-7435.cif,"K, Cu, Se",K:2.0; Cu:2.0; Se:2.0,3,6.0
+mp-7436.cif,"K, Cu, Te",K:2.0; Cu:2.0; Te:2.0,3,6.0
+mp-7437.cif,"K, Zn, P",K:2.0; Zn:2.0; P:2.0,3,6.0
+mp-7438.cif,"K, Zn, Sb",K:2.0; Zn:2.0; Sb:2.0,3,6.0
+mp-7443.cif,"Nb, Cr, Se",Nb:4.0; Cr:2.0; Se:8.0,3,14.0
+mp-7473.cif,"Li, Cu, Si",Li:4.0; Cu:8.0; Si:4.0,3,16.0
+mp-7482.cif,"Rb, Hg, F",Rb:1.0; Hg:1.0; F:3.0,3,5.0
+mp-7483.cif,"K, Hg, F",K:1.0; Hg:1.0; F:3.0,3,5.0
+mp-7486.cif,"Ba, Ni, S",Ba:2.0; Ni:2.0; S:4.0,3,8.0
+mp-75.cif,Nb,Nb:2.0,1,2.0
+mp-7506.cif,"Cr, Si",Cr:20.0; Si:12.0,2,32.0
+mp-752398.cif,"Ba, Cu, O",Ba:1.0; Cu:1.0; O:2.0,3,4.0
+mp-7524.cif,"Nb, P, Se",Nb:4.0; P:4.0; Se:4.0,3,12.0
+mp-752456.cif,"Fe, O, F",Fe:4.0; O:2.0; F:6.0,3,12.0
+mp-752463.cif,"Nb, N, O",Nb:4.0; N:4.0; O:4.0,3,12.0
+mp-752465.cif,"Li, V, F",Li:2.0; V:2.0; F:8.0,3,12.0
+mp-752496.cif,"Ti, O, F",Ti:4.0; O:4.0; F:4.0,3,12.0
+mp-752504.cif,"V, Sn, O",V:2.0; Sn:2.0; O:8.0,3,12.0
+mp-752607.cif,"Li, V, F",Li:6.0; V:6.0; F:18.0,3,30.0
+mp-752764.cif,"Li, V, F",Li:6.0; V:6.0; F:18.0,3,30.0
+mp-752939.cif,"Fe, O, F",Fe:4.0; O:4.0; F:4.0,3,12.0
+mp-752941.cif,"Fe, O, F",Fe:2.0; O:2.0; F:2.0,3,6.0
+mp-752945.cif,"Mn, Co, O",Mn:1.0; Co:1.0; O:4.0,3,6.0
+mp-752947.cif,"Na, Ti, S",Na:1.0; Ti:1.0; S:2.0,3,4.0
+mp-752955.cif,"W, O, F",W:2.0; O:2.0; F:8.0,3,12.0
+mp-752958.cif,"V, O, F",V:2.0; O:2.0; F:2.0,3,6.0
+mp-752974.cif,"V, O, F",V:2.0; O:2.0; F:4.0,3,8.0
+mp-752975.cif,"Fe, O, F",Fe:4.0; O:4.0; F:4.0,3,12.0
+mp-753.cif,"Zn, Sb",Zn:8.0; Sb:8.0,2,16.0
+mp-753016.cif,"V, O, F",V:3.0; O:5.0; F:1.0,3,9.0
+mp-753059.cif,"Ti, O, F",Ti:2.0; O:2.0; F:2.0,3,6.0
+mp-753098.cif,"Li, Cu, F",Li:3.0; Cu:3.0; F:6.0,3,12.0
+mp-753167.cif,"Fe, O, F",Fe:4.0; O:6.0; F:2.0,3,12.0
+mp-753197.cif,"Hf, Ti, O",Hf:4.0; Ti:4.0; O:16.0,3,24.0
+mp-753200.cif,"V, O, F",V:4.0; O:4.0; F:4.0,3,12.0
+mp-753257.cif,"Li, Cu, F",Li:2.0; Cu:2.0; F:8.0,3,12.0
+mp-753373.cif,"Li, V, F",Li:2.0; V:2.0; F:8.0,3,12.0
+mp-753395.cif,"Fe, P, O",Fe:2.0; P:2.0; O:8.0,3,12.0
+mp-753490.cif,"Ti, Cu, Ge",Ti:4.0; Cu:4.0; Ge:4.0,3,12.0
+mp-753508.cif,"Li, Cu, S",Li:4.0; Cu:4.0; S:4.0,3,12.0
+mp-753571.cif,"Li, V, F",Li:4.0; V:4.0; F:24.0,3,32.0
+mp-753605.cif,"Li, Cu, S",Li:4.0; Cu:4.0; S:4.0,3,12.0
+mp-753622.cif,"V, O, F",V:4.0; O:4.0; F:4.0,3,12.0
+mp-753657.cif,"Ti, O, F",Ti:1.0; O:1.0; F:1.0,3,3.0
+mp-753658.cif,"Al, Cr, O",Al:2.0; Cr:2.0; O:8.0,3,12.0
+mp-753675.cif,"Li, V, F",Li:2.0; V:2.0; F:8.0,3,12.0
+mp-753679.cif,"Nb, V, O",Nb:2.0; V:2.0; O:8.0,3,12.0
+mp-753704.cif,"W, O, F",W:2.0; O:2.0; F:8.0,3,12.0
+mp-753708.cif,"Ti, O, F",Ti:4.0; O:4.0; F:4.0,3,12.0
+mp-753722.cif,"Li, Cu, S",Li:2.0; Cu:2.0; S:4.0,3,8.0
+mp-753738.cif,"V, Co, O",V:3.0; Co:1.0; O:8.0,3,12.0
+mp-753826.cif,"Li, Cu, S",Li:4.0; Cu:4.0; S:4.0,3,12.0
+mp-753848.cif,"Li, Cu, O",Li:2.0; Cu:6.0; O:6.0,3,14.0
+mp-753890.cif,"Ni, H",Ni:2.0; H:1.0,2,3.0
+mp-753946.cif,"Li, Co, S",Li:1.0; Co:1.0; S:2.0,3,4.0
+mp-754001.cif,"V, O, F",V:4.0; O:4.0; F:4.0,3,12.0
+mp-754008.cif,"Ba, Cu, O",Ba:4.0; Cu:4.0; O:8.0,3,16.0
+mp-754053.cif,"Fe, O, F",Fe:4.0; O:4.0; F:4.0,3,12.0
+mp-754072.cif,"V, O, F",V:4.0; O:4.0; F:4.0,3,12.0
+mp-754126.cif,"Cu, Au, O",Cu:3.0; Au:3.0; O:6.0,3,12.0
+mp-754134.cif,"Hf, Zr, O",Hf:2.0; Zr:2.0; O:8.0,3,12.0
+mp-754157.cif,"Al, In, O",Al:2.0; In:2.0; O:6.0,3,10.0
+mp-754213.cif,"Li, Zr, Cu, O",Li:4.0; Zr:2.0; Cu:2.0; O:8.0,4,16.0
+mp-754238.cif,"Li, Cu, Bi, O",Li:4.0; Cu:2.0; Bi:2.0; O:8.0,4,16.0
+mp-754246.cif,"Ti, Sn, O",Ti:6.0; Sn:6.0; O:18.0,3,30.0
+mp-754274.cif,"Mn, V, O",Mn:4.0; V:8.0; O:24.0,3,36.0
+mp-754311.cif,"Mg, Re, O",Mg:1.0; Re:2.0; O:8.0,3,11.0
+mp-754318.cif,"Mn, Zn, O",Mn:6.0; Zn:6.0; O:18.0,3,30.0
+mp-754322.cif,"Sr, Cu, O",Sr:4.0; Cu:2.0; O:8.0,3,14.0
+mp-754333.cif,"Ti, O",Ti:2.0; O:2.0,2,4.0
+mp-754337.cif,"Li, V, F",Li:2.0; V:2.0; F:8.0,3,12.0
+mp-754344.cif,"Li, Zn, O",Li:3.0; Zn:3.0; O:6.0,3,12.0
+mp-754358.cif,"Zn, Se, O",Zn:4.0; Se:4.0; O:16.0,3,24.0
+mp-754363.cif,"Ba, Hf, O",Ba:4.0; Hf:2.0; O:8.0,3,14.0
+mp-754364.cif,"Y, Cu, O",Y:4.0; Cu:2.0; O:8.0,3,14.0
+mp-754375.cif,"Na, Ti, O",Na:1.0; Ti:2.0; O:3.0,3,6.0
+mp-7544.cif,"Zr, Si, Ru",Zr:3.0; Si:3.0; Ru:3.0,3,9.0
+mp-754403.cif,"Zr, O",Zr:4.0; O:8.0,2,12.0
+mp-754455.cif,"Sc, O",Sc:12.0; O:18.0,2,30.0
+mp-754478.cif,"Hf, Zr, O",Hf:2.0; Zr:2.0; O:8.0,3,12.0
+mp-754490.cif,"Ni, Hg, O",Ni:3.0; Hg:3.0; O:6.0,3,12.0
+mp-754508.cif,"Mg, Fe, O",Mg:6.0; Fe:6.0; O:18.0,3,30.0
+mp-754513.cif,"Zr, Mn, O",Zr:6.0; Mn:6.0; O:18.0,3,30.0
+mp-754515.cif,"Ba, Mg, Ge",Ba:2.0; Mg:2.0; Ge:2.0,3,6.0
+mp-754516.cif,"Li, Ni, P",Li:2.0; Ni:2.0; P:2.0,3,6.0
+mp-754538.cif,"Hg, Pt, O",Hg:3.0; Pt:3.0; O:6.0,3,12.0
+mp-754553.cif,"Zn, N",Zn:12.0; N:8.0,2,20.0
+mp-754567.cif,"Na, Cd, O",Na:3.0; Cd:3.0; O:6.0,3,12.0
+mp-754588.cif,"Zr, Bi, O",Zr:4.0; Bi:4.0; O:16.0,3,24.0
+mp-754589.cif,"V, O, F",V:4.0; O:4.0; F:4.0,3,12.0
+mp-754594.cif,"V, B, O",V:2.0; B:2.0; O:8.0,3,12.0
+mp-754611.cif,"Nb, V, O",Nb:2.0; V:2.0; O:8.0,3,12.0
+mp-754624.cif,"Al, O",Al:12.0; O:18.0,2,30.0
+mp-754628.cif,"W, N",W:4.0; N:8.0,2,12.0
+mp-754629.cif,"W, N",W:3.0; N:6.0,2,9.0
+mp-754633.cif,"Zn, Co, O",Zn:3.0; Co:3.0; O:6.0,3,12.0
+mp-754654.cif,"Ni, Sn, O",Ni:6.0; Sn:6.0; O:18.0,3,30.0
+mp-754656.cif,"Li, Mn, O",Li:2.0; Mn:2.0; O:4.0,3,8.0
+mp-754671.cif,"Y, Sc, O",Y:3.0; Sc:3.0; O:6.0,3,12.0
+mp-754672.cif,"Ti, O",Ti:4.0; O:8.0,2,12.0
+mp-754701.cif,"Ca, Ti, O",Ca:6.0; Ti:6.0; O:18.0,3,30.0
+mp-754727.cif,"Li, Ni, S",Li:2.0; Ni:2.0; S:4.0,3,8.0
+mp-754741.cif,"Zr, O",Zr:4.0; O:8.0,2,12.0
+mp-754764.cif,"Fe, O, F",Fe:4.0; O:4.0; F:4.0,3,12.0
+mp-754765.cif,"Fe, O",Fe:4.0; O:4.0,2,8.0
+mp-754809.cif,"Mn, Nb, O",Mn:2.0; Nb:2.0; O:8.0,3,12.0
+mp-754826.cif,"Cs, Sc, O",Cs:8.0; Sc:8.0; O:16.0,3,32.0
+mp-754850.cif,"Na, Ti, S",Na:3.0; Ti:3.0; S:6.0,3,12.0
+mp-754895.cif,"Li, V, F",Li:2.0; V:2.0; F:8.0,3,12.0
+mp-754900.cif,"Ti, Fe, O",Ti:2.0; Fe:2.0; O:8.0,3,12.0
+mp-754908.cif,"Nb, Cr, O",Nb:2.0; Cr:2.0; O:8.0,3,12.0
+mp-754915.cif,"Na, Fe, O",Na:6.0; Fe:6.0; O:18.0,3,30.0
+mp-754922.cif,"Li, V, O",Li:1.0; V:2.0; O:4.0,3,7.0
+mp-754958.cif,"Rb, Fe, O",Rb:8.0; Fe:8.0; O:16.0,3,32.0
+mp-754980.cif,"Zr, Mn, O",Zr:6.0; Mn:6.0; O:18.0,3,30.0
+mp-755.cif,"Co, Sb",Co:4.0; Sb:8.0,2,12.0
+mp-755000.cif,"Li, Ti, O",Li:2.0; Ti:2.0; O:4.0,3,8.0
+mp-755017.cif,"V, Co, O",V:6.0; Co:2.0; O:16.0,3,24.0
+mp-755045.cif,"Li, Ni, O",Li:1.0; Ni:2.0; O:4.0,3,7.0
+mp-755071.cif,"Sn, O",Sn:4.0; O:8.0,2,12.0
+mp-755089.cif,"Zr, O",Zr:4.0; O:8.0,2,12.0
+mp-755095.cif,"V, O, F",V:4.0; O:6.0; F:2.0,3,12.0
+mp-755115.cif,"Cu, Re, O",Cu:2.0; Re:2.0; O:8.0,3,12.0
+mp-755166.cif,"Na, Co, O",Na:2.0; Co:2.0; O:4.0,3,8.0
+mp-755176.cif,"Ni, Te, O",Ni:1.0; Te:1.0; O:4.0,3,6.0
+mp-755190.cif,"Ta, V, O",Ta:4.0; V:4.0; O:16.0,3,24.0
+mp-755264.cif,"Ti, O",Ti:1.0; O:1.0,2,2.0
+mp-755297.cif,"Li, Co, O",Li:2.0; Co:1.0; O:2.0,3,5.0
+mp-755300.cif,"Ti, O",Ti:3.0; O:3.0,2,6.0
+mp-755302.cif,"Ti, Nb, O",Ti:2.0; Nb:2.0; O:8.0,3,12.0
+mp-755309.cif,"Li, Nb, S",Li:3.0; Nb:1.0; S:4.0,3,8.0
+mp-755313.cif,"Sc, O",Sc:12.0; O:18.0,2,30.0
+mp-755318.cif,"Sc, H, O",Sc:2.0; H:2.0; O:4.0,3,8.0
+mp-755325.cif,"Co, O, F",Co:4.0; O:4.0; F:4.0,3,12.0
+mp-755328.cif,"Zr, Sn",Zr:8.0; Sn:16.0,2,24.0
+mp-755359.cif,"Fe, O, F",Fe:4.0; O:4.0; F:4.0,3,12.0
+mp-755378.cif,"Na, Pd, O",Na:2.0; Pd:2.0; O:4.0,3,8.0
+mp-755390.cif,"Nb, Fe, O",Nb:2.0; Fe:2.0; O:8.0,3,12.0
+mp-755394.cif,"V, O",V:8.0; O:16.0,2,24.0
+mp-755453.cif,"Mn, P",Mn:8.0; P:32.0,2,40.0
+mp-755483.cif,"Al, O",Al:6.0; O:9.0,2,15.0
+mp-755554.cif,"Li, Fe, F",Li:2.0; Fe:2.0; F:8.0,3,12.0
+mp-755570.cif,"Li, Ni, S",Li:1.0; Ni:2.0; S:2.0,3,5.0
+mp-755584.cif,"Cr, Pt, O",Cr:3.0; Pt:3.0; O:6.0,3,12.0
+mp-755587.cif,"V, O, F",V:8.0; O:12.0; F:4.0,3,24.0
+mp-755596.cif,"Ti, Cr, O",Ti:2.0; Cr:2.0; O:8.0,3,12.0
+mp-755628.cif,"Ta, Fe, O",Ta:2.0; Fe:2.0; O:8.0,3,12.0
+mp-755629.cif,"Li, V, F",Li:2.0; V:2.0; F:8.0,3,12.0
+mp-755657.cif,"Ti, V, O",Ti:6.0; V:6.0; O:18.0,3,30.0
+mp-755690.cif,"Nb, O",Nb:4.0; O:8.0,2,12.0
+mp-7557.cif,"Nb, Si, Sn",Nb:20.0; Si:4.0; Sn:8.0,3,32.0
+mp-755704.cif,"V, Ni, O",V:6.0; Ni:2.0; O:16.0,3,24.0
+mp-755715.cif,"Ti, V, O",Ti:2.0; V:6.0; O:16.0,3,24.0
+mp-755718.cif,"Li, Fe, F",Li:4.0; Fe:2.0; F:8.0,3,14.0
+mp-755759.cif,"Zr, O",Zr:4.0; O:8.0,2,12.0
+mp-755769.cif,"Zr, O",Zr:8.0; O:16.0,2,24.0
+mp-755875.cif,"Ti, O",Ti:6.0; O:8.0,2,14.0
+mp-755939.cif,"Li, Co, O",Li:18.0; Co:4.0; O:16.0,3,38.0
+mp-756018.cif,"Ba, Mg, O",Ba:3.0; Mg:3.0; O:6.0,3,12.0
+mp-756134.cif,"Zr, Se, O",Zr:2.0; Se:2.0; O:2.0,3,6.0
+mp-756214.cif,"Y, Al, O",Y:6.0; Al:6.0; O:18.0,3,30.0
+mp-756361.cif,"Zr, Se, O",Zr:4.0; Se:4.0; O:4.0,3,12.0
+mp-756381.cif,"Li, Fe, O",Li:1.0; Fe:2.0; O:3.0,3,6.0
+mp-756398.cif,"Mn, V, O",Mn:9.0; V:3.0; O:24.0,3,36.0
+mp-756436.cif,"Fe, O",Fe:4.0; O:8.0,2,12.0
+mp-756478.cif,"W, O",W:8.0; O:24.0,2,32.0
+mp-756482.cif,"Mn, Co, O",Mn:9.0; Co:3.0; O:24.0,3,36.0
+mp-7565.cif,"Sb, Ru",Sb:4.0; Ru:4.0,2,8.0
+mp-756513.cif,"Mn, Cu, O",Mn:9.0; Cu:3.0; O:24.0,3,36.0
+mp-756516.cif,"Li, Mn, O",Li:8.0; Mn:8.0; O:16.0,3,32.0
+mp-756525.cif,"Mn, Cu, O",Mn:9.0; Cu:3.0; O:24.0,3,36.0
+mp-756562.cif,"Mn, Fe, O",Mn:9.0; Fe:3.0; O:24.0,3,36.0
+mp-756589.cif,"Ti, Mn, O",Ti:3.0; Mn:9.0; O:24.0,3,36.0
+mp-756640.cif,"V, F",V:2.0; F:10.0,2,12.0
+mp-756808.cif,"Ti, Mn, O",Ti:3.0; Mn:9.0; O:24.0,3,36.0
+mp-756849.cif,"Li, Fe, F",Li:2.0; Fe:2.0; F:8.0,3,12.0
+mp-757027.cif,"Li, Fe, P, O",Li:4.0; Fe:4.0; P:4.0; O:16.0,4,28.0
+mp-757044.cif,"Mn, Ni, O",Mn:9.0; Ni:3.0; O:24.0,3,36.0
+mp-757056.cif,"Te, W, O",Te:3.0; W:3.0; O:18.0,3,24.0
+mp-757100.cif,"Li, Co, S",Li:3.0; Co:3.0; S:6.0,3,12.0
+mp-757163.cif,"Li, V, F",Li:1.0; V:1.0; F:6.0,3,8.0
+mp-7574.cif,"Al, B, Mo",Al:4.0; B:4.0; Mo:4.0,3,12.0
+mp-7575.cif,"Li, Zn, N",Li:4.0; Zn:4.0; N:4.0,3,12.0
+mp-7576.cif,"Cr, Si",Cr:4.0; Si:4.0,2,8.0
+mp-757614.cif,"Li, Fe, O",Li:2.0; Fe:2.0; O:4.0,3,8.0
+mp-7577.cif,"Co, Si",Co:4.0; Si:4.0,2,8.0
+mp-757975.cif,"Li, Mn, O",Li:4.0; Mn:8.0; O:16.0,3,28.0
+mp-758052.cif,"Li, Cu, F",Li:6.0; Cu:6.0; F:18.0,3,30.0
+mp-758095.cif,"Li, Ni, O",Li:2.0; Ni:3.0; O:6.0,3,11.0
+mp-758104.cif,"Mn, Pd",Mn:11.0; Pd:21.0,2,32.0
+mp-7582.cif,"Ge, S",Ge:4.0; S:8.0,2,12.0
+mp-7583.cif,"Si, S",Si:4.0; S:8.0,2,12.0
+mp-758397.cif,"Fe, O, F",Fe:4.0; O:2.0; F:6.0,3,12.0
+mp-758501.cif,"Li, Ni, F",Li:6.0; Ni:6.0; F:18.0,3,30.0
+mp-758560.cif,"Fe, O, F",Fe:2.0; O:2.0; F:2.0,3,6.0
+mp-758594.cif,"Li, Fe, P",Li:1.0; Fe:6.0; P:4.0,3,11.0
+mp-758859.cif,"Co, O, F",Co:4.0; O:4.0; F:4.0,3,12.0
+mp-7589.cif,"Mg, N, F",Mg:8.0; N:4.0; F:4.0,3,16.0
+mp-758946.cif,"Fe, O, F",Fe:4.0; O:6.0; F:2.0,3,12.0
+mp-7591.cif,"Ge, As",Ge:2.0; As:2.0,2,4.0
+mp-759276.cif,"V, O, F",V:4.0; O:4.0; F:4.0,3,12.0
+mp-759283.cif,"Fe, O, F",Fe:4.0; O:4.0; F:4.0,3,12.0
+mp-759286.cif,"Na, Ni, O",Na:1.0; Ni:2.0; O:3.0,3,6.0
+mp-759459.cif,"Li, V, F",Li:2.0; V:2.0; F:8.0,3,12.0
+mp-759543.cif,"Fe, O, F",Fe:4.0; O:4.0; F:4.0,3,12.0
+mp-7596.cif,"Nb, N, O",Nb:4.0; N:4.0; O:4.0,3,12.0
+mp-759858.cif,"Li, V, F",Li:4.0; V:2.0; F:8.0,3,14.0
+mp-759877.cif,"Li, Cu, F",Li:16.0; Cu:4.0; F:28.0,3,48.0
+mp-759914.cif,"Fe, O, F",Fe:16.0; O:16.0; F:16.0,3,48.0
+mp-76.cif,Sr,Sr:4.0,1,4.0
+mp-760.cif,"Fe, Se",Fe:2.0; Se:4.0,2,6.0
+mp-7603.cif,"Li, Ti, F",Li:4.0; Ti:2.0; F:12.0,3,18.0
+mp-760321.cif,"V, O, F",V:16.0; O:16.0; F:16.0,3,48.0
+mp-760339.cif,"Li, V, F",Li:4.0; V:2.0; F:8.0,3,14.0
+mp-760343.cif,"Fe, P, O",Fe:2.0; P:2.0; O:8.0,3,12.0
+mp-760375.cif,"Li, V, S",Li:3.0; V:1.0; S:4.0,3,8.0
+mp-760376.cif,"K, Ti, O",K:1.0; Ti:1.0; O:3.0,3,5.0
+mp-760381.cif,"Cu, S",Cu:4.0; S:4.0,2,8.0
+mp-760396.cif,"Ta, Al, O",Ta:4.0; Al:4.0; O:16.0,3,24.0
+mp-7604.cif,"Mg, N, F",Mg:3.0; N:1.0; F:3.0,3,7.0
+mp-760410.cif,"Be, P, O",Be:2.0; P:2.0; O:8.0,3,12.0
+mp-760439.cif,"Ta, Ti, O",Ta:4.0; Ti:4.0; O:16.0,3,24.0
+mp-761293.cif,"Zr, Co, O",Zr:6.0; Co:6.0; O:18.0,3,30.0
+mp-761315.cif,"Mn, Fe, O",Mn:2.0; Fe:2.0; O:8.0,3,12.0
+mp-761341.cif,"Ti, V, O",Ti:4.0; V:4.0; O:16.0,3,24.0
+mp-761390.cif,"Ta, Fe, O",Ta:4.0; Fe:4.0; O:16.0,3,24.0
+mp-761415.cif,"Cu, Ni, O",Cu:2.0; Ni:6.0; O:8.0,3,16.0
+mp-761524.cif,"Mg, Co, O",Mg:6.0; Co:6.0; O:18.0,3,30.0
+mp-761556.cif,"Mn, Co, O",Mn:2.0; Co:2.0; O:8.0,3,12.0
+mp-761563.cif,"Mn, Fe, O",Mn:4.0; Fe:2.0; O:6.0,3,12.0
+mp-761574.cif,"Co, Sn, O",Co:6.0; Sn:6.0; O:18.0,3,30.0
+mp-761842.cif,"Hf, Sn, O",Hf:3.0; Sn:1.0; O:8.0,3,12.0
+mp-7623.cif,"Mg, As",Mg:4.0; As:16.0,2,20.0
+mp-763.cif,"Mg, B",Mg:1.0; B:2.0,2,3.0
+mp-7631.cif,"Si, C",Si:6.0; C:6.0,2,12.0
+mp-7632.cif,"Ni, Mo, P",Ni:3.0; Mo:3.0; P:3.0,3,9.0
+mp-763353.cif,"Fe, O, F",Fe:8.0; O:10.0; F:6.0,3,24.0
+mp-764648.cif,"Li, Ti, O",Li:2.0; Ti:2.0; O:4.0,3,8.0
+mp-764949.cif,"Mn, F",Mn:2.0; F:6.0,2,8.0
+mp-7650.cif,"Rb, Sc, O",Rb:2.0; Sc:2.0; O:4.0,3,8.0
+mp-765508.cif,"V, O, F",V:3.0; O:4.0; F:2.0,3,9.0
+mp-766.cif,"As, Ru",As:4.0; Ru:2.0,2,6.0
+mp-766486.cif,"Li, Cu, S",Li:2.0; Cu:2.0; S:4.0,3,8.0
+mp-768305.cif,"Sr, Hf, O",Sr:4.0; Hf:2.0; O:8.0,3,14.0
+mp-768381.cif,"Co, Te, O",Co:1.0; Te:1.0; O:4.0,3,6.0
+mp-768499.cif,"Fe, Ni, O",Fe:6.0; Ni:6.0; O:18.0,3,30.0
+mp-769096.cif,"Mn, P",Mn:6.0; P:24.0,2,30.0
+mp-7692.cif,"Al, Cr, B",Al:2.0; Cr:4.0; B:4.0,3,10.0
+mp-769365.cif,"Zn, Se, O",Zn:2.0; Se:2.0; O:8.0,3,12.0
+mp-7704.cif,"Ca, Al, Si",Ca:1.0; Al:2.0; Si:2.0,3,5.0
+mp-770618.cif,"Mg, Mn, O",Mg:6.0; Mn:6.0; O:18.0,3,30.0
+mp-7707.cif,"Zr, Si, Ni",Zr:2.0; Si:4.0; Ni:4.0,3,10.0
+mp-770997.cif,"Li, Hf, O",Li:4.0; Hf:2.0; O:6.0,3,12.0
+mp-771.cif,"Mn, Al",Mn:1.0; Al:1.0,2,2.0
+mp-771648.cif,"Rb, Cr, O",Rb:3.0; Cr:3.0; O:6.0,3,12.0
+mp-771970.cif,"Mn, Co, O",Mn:9.0; Co:3.0; O:24.0,3,36.0
+mp-772856.cif,"Cu, Hg, O",Cu:2.0; Hg:2.0; O:4.0,3,8.0
+mp-773064.cif,"V, Rh, O",V:4.0; Rh:4.0; O:16.0,3,24.0
+mp-773864.cif,"Ti, Sn, O",Ti:2.0; Sn:2.0; O:8.0,3,12.0
+mp-774.cif,"Ca, Ni",Ca:1.0; Ni:5.0,2,6.0
+mp-774411.cif,"Li, V, O",Li:2.0; V:1.0; O:2.0,3,5.0
+mp-774712.cif,"Li, Cu, S",Li:2.0; Cu:2.0; S:2.0,3,6.0
+mp-774736.cif,"Li, Cu, S",Li:16.0; Cu:8.0; S:8.0,3,32.0
+mp-7748.cif,"Na, Al, O",Na:3.0; Al:3.0; O:6.0,3,12.0
+mp-774922.cif,"Ti, Te, O",Ti:3.0; Te:1.0; O:8.0,3,12.0
+mp-774945.cif,"Mn, V, O",Mn:1.0; V:3.0; O:8.0,3,12.0
+mp-775001.cif,"V, Fe, O",V:3.0; Fe:1.0; O:8.0,3,12.0
+mp-775296.cif,"Ti, Mn, O",Ti:2.0; Mn:2.0; O:8.0,3,12.0
+mp-7753.cif,"Mg, Pd",Mg:1.0; Pd:3.0,2,4.0
+mp-775808.cif,"Mg, O",Mg:6.0; O:6.0,2,12.0
+mp-775909.cif,"Zr, O",Zr:2.0; O:4.0,2,6.0
+mp-775935.cif,"Zr, O",Zr:6.0; O:12.0,2,18.0
+mp-776083.cif,"Hf, Sn, O",Hf:6.0; Sn:6.0; O:18.0,3,30.0
+mp-776094.cif,"Li, Fe, F",Li:2.0; Fe:2.0; F:8.0,3,12.0
+mp-776164.cif,"Li, Fe, F",Li:2.0; Fe:2.0; F:8.0,3,12.0
+mp-776250.cif,"Zr, N, O",Zr:4.0; N:4.0; O:2.0,3,10.0
+mp-776331.cif,"Zr, N, O",Zr:10.0; N:10.0; O:4.0,3,24.0
+mp-776339.cif,"Li, Fe, F",Li:2.0; Fe:2.0; F:8.0,3,12.0
+mp-776460.cif,"Li, Fe, W, O",Li:4.0; Fe:1.0; W:3.0; O:12.0,4,20.0
+mp-776532.cif,"Hf, O",Hf:2.0; O:4.0,2,6.0
+mp-776911.cif,"Mg, O",Mg:4.0; O:4.0,2,8.0
+mp-7770.cif,"Sr, Zn, As",Sr:1.0; Zn:2.0; As:2.0,3,5.0
+mp-7771.cif,"Sr, Cd, As",Sr:1.0; Cd:2.0; As:2.0,3,5.0
+mp-777479.cif,"V, O",V:4.0; O:8.0,2,12.0
+mp-778.cif,"Fe, P",Fe:6.0; P:3.0,2,9.0
+mp-778044.cif,"Li, V, F",Li:2.0; V:2.0; F:8.0,3,12.0
+mp-7781.cif,"Ca, Zr, S",Ca:4.0; Zr:4.0; S:12.0,3,20.0
+mp-7786.cif,"Cs, Cu, S",Cs:1.0; Cu:3.0; S:2.0,3,6.0
+mp-7787.cif,"Hf, S, O",Hf:4.0; S:4.0; O:4.0,3,12.0
+mp-7790.cif,"Ti, N",Ti:8.0; N:4.0,2,12.0
+mp-779517.cif,"Sr, Hf, O",Sr:6.0; Hf:4.0; O:14.0,3,24.0
+mp-779545.cif,"Na, Cu, O",Na:18.0; Cu:6.0; O:12.0,3,36.0
+mp-779689.cif,"H, N",H:12.0; N:4.0,2,16.0
+mp-780260.cif,"Ti, Ge, O",Ti:6.0; Ge:6.0; O:18.0,3,30.0
+mp-7804.cif,"Hf, Co, B",Hf:1.0; Co:3.0; B:2.0,3,6.0
+mp-782.cif,"Te, Pd",Te:2.0; Pd:1.0,2,3.0
+mp-7822.cif,"Sc, Si",Sc:10.0; Si:6.0,2,16.0
+mp-7823.cif,"V, Ni, Se",V:4.0; Ni:2.0; Se:8.0,3,14.0
+mp-7829.cif,"Mn, Nb, Si",Mn:3.0; Nb:3.0; Si:3.0,3,9.0
+mp-7832.cif,"B, W",B:8.0; W:8.0,2,16.0
+mp-783905.cif,"Na, V, O",Na:4.0; V:8.0; O:16.0,3,28.0
+mp-784630.cif,"Ni, Mo",Ni:4.0; Mo:2.0,2,6.0
+mp-784631.cif,"Cr, Ni",Cr:2.0; Ni:4.0,2,6.0
+mp-7851.cif,"Ta, Co",Ta:9.0; Co:27.0,2,36.0
+mp-7857.cif,"Ti, B",Ti:4.0; B:4.0,2,8.0
+mp-786.cif,"Mn, Sb",Mn:2.0; Sb:2.0,2,4.0
+mp-7863.cif,"Rb, Sn, O",Rb:6.0; Sn:6.0; O:9.0,3,21.0
+mp-7875.cif,"Ba, Mg, Si",Ba:2.0; Mg:4.0; Si:4.0,3,10.0
+mp-7876.cif,"Ba, Mg, Ge",Ba:2.0; Mg:4.0; Ge:4.0,3,10.0
+mp-788.cif,"Co, Te",Co:2.0; Te:2.0,2,4.0
+mp-7891.cif,"Mg, As",Mg:3.0; As:2.0,2,5.0
+mp-79.cif,Zn,Zn:2.0,1,2.0
+mp-7904.cif,"Cd, P",Cd:2.0; P:8.0,2,10.0
+mp-7906.cif,"Al, Hg, S",Al:4.0; Hg:2.0; S:8.0,3,14.0
+mp-7907.cif,"Al, Zn, Se",Al:4.0; Zn:2.0; Se:8.0,3,14.0
+mp-7908.cif,"Al, Zn, Te",Al:4.0; Zn:2.0; Te:8.0,3,14.0
+mp-7909.cif,"Al, Cd, Te",Al:4.0; Cd:2.0; Te:8.0,3,14.0
+mp-7910.cif,"Al, Hg, Te",Al:4.0; Hg:2.0; Te:8.0,3,14.0
+mp-7914.cif,"Na, Sc, O",Na:3.0; Sc:3.0; O:6.0,3,12.0
+mp-7916.cif,"Hf, Si, S",Hf:2.0; Si:2.0; S:2.0,3,6.0
+mp-7917.cif,"Hf, Ge, Se",Hf:2.0; Ge:2.0; Se:2.0,3,6.0
+mp-7918.cif,"Hf, Ge, S",Hf:2.0; Ge:2.0; S:2.0,3,6.0
+mp-7930.cif,"Zr, Cu, Si",Zr:3.0; Cu:4.0; Si:2.0,3,9.0
+mp-7931.cif,"Sr, P",Sr:6.0; P:6.0,2,12.0
+mp-7936.cif,"Li, Nb, S",Li:2.0; Nb:2.0; S:4.0,3,8.0
+mp-7937.cif,"Na, Nb, S",Na:2.0; Nb:2.0; S:4.0,3,8.0
+mp-7938.cif,"K, Nb, S",K:2.0; Nb:2.0; S:4.0,3,8.0
+mp-7939.cif,"Na, Nb, Se",Na:2.0; Nb:2.0; Se:4.0,3,8.0
+mp-7940.cif,"K, Nb, Se",K:2.0; Nb:2.0; Se:4.0,3,8.0
+mp-7948.cif,"Re, Si",Re:4.0; Si:4.0,2,8.0
+mp-795.cif,"Li, Si",Li:16.0; Si:16.0,2,32.0
+mp-7955.cif,"Li, Sb",Li:6.0; Sb:2.0,2,8.0
+mp-796.cif,"Nb, Al",Nb:6.0; Al:2.0,2,8.0
+mp-7979.cif,"K, Pd, F",K:2.0; Pd:1.0; F:6.0,3,9.0
+mp-8.cif,Re,Re:2.0,1,2.0
+mp-8001.cif,"Li, Al, O",Li:3.0; Al:3.0; O:6.0,3,12.0
+mp-801.cif,"Mo, Os",Mo:6.0; Os:2.0,2,8.0
+mp-8016.cif,"Al, Cu, Se",Al:4.0; Cu:4.0; Se:8.0,3,16.0
+mp-8017.cif,"Al, Cu, Te",Al:4.0; Cu:4.0; Te:8.0,3,16.0
+mp-8039.cif,"Al, F",Al:1.0; F:3.0,2,4.0
+mp-8041.cif,"Rb, S",Rb:8.0; S:4.0,2,12.0
+mp-8042.cif,"Zr, Ge, O",Zr:4.0; Ge:4.0; O:16.0,3,24.0
+mp-8044.cif,"V, P, C",V:4.0; P:2.0; C:2.0,3,8.0
+mp-8053.cif,"Y, Co",Y:4.0; Co:4.0,2,8.0
+mp-8062.cif,"Si, C",Si:4.0; C:4.0,2,8.0
+mp-8093.cif,"Ba, Cd",Ba:4.0; Cd:2.0,2,6.0
+mp-8094.cif,"Ba, Hg",Ba:4.0; Hg:2.0,2,6.0
+mp-81.cif,Au,Au:4.0,1,4.0
+mp-810.cif,"Ni, Sb",Ni:2.0; Sb:2.0,2,4.0
+mp-811.cif,"Ba, Pt",Ba:1.0; Pt:5.0,2,6.0
+mp-8110.cif,"Al, B, O",Al:6.0; B:6.0; O:18.0,3,30.0
+mp-8126.cif,"Y, Cu, Si",Y:2.0; Cu:2.0; Si:2.0,3,6.0
+mp-813.cif,"Sc, Al",Sc:8.0; Al:16.0,2,24.0
+mp-8145.cif,"Rb, Sc, O",Rb:3.0; Sc:3.0; O:6.0,3,12.0
+mp-815.cif,"Ga, Ni",Ga:1.0; Ni:3.0,2,4.0
+mp-8150.cif,"Ba, Cd, Sb",Ba:1.0; Cd:2.0; Sb:2.0,3,5.0
+mp-8159.cif,"Tl, Cu, S",Tl:1.0; Cu:4.0; S:3.0,3,8.0
+mp-818.cif,"Si, Rh",Si:4.0; Rh:4.0,2,8.0
+mp-8182.cif,"As, Rh",As:24.0; Rh:8.0,2,32.0
+mp-8188.cif,"K, Sc, O",K:3.0; Sc:3.0; O:6.0,3,12.0
+mp-819.cif,"Hf, Cr",Hf:8.0; Cr:16.0,2,24.0
+mp-8192.cif,"Rb, Pt, F",Rb:2.0; Pt:1.0; F:6.0,3,9.0
+mp-82.cif,Tl,Tl:2.0,1,2.0
+mp-820.cif,"Hg, Se",Hg:4.0; Se:4.0,2,8.0
+mp-8200.cif,"Ag, P",Ag:4.0; P:8.0,2,12.0
+mp-8219.cif,"Zr, Cu, P",Zr:1.0; Cu:2.0; P:2.0,3,5.0
+mp-8221.cif,"Zr, As, Ru",Zr:3.0; As:3.0; Ru:3.0,3,9.0
+mp-823.cif,"Ti, Co",Ti:1.0; Co:1.0,2,2.0
+mp-8231.cif,"Zr, S, O",Zr:2.0; S:2.0; O:2.0,3,6.0
+mp-8236.cif,"Ba, P, Pd",Ba:1.0; P:2.0; Pd:2.0,3,5.0
+mp-8237.cif,"Ba, As, Pd",Ba:1.0; As:2.0; Pd:2.0,3,5.0
+mp-825.cif,"Ru, O",Ru:2.0; O:4.0,2,6.0
+mp-8256.cif,"Zn, Pt, F",Zn:3.0; Pt:3.0; F:18.0,3,24.0
+mp-8276.cif,"Sr, Zn, P",Sr:1.0; Zn:2.0; P:2.0,3,5.0
+mp-8277.cif,"Sr, Cd, P",Sr:1.0; Cd:2.0; P:2.0,3,5.0
+mp-8278.cif,"Ba, Mg, P",Ba:1.0; Mg:2.0; P:2.0,3,5.0
+mp-8279.cif,"Ba, Cd, P",Ba:1.0; Cd:2.0; P:2.0,3,5.0
+mp-8280.cif,"Ba, Mg, As",Ba:1.0; Mg:2.0; As:2.0,3,5.0
+mp-8281.cif,"Ba, Cd, As",Ba:1.0; Cd:2.0; As:2.0,3,5.0
+mp-8282.cif,"Ti, N",Ti:4.0; N:2.0,2,6.0
+mp-8285.cif,"Zn, Ge, O",Zn:6.0; Ge:6.0; O:18.0,3,30.0
+mp-829.cif,"Al, Pd",Al:1.0; Pd:1.0,2,2.0
+mp-830.cif,"Ga, N",Ga:4.0; N:4.0,2,8.0
+mp-833.cif,"Ca, Pd",Ca:8.0; Pd:16.0,2,24.0
+mp-8335.cif,"Ba, Zr, O",Ba:4.0; Zr:2.0; O:8.0,3,14.0
+mp-8352.cif,"Si, O",Si:8.0; O:16.0,2,24.0
+mp-8372.cif,"Ca, Si",Ca:1.0; Si:2.0,2,3.0
+mp-839.cif,"V, Au",V:6.0; Au:2.0,2,8.0
+mp-84.cif,Sn,Sn:4.0,1,4.0
+mp-8401.cif,"Cs, Mg, F",Cs:1.0; Mg:1.0; F:3.0,3,5.0
+mp-8402.cif,"Rb, Mg, F",Rb:1.0; Mg:1.0; F:3.0,3,5.0
+mp-8409.cif,"K, Y, O",K:3.0; Y:3.0; O:6.0,3,12.0
+mp-841.cif,"Li, O",Li:4.0; O:4.0,2,8.0
+mp-8414.cif,"K, Hf, F",K:8.0; Hf:4.0; F:24.0,3,36.0
+mp-8418.cif,"Zr, Co, P",Zr:4.0; Co:4.0; P:4.0,3,12.0
+mp-842.cif,"Ca, Pt",Ca:8.0; Pt:16.0,2,24.0
+mp-8426.cif,"K, Se",K:8.0; Se:4.0,2,12.0
+mp-8432.cif,"Ca, Cu, P",Ca:2.0; Cu:2.0; P:2.0,3,6.0
+mp-8439.cif,"Ca, Al, Sb",Ca:10.0; Al:4.0; Sb:12.0,3,26.0
+mp-844.cif,"Ca, N",Ca:48.0; N:32.0,2,80.0
+mp-8446.cif,"K, Cu, P",K:8.0; Cu:4.0; P:4.0,3,16.0
+mp-8456.cif,"Sr, As, Pt",Sr:2.0; As:2.0; Pt:2.0,3,6.0
+mp-8458.cif,"Ba, As, Pt",Ba:4.0; As:4.0; Pt:4.0,3,12.0
+mp-846.cif,"Hf, Al",Hf:16.0; Al:24.0,2,40.0
+mp-8462.cif,"Hf, Al",Hf:12.0; Al:8.0,2,20.0
+mp-8484.cif,"Zn, O",Zn:4.0; O:8.0,2,12.0
+mp-8487.cif,"Ca, Sb, Pt",Ca:4.0; Sb:4.0; Pt:4.0,3,12.0
+mp-849295.cif,"Fe, B, O",Fe:4.0; B:4.0; O:12.0,3,20.0
+mp-849637.cif,"Na, Co, O",Na:4.0; Co:2.0; O:6.0,3,12.0
+mp-85.cif,In,In:4.0,1,4.0
+mp-850.cif,"Sc, Ni",Sc:8.0; Ni:16.0,2,24.0
+mp-850062.cif,"Li, Ni, O",Li:5.0; Ni:5.0; O:10.0,3,20.0
+mp-850194.cif,"Ti, Ni, O",Ti:6.0; Ni:6.0; O:18.0,3,30.0
+mp-850251.cif,"Na, Ti, O",Na:4.0; Ti:18.0; O:38.0,3,60.0
+mp-850978.cif,"V, Fe, O",V:4.0; Fe:4.0; O:16.0,3,24.0
+mp-856.cif,"Sn, O",Sn:2.0; O:4.0,2,6.0
+mp-8566.cif,Ag,Ag:4.0,1,4.0
+mp-8577.cif,"Sc, Ga, C",Sc:3.0; Ga:1.0; C:1.0,3,5.0
+mp-8578.cif,"Sc, In, C",Sc:3.0; In:1.0; C:1.0,3,5.0
+mp-8601.cif,"Te, Mo",Te:24.0; Mo:18.0,2,42.0
+mp-8605.cif,"Sr, Sb, Pt",Sr:1.0; Sb:1.0; Pt:1.0,3,3.0
+mp-8606.cif,"Ba, Sb, Pt",Ba:1.0; Sb:1.0; Pt:1.0,3,3.0
+mp-861738.cif,"Ca, Mg, Pb",Ca:4.0; Mg:4.0; Pb:4.0,3,12.0
+mp-861979.cif,"Ir, S",Ir:12.0; S:18.0,2,30.0
+mp-862.cif,"Ca, Si",Ca:4.0; Si:8.0,2,12.0
+mp-862260.cif,"Sc, Zn",Sc:2.0; Zn:6.0,2,8.0
+mp-862316.cif,"Li, Be, Pt",Li:4.0; Be:4.0; Pt:8.0,3,16.0
+mp-862318.cif,"Li, Al, Ni",Li:4.0; Al:8.0; Ni:4.0,3,16.0
+mp-862334.cif,"Sc, Ir, Rh",Sc:8.0; Ir:4.0; Rh:4.0,3,16.0
+mp-862336.cif,"Sc, Ir, Pd",Sc:8.0; Ir:4.0; Pd:4.0,3,16.0
+mp-862360.cif,"Sc, Ni, Ir",Sc:8.0; Ni:4.0; Ir:4.0,3,16.0
+mp-8624.cif,"K, Sn, O",K:8.0; Sn:8.0; O:12.0,3,28.0
+mp-862586.cif,"Re, Pd",Re:6.0; Pd:2.0,2,8.0
+mp-862631.cif,"Ba, Sb, Au",Ba:8.0; Sb:4.0; Au:4.0,3,16.0
+mp-862657.cif,"Li, Cu, Pd",Li:4.0; Cu:4.0; Pd:8.0,3,16.0
+mp-862658.cif,"Li, Cu",Li:2.0; Cu:6.0,2,8.0
+mp-862664.cif,"Rb, Zr, O",Rb:2.0; Zr:2.0; O:5.0,3,9.0
+mp-862669.cif,"Be, Fe, Si",Be:4.0; Fe:8.0; Si:4.0,3,16.0
+mp-862679.cif,"Ta, Zn",Ta:8.0; Zn:16.0,2,24.0
+mp-862779.cif,"Tc, Os",Tc:6.0; Os:2.0,2,8.0
+mp-8628.cif,"Te, Pt",Te:12.0; Pt:9.0,2,21.0
+mp-862868.cif,"Pb, Br",Pb:2.0; Br:4.0,2,6.0
+mp-862871.cif,"Pb, Cl",Pb:2.0; Cl:4.0,2,6.0
+mp-8630.cif,"Sb, Ir, S",Sb:4.0; Ir:4.0; S:4.0,3,12.0
+mp-863744.cif,"Ca, Pd, Au",Ca:8.0; Pd:4.0; Au:4.0,3,16.0
+mp-8640.cif,Hf,Hf:4.0,1,4.0
+mp-8642.cif,Re,Re:4.0,1,4.0
+mp-864631.cif,"Li, Nb, Rh",Li:4.0; Nb:4.0; Rh:8.0,3,16.0
+mp-864639.cif,"Ta, Nb, Os",Ta:8.0; Nb:4.0; Os:4.0,3,16.0
+mp-864670.cif,"Ta, V, Os",Ta:8.0; V:4.0; Os:4.0,3,16.0
+mp-864794.cif,"Zn, Ag",Zn:1.0; Ag:3.0,2,4.0
+mp-864798.cif,"Hf, Zn, Ir",Hf:4.0; Zn:4.0; Ir:8.0,3,16.0
+mp-8648.cif,"Ti, Fe, Si",Ti:12.0; Fe:12.0; Si:12.0,3,36.0
+mp-864889.cif,"Zr, Zn",Zr:2.0; Zn:6.0,2,8.0
+mp-864920.cif,"Mg, Zr, Au",Mg:4.0; Zr:4.0; Au:8.0,3,16.0
+mp-864921.cif,"Mg, Zr, Ir",Mg:4.0; Zr:4.0; Ir:8.0,3,16.0
+mp-864940.cif,"Mg, Pt, Rh",Mg:8.0; Pt:4.0; Rh:4.0,3,16.0
+mp-864951.cif,"Mn, Al, Os",Mn:4.0; Al:4.0; Os:8.0,3,16.0
+mp-864952.cif,"Mg, Ag",Mg:6.0; Ag:2.0,2,8.0
+mp-864953.cif,"Mn, V, Cr",Mn:4.0; V:8.0; Cr:4.0,3,16.0
+mp-864954.cif,"Mg, Mo, N",Mg:2.0; Mo:2.0; N:4.0,3,8.0
+mp-864955.cif,"Mn, Cr, Co",Mn:8.0; Cr:4.0; Co:4.0,3,16.0
+mp-864957.cif,"Mn, Sb, Ru",Mn:4.0; Sb:4.0; Ru:8.0,3,16.0
+mp-864969.cif,"Mg, Pd, Rh",Mg:8.0; Pd:4.0; Rh:4.0,3,16.0
+mp-864972.cif,"Mg, Pd, Au",Mg:8.0; Pd:4.0; Au:4.0,3,16.0
+mp-865.cif,"Ca, B",Ca:1.0; B:6.0,2,7.0
+mp-865014.cif,"Mg, Cu",Mg:8.0; Cu:4.0,2,12.0
+mp-865026.cif,"Mn, V, Si",Mn:8.0; V:4.0; Si:4.0,3,16.0
+mp-865050.cif,"Hf, Mg, Rh",Hf:4.0; Mg:4.0; Rh:8.0,3,16.0
+mp-865051.cif,"Na, Ca, Tl",Na:4.0; Ca:8.0; Tl:4.0,3,16.0
+mp-865130.cif,"Hf, Mo, Rh",Hf:8.0; Mo:4.0; Rh:4.0,3,16.0
+mp-865146.cif,"Mg, As, Pt",Mg:1.0; As:1.0; Pt:5.0,3,7.0
+mp-865147.cif,"Be, Cu, Ru",Be:8.0; Cu:4.0; Ru:4.0,3,16.0
+mp-865152.cif,"Mg, Al, Pd",Mg:4.0; Al:4.0; Pd:8.0,3,16.0
+mp-865191.cif,"Fe, Ge, Ru",Fe:4.0; Ge:4.0; Ru:8.0,3,16.0
+mp-865193.cif,"Co, Pt",Co:6.0; Pt:2.0,2,8.0
+mp-865212.cif,"Fe, Re",Fe:6.0; Re:2.0,2,8.0
+mp-865229.cif,"Be, Ni, Ir",Be:8.0; Ni:4.0; Ir:4.0,3,16.0
+mp-865441.cif,"Ti, Al, Pd",Ti:4.0; Al:4.0; Pd:8.0,3,16.0
+mp-865444.cif,"Li, Sc, Pt",Li:4.0; Sc:8.0; Pt:4.0,3,16.0
+mp-865520.cif,"Y, Cd, Pd",Y:4.0; Cd:4.0; Pd:8.0,3,16.0
+mp-865523.cif,"Ti, Mn, Rh",Ti:4.0; Mn:4.0; Rh:8.0,3,16.0
+mp-865525.cif,"Y, Cd, Hg",Y:4.0; Cd:4.0; Hg:8.0,3,16.0
+mp-865527.cif,"Y, Al",Y:2.0; Al:6.0,2,8.0
+mp-865531.cif,"Ti, Mn, Al",Ti:4.0; Mn:8.0; Al:4.0,3,16.0
+mp-865586.cif,"V, Ga, Ru",V:4.0; Ga:4.0; Ru:8.0,3,16.0
+mp-865594.cif,"Y, Cu, Ir",Y:8.0; Cu:4.0; Ir:4.0,3,16.0
+mp-865604.cif,"Li, Mg",Li:5.0; Mg:1.0,2,6.0
+mp-865665.cif,"Ti, Re, Tc",Ti:4.0; Re:4.0; Tc:8.0,3,16.0
+mp-865733.cif,"Co, Tc",Co:2.0; Tc:6.0,2,8.0
+mp-865798.cif,"Ga, Cu",Ga:2.0; Cu:6.0,2,8.0
+mp-865840.cif,"Ti, Tc, Ir",Ti:8.0; Tc:4.0; Ir:4.0,3,16.0
+mp-865842.cif,"Ti, Os, Ru",Ti:8.0; Os:4.0; Ru:4.0,3,16.0
+mp-865939.cif,"Li, Mg",Li:2.0; Mg:4.0,2,6.0
+mp-865985.cif,"Cd, Pd",Cd:2.0; Pd:6.0,2,8.0
+mp-865986.cif,"Li, Ca, Ge",Li:8.0; Ca:4.0; Ge:4.0,3,16.0
+mp-865989.cif,"Al, Ir, Ru",Al:8.0; Ir:4.0; Ru:4.0,3,16.0
+mp-866046.cif,"Ti, In",Ti:6.0; In:2.0,2,8.0
+mp-866115.cif,"Be, Pd, Rh",Be:8.0; Pd:4.0; Rh:4.0,3,16.0
+mp-866132.cif,"Na, Tl, Sb",Na:8.0; Tl:4.0; Sb:4.0,3,16.0
+mp-866152.cif,"Ti, Be, Co",Ti:4.0; Be:4.0; Co:8.0,3,16.0
+mp-866155.cif,"Ti, Al, Ru",Ti:4.0; Al:4.0; Ru:8.0,3,16.0
+mp-866161.cif,"V, Rh",V:2.0; Rh:6.0,2,8.0
+mp-866165.cif,"Y, Mg, Rh",Y:4.0; Mg:4.0; Rh:8.0,3,16.0
+mp-866169.cif,"K, Tl, Bi",K:4.0; Tl:8.0; Bi:4.0,3,16.0
+mp-866171.cif,"Y, Mg, Au",Y:4.0; Mg:4.0; Au:8.0,3,16.0
+mp-866224.cif,"Be, Ni, Pt",Be:8.0; Ni:4.0; Pt:4.0,3,16.0
+mp-866291.cif,"Ag, Br",Ag:4.0; Br:4.0,2,8.0
+mp-866311.cif,"Bi, Br, O",Bi:3.0; Br:1.0; O:4.0,3,8.0
+mp-867133.cif,"Ba, Sc, O",Ba:2.0; Sc:2.0; O:5.0,3,9.0
+mp-867137.cif,"Sc, V, Ru",Sc:4.0; V:4.0; Ru:8.0,3,16.0
+mp-867144.cif,"Ca, Mg, Hg",Ca:4.0; Mg:4.0; Hg:8.0,3,16.0
+mp-867222.cif,"Li, Ca, Ir",Li:4.0; Ca:8.0; Ir:4.0,3,16.0
+mp-867266.cif,"Ca, Mg, Tl",Ca:4.0; Mg:4.0; Tl:8.0,3,16.0
+mp-867281.cif,"Tc, Pt",Tc:6.0; Pt:2.0,2,8.0
+mp-867300.cif,"Rb, Hf, O",Rb:2.0; Hf:2.0; O:5.0,3,9.0
+mp-867306.cif,"Al, Cu, Au",Al:4.0; Cu:4.0; Au:8.0,3,16.0
+mp-867319.cif,"Al, Co, Ir",Al:8.0; Co:4.0; Ir:4.0,3,16.0
+mp-867351.cif,Tc,Tc:4.0,1,4.0
+mp-867650.cif,"Li, Mn, P, O",Li:4.0; Mn:4.0; P:4.0; O:16.0,4,28.0
+mp-867689.cif,"Li, Cu, S",Li:2.0; Cu:2.0; S:2.0,3,6.0
+mp-867700.cif,"Li, Cu, S",Li:18.0; Cu:6.0; S:12.0,3,36.0
+mp-867703.cif,"V, O, F",V:6.0; O:6.0; F:6.0,3,18.0
+mp-867840.cif,"Be, Fe, Rh",Be:4.0; Fe:4.0; Rh:8.0,3,16.0
+mp-867917.cif,"Cu, Ge, Rh",Cu:4.0; Ge:4.0; Rh:8.0,3,16.0
+mp-8689.cif,"V, Ge, Se",V:16.0; Ge:4.0; Se:32.0,3,52.0
+mp-869.cif,"Ta, Al",Ta:2.0; Al:6.0,2,8.0
+mp-8697.cif,"Sc, B, O",Sc:6.0; B:6.0; O:18.0,3,30.0
+mp-87.cif,Be,Be:2.0,1,2.0
+mp-871.cif,"Fe, Si",Fe:4.0; Si:4.0,2,8.0
+mp-873.cif,"V, Pd",V:2.0; Pd:6.0,2,8.0
+mp-875.cif,"Al, Os",Al:1.0; Os:1.0,2,2.0
+mp-8780.cif,"Cr, N",Cr:6.0; N:3.0,2,9.0
+mp-8786.cif,"Zr, Ni, As",Zr:4.0; Ni:2.0; As:4.0,3,10.0
+mp-8790.cif,"Ba, Cu, O",Ba:4.0; Cu:2.0; O:6.0,3,12.0
+mp-8800.cif,"Tl, Cu, Se",Tl:4.0; Cu:12.0; Se:8.0,3,24.0
+mp-8818.cif,"Ca, Zn, N",Ca:4.0; Zn:2.0; N:4.0,3,10.0
+mp-8830.cif,"Na, Rh, O",Na:3.0; Rh:3.0; O:6.0,3,12.0
+mp-8842.cif,"Ca, Si, Pd",Ca:4.0; Si:4.0; Pd:4.0,3,12.0
+mp-8843.cif,"Sr, Si, Pd",Sr:4.0; Si:4.0; Pd:4.0,3,12.0
+mp-886.cif,"Ga, O",Ga:8.0; O:12.0,2,20.0
+mp-8861.cif,"Rb, Mg, F",Rb:4.0; Mg:2.0; F:8.0,3,14.0
+mp-8864.cif,"Li, Co, P",Li:1.0; Co:6.0; P:4.0,3,11.0
+mp-8880.cif,"Al, P",Al:2.0; P:2.0,2,4.0
+mp-8881.cif,"Al, As",Al:2.0; As:2.0,2,4.0
+mp-8882.cif,"Ga, P",Ga:2.0; P:2.0,2,4.0
+mp-8883.cif,"Ga, As",Ga:2.0; As:2.0,2,4.0
+mp-8884.cif,"Zn, Te",Zn:2.0; Te:2.0,2,4.0
+mp-889.cif,"Cr, B",Cr:6.0; B:8.0,2,14.0
+mp-891.cif,"Ta, Ni",Ta:2.0; Ni:6.0,2,8.0
+mp-8911.cif,"Cu, Ag, S",Cu:4.0; Ag:4.0; S:4.0,3,12.0
+mp-892.cif,"Sc, Pt",Sc:1.0; Pt:1.0,2,2.0
+mp-893.cif,"Zr, Si",Zr:4.0; Si:4.0,2,8.0
+mp-8937.cif,"Cr, Si",Cr:2.0; Si:4.0,2,6.0
+mp-8938.cif,"Si, Mo",Si:6.0; Mo:3.0,2,9.0
+mp-8939.cif,"Si, W",Si:6.0; W:3.0,2,9.0
+mp-894.cif,"Zn, Pt",Zn:1.0; Pt:1.0,2,2.0
+mp-8978.cif,"Cs, Nb, N",Cs:8.0; Nb:8.0; N:16.0,3,32.0
+mp-8982.cif,"Ca, Si, Pt",Ca:4.0; Si:4.0; Pt:4.0,3,12.0
+mp-8983.cif,"Ca, Si, Pt",Ca:4.0; Si:4.0; Pt:4.0,3,12.0
+mp-8994.cif,"Rb, Nb, F",Rb:2.0; Nb:1.0; F:6.0,3,9.0
+mp-8995.cif,"Cs, Nb, F",Cs:2.0; Nb:1.0; F:6.0,3,9.0
+mp-8996.cif,"Sc, Ru, C",Sc:6.0; Ru:2.0; C:8.0,3,16.0
+mp-90.cif,Cr,Cr:2.0,1,2.0
+mp-902.cif,"Ba, Zn",Ba:1.0; Zn:1.0,2,2.0
+mp-9023.cif,"Sc, Si, Au",Sc:2.0; Si:2.0; Au:2.0,3,6.0
+mp-9025.cif,"Y, Si, Au",Y:2.0; Si:2.0; Au:2.0,3,6.0
+mp-9027.cif,"Ti, S",Ti:16.0; S:32.0,2,48.0
+mp-9029.cif,"Ca, V, N",Ca:12.0; V:4.0; N:12.0,3,28.0
+mp-903.cif,"Zr, Cr",Zr:8.0; Cr:16.0,2,24.0
+mp-9060.cif,"Rb, Pd, F",Rb:1.0; Pd:1.0; F:3.0,3,5.0
+mp-9061.cif,"K, Pd, F",K:1.0; Pd:1.0; F:3.0,3,5.0
+mp-91.cif,W,W:2.0,1,2.0
+mp-910.cif,"Nb, C",Nb:4.0; C:4.0,2,8.0
+mp-9124.cif,"Li, Zn, As",Li:4.0; Zn:4.0; As:4.0,3,12.0
+mp-915.cif,"Y, Cd",Y:1.0; Cd:1.0,2,2.0
+mp-9158.cif,"Li, Cu, O",Li:2.0; Cu:2.0; O:4.0,3,8.0
+mp-9166.cif,"Mg, C, N",Mg:3.0; C:3.0; N:6.0,3,12.0
+mp-917.cif,"Ca, C",Ca:4.0; C:8.0,2,12.0
+mp-9172.cif,"Li, Ti, O",Li:16.0; Ti:4.0; O:16.0,3,36.0
+mp-9173.cif,"Ti, O",Ti:4.0; O:8.0,2,12.0
+mp-9177.cif,"Y, Al, Si",Y:4.0; Al:6.0; Si:4.0,3,14.0
+mp-9198.cif,"Fe, Si, P",Fe:1.0; Si:4.0; P:4.0,3,9.0
+mp-921.cif,"Y, Rh",Y:8.0; Rh:16.0,2,24.0
+mp-922.cif,"Co, Pt",Co:1.0; Pt:3.0,2,4.0
+mp-9223.cif,"Sc, Ge, Ru",Sc:3.0; Ge:3.0; Ru:3.0,3,9.0
+mp-9225.cif,"Sc, Si, Pt",Sc:4.0; Si:4.0; Pt:4.0,3,12.0
+mp-9244.cif,"Li, B, C",Li:2.0; B:2.0; C:2.0,3,6.0
+mp-9251.cif,"Tl, Te, Pt",Tl:2.0; Te:6.0; Pt:4.0,3,12.0
+mp-9262.cif,"Cs, Pt, F",Cs:8.0; Pt:4.0; F:24.0,3,36.0
+mp-927.cif,"Cu, P",Cu:4.0; P:8.0,2,12.0
+mp-9272.cif,"Tl, Pt, S",Tl:2.0; Pt:4.0; S:6.0,3,12.0
+mp-9289.cif,"Zr, Sn, Te",Zr:2.0; Sn:2.0; Te:2.0,3,6.0
+mp-929.cif,"Zr, Co",Zr:8.0; Co:16.0,2,24.0
+mp-9295.cif,"Ta, Cu, Te",Ta:1.0; Cu:3.0; Te:4.0,3,8.0
+mp-930.cif,"Zr, P",Zr:4.0; P:4.0,2,8.0
+mp-9307.cif,"Ba, Zn, N",Ba:4.0; Zn:2.0; N:4.0,3,10.0
+mp-932.cif,"Sc, Ga",Sc:1.0; Ga:3.0,2,4.0
+mp-9321.cif,"Ba, Hf, S",Ba:4.0; Hf:2.0; S:8.0,3,14.0
+mp-933.cif,"Y, As",Y:4.0; As:4.0,2,8.0
+mp-9339.cif,"Nb, P",Nb:4.0; P:4.0,2,8.0
+mp-934.cif,"Li, Tl",Li:1.0; Tl:1.0,2,2.0
+mp-9350.cif,"Sc, Ge, Au",Sc:2.0; Ge:2.0; Au:2.0,3,6.0
+mp-935811.cif,"K, Nb, O",K:1.0; Nb:1.0; O:3.0,3,5.0
+mp-936.cif,"Hg, Pt",Hg:8.0; Pt:2.0,2,10.0
+mp-938.cif,"Ge, Te",Ge:3.0; Te:3.0,2,6.0
+mp-9381.cif,"Zr, Fe, Te",Zr:6.0; Fe:1.0; Te:2.0,3,9.0
+mp-9382.cif,"Sr, Zr, N",Sr:3.0; Zr:3.0; N:6.0,3,12.0
+mp-9383.cif,"Sr, Hf, N",Sr:3.0; Hf:3.0; N:6.0,3,12.0
+mp-9391.cif,"Ta, Ni, Te",Ta:2.0; Ni:4.0; Te:6.0,3,12.0
+mp-94.cif,Cd,Cd:2.0,1,2.0
+mp-9437.cif,"Nb, Fe, Sb",Nb:4.0; Fe:4.0; Sb:4.0,3,12.0
+mp-944.cif,"Al, B",Al:1.0; B:2.0,2,3.0
+mp-945.cif,"Ni, Pt",Ni:1.0; Pt:1.0,2,2.0
+mp-945184.cif,"Y, Cu, Te",Y:2.0; Cu:2.0; Te:4.0,3,8.0
+mp-9459.cif,"Y, C",Y:8.0; C:10.0,2,18.0
+mp-9472.cif,"Li, Ag, Ge",Li:4.0; Ag:8.0; Ge:4.0,3,16.0
+mp-9473.cif,"Ba, Ni, P",Ba:2.0; Ni:4.0; P:4.0,3,10.0
+mp-9486.cif,"K, Al, F",K:2.0; Al:1.0; F:5.0,3,8.0
+mp-949.cif,"Co, Pt",Co:1.0; Pt:1.0,2,2.0
+mp-949028.cif,Sn,Sn:46.0,1,46.0
+mp-95.cif,Sr,Sr:2.0,1,2.0
+mp-950995.cif,"Li, P, S, I",Li:24.0; P:4.0; S:20.0; I:4.0,4,52.0
+mp-9514.cif,"Mg, Al, C",Mg:1.0; Al:2.0; C:2.0,3,5.0
+mp-9517.cif,"Sr, Ti, N",Sr:2.0; Ti:2.0; N:4.0,3,8.0
+mp-952.cif,"Mo, Pt",Mo:2.0; Pt:4.0,2,6.0
+mp-953.cif,"Nb, Zn",Nb:1.0; Zn:3.0,2,4.0
+mp-9549.cif,"Sc, Fe, Ge",Sc:3.0; Fe:3.0; Ge:3.0,3,9.0
+mp-9550.cif,"Sc, Mn, Si",Sc:3.0; Mn:3.0; Si:3.0,3,9.0
+mp-9556.cif,"Sr, Zn, Si",Sr:2.0; Zn:2.0; Si:2.0,3,6.0
+mp-9563.cif,"Li, Sb",Li:12.0; Sb:6.0,2,18.0
+mp-9564.cif,"Ca, Mg, As",Ca:1.0; Mg:2.0; As:2.0,3,5.0
+mp-9565.cif,"Ca, Mg, Sb",Ca:1.0; Mg:2.0; Sb:2.0,3,5.0
+mp-9566.cif,"Sr, Mg, Sb",Sr:1.0; Mg:2.0; Sb:2.0,3,5.0
+mp-9567.cif,"Ba, Mg, Sb",Ba:1.0; Mg:2.0; Sb:2.0,3,5.0
+mp-9569.cif,"Ca, Zn, P",Ca:1.0; Zn:2.0; P:2.0,3,5.0
+mp-9570.cif,"Ca, Cd, P",Ca:1.0; Cd:2.0; P:2.0,3,5.0
+mp-9571.cif,"Ca, Zn, As",Ca:1.0; Zn:2.0; As:2.0,3,5.0
+mp-9573.cif,"Na, Be, As",Na:2.0; Be:2.0; As:2.0,3,6.0
+mp-9574.cif,"Na, Be, Sb",Na:2.0; Be:2.0; Sb:2.0,3,6.0
+mp-9575.cif,"Li, Be, Sb",Li:2.0; Be:2.0; Sb:2.0,3,6.0
+mp-9577.cif,"Ca, Al, Si",Ca:6.0; Al:4.0; Si:4.0,3,14.0
+mp-9578.cif,"Ba, Al, Si",Ba:6.0; Al:4.0; Si:4.0,3,14.0
+mp-9583.cif,"K, Zn, F",K:4.0; Zn:2.0; F:8.0,3,14.0
+mp-9586.cif,"Nb, Sn, S",Nb:2.0; Sn:2.0; S:4.0,3,8.0
+mp-9595.cif,"Nb, In, O",Nb:2.0; In:2.0; O:8.0,3,12.0
+mp-9615.cif,"Li, Ti, S",Li:1.0; Ti:1.0; S:2.0,3,4.0
+mp-9687.cif,"K, P, Au",K:8.0; P:4.0; Au:4.0,3,16.0
+mp-9690.cif,"Ca, Al, Ga",Ca:2.0; Al:4.0; Ga:4.0,3,10.0
+mp-971.cif,"K, O",K:8.0; O:4.0,2,12.0
+mp-9716.cif,"Ti, B, O",Ti:6.0; B:6.0; O:18.0,3,30.0
+mp-971662.cif,Si,Si:46.0,1,46.0
+mp-971669.cif,"Fe, Sb",Fe:8.0; Sb:24.0,2,32.0
+mp-971706.cif,"Zn, Bi, O",Zn:1.0; Bi:1.0; O:3.0,3,5.0
+mp-972088.cif,"Zr, Zn",Zr:6.0; Zn:2.0,2,8.0
+mp-972220.cif,"Ti, Pt",Ti:2.0; Pt:6.0,2,8.0
+mp-972845.cif,"Si, Mo",Si:1.0; Mo:1.0,2,2.0
+mp-972916.cif,"Mg, Cu",Mg:2.0; Cu:2.0,2,4.0
+mp-972954.cif,"Mg, Cd",Mg:2.0; Cd:4.0,2,6.0
+mp-973364.cif,Mg,Mg:4.0,1,4.0
+mp-973374.cif,"Li, Mg",Li:4.0; Mg:8.0,2,12.0
+mp-973455.cif,"Li, Mg",Li:4.0; Mg:8.0,2,12.0
+mp-9743.cif,"Sr, As, Pd",Sr:2.0; As:2.0; Pd:2.0,3,6.0
+mp-9744.cif,"Ba, As, Pd",Ba:1.0; As:1.0; Pd:1.0,3,3.0
+mp-974625.cif,"Re, Ru",Re:6.0; Ru:2.0,2,8.0
+mp-975065.cif,Re,Re:9.0,1,9.0
+mp-975292.cif,"Rb, Mo, O",Rb:1.0; Mo:1.0; O:3.0,3,5.0
+mp-975906.cif,"Li, Al",Li:2.0; Al:6.0,2,8.0
+mp-976017.cif,"Li, Co",Li:6.0; Co:2.0,2,8.0
+mp-976139.cif,"Li, Mg",Li:3.0; Mg:1.0,2,4.0
+mp-976256.cif,"Li, Mg",Li:12.0; Mg:4.0,2,16.0
+mp-976262.cif,"Li, Mg",Li:6.0; Mg:6.0,2,12.0
+mp-976280.cif,"Li, Br",Li:2.0; Br:2.0,2,4.0
+mp-976334.cif,"Li, Tc",Li:12.0; Tc:4.0,2,16.0
+mp-9768.cif,"Ba, Sb, Pd",Ba:4.0; Sb:8.0; Pd:4.0,3,16.0
+mp-977059.cif,"Mg, Pd",Mg:1.0; Pd:5.0,2,6.0
+mp-977207.cif,"Li, Mg",Li:4.0; Mg:2.0,2,6.0
+mp-977218.cif,"Li, Mg",Li:8.0; Mg:4.0,2,12.0
+mp-977382.cif,"Ta, V, Ru",Ta:8.0; V:4.0; Ru:4.0,3,16.0
+mp-977580.cif,"Mg, Sc, Al",Mg:4.0; Sc:8.0; Al:4.0,3,16.0
+mp-9778.cif,"K, Ag, P",K:8.0; Ag:4.0; P:4.0,3,16.0
+mp-978268.cif,"Mg, Zn",Mg:2.0; Zn:2.0,2,4.0
+mp-978269.cif,"Mg, Zn",Mg:8.0; Zn:16.0,2,24.0
+mp-978273.cif,"Mg, Cd",Mg:3.0; Cd:1.0,2,4.0
+mp-978279.cif,"Mg, Cu",Mg:6.0; Cu:2.0,2,8.0
+mp-978508.cif,"Si, Os",Si:6.0; Os:2.0,2,8.0
+mp-978534.cif,"Si, Ge",Si:2.0; Ge:2.0,2,4.0
+mp-979.cif,"Zr, Sb",Zr:8.0; Sb:16.0,2,24.0
+mp-9801.cif,"Hf, Co, As",Hf:4.0; Co:4.0; As:4.0,3,12.0
+mp-980200.cif,"Zn, Rh",Zn:6.0; Rh:2.0,2,8.0
+mp-981.cif,"Sr, F",Sr:4.0; F:8.0,2,12.0
+mp-9812.cif,"Zn, C, O",Zn:6.0; C:6.0; O:18.0,3,30.0
+mp-9835.cif,"Co, Sb",Co:2.0; Sb:4.0,2,6.0
+mp-985805.cif,"Al, Ag",Al:4.0; Ag:8.0,2,12.0
+mp-985806.cif,"Al, Cu",Al:8.0; Cu:4.0,2,12.0
+mp-985825.cif,"Al, Cu",Al:3.0; Cu:1.0,2,4.0
+mp-988.cif,"Si, N",Si:6.0; N:8.0,2,14.0
+mp-989399.cif,"Ca, Al, N, F",Ca:24.0; Al:8.0; N:4.0; F:4.0,4,40.0
+mp-989512.cif,"Li, Tl, In, Cl",Li:4.0; Tl:8.0; In:4.0; Cl:24.0,4,40.0
+mp-9902.cif,"Sc, Co, Si",Sc:8.0; Co:4.0; Si:8.0,3,20.0
+mp-9916.cif,"Nb, Cr, Si",Nb:3.0; Cr:3.0; Si:3.0,3,9.0
+mp-9919.cif,"Li, Zn, Sb",Li:2.0; Zn:2.0; Sb:2.0,3,6.0
+mp-9923.cif,"V, P",V:4.0; P:8.0,2,12.0
+mp-9938.cif,"Hf, Si",Hf:8.0; Si:4.0,2,12.0
+mp-9939.cif,"Hf, Ge",Hf:8.0; Ge:4.0,2,12.0
+mp-9945.cif,"Co, Te",Co:2.0; Te:4.0,2,6.0
+mp-9946.cif,"Zn, S",Zn:6.0; S:6.0,2,12.0
+mp-9951.cif,"Mn, Nb, Ge",Mn:3.0; Nb:3.0; Ge:3.0,3,9.0
+mp-995122.cif,"Nb, S",Nb:1.0; S:2.0,2,3.0
+mp-9953.cif,"Hf, P",Hf:4.0; P:4.0,2,8.0
+mp-9954.cif,"Hf, As",Hf:4.0; As:4.0,2,8.0
+mp-9956.cif,"Al, Cr, C",Al:2.0; Cr:4.0; C:2.0,3,8.0
+mp-9957.cif,"V, Ge, C",V:4.0; Ge:2.0; C:2.0,3,8.0
+mp-9958.cif,"Ti, Ge, C",Ti:4.0; Ge:2.0; C:2.0,3,8.0
+mp-9960.cif,"Y, Tl, C",Y:3.0; Tl:1.0; C:1.0,3,5.0
+mp-9961.cif,"Ti, Cd, C",Ti:4.0; Cd:2.0; C:2.0,3,8.0
+mp-9964.cif,"Ti, Tl, N",Ti:3.0; Tl:1.0; N:1.0,3,5.0
+mp-9969.cif,"Sc, Si",Sc:4.0; Si:4.0,2,8.0
+mp-996975.cif,"Cu, Ag, O",Cu:1.0; Ag:1.0; O:2.0,3,4.0
+mp-996990.cif,"Ba, Ag, O",Ba:1.0; Ag:1.0; O:2.0,3,4.0
+mp-9970.cif,"Sc, Ge",Sc:4.0; Ge:4.0,2,8.0
+mp-997031.cif,"Mg, Cu, O",Mg:4.0; Cu:4.0; O:8.0,3,16.0
+mp-997034.cif,"Ba, Cu, O",Ba:4.0; Cu:4.0; O:8.0,3,16.0
+mp-997182.cif,C,C:4.0,1,4.0
+mp-9972.cif,"Y, Si",Y:4.0; Si:4.0,2,8.0
+mp-9973.cif,"V, B",V:4.0; B:4.0,2,8.0
+mp-998.cif,"Al, Cu",Al:8.0; Cu:4.0,2,12.0
+mp-998147.cif,"Tl, Cu, Cl",Tl:1.0; Cu:1.0; Cl:3.0,3,5.0
+mp-9985.cif,"Nb, Ni, B",Nb:4.0; Ni:4.0; B:4.0,3,12.0
+mp-998552.cif,"Ba, Hf, O",Ba:1.0; Hf:1.0; O:3.0,3,5.0
+mp-9987.cif,"Nb, P, C",Nb:4.0; P:2.0; C:2.0,3,8.0
+mp-9988.cif,"Nb, C, S",Nb:4.0; C:2.0; S:2.0,3,8.0
+mp-998866.cif,C,C:1.0,1,1.0
+mp-9989.cif,"Nb, As, C",Nb:4.0; As:2.0; C:2.0,3,8.0
+mp-998981.cif,"Ti, Al",Ti:1.0; Al:3.0,2,4.0
+mp-999027.cif,"Ti, Al",Ti:12.0; Al:4.0,2,16.0
+mp-999068.cif,"Ti, Al, V",Ti:8.0; Al:4.0; V:4.0,3,16.0
+mp-999079.cif,"Ti, Al, Cu",Ti:8.0; Al:4.0; Cu:4.0,3,16.0
+mp-999096.cif,"Ti, Al, Cr",Ti:8.0; Al:4.0; Cr:4.0,3,16.0
+mp-999133.cif,"Ta, Pd",Ta:2.0; Pd:2.0,2,4.0
+mp-999142.cif,"Sn, O",Sn:2.0; O:2.0,2,4.0
+mp-999198.cif,"B, Mo",B:4.0; Mo:4.0,2,8.0
+mp-999473.cif,"Zn, N",Zn:4.0; N:4.0,2,8.0
+mp-999540.cif,"Mn, Se",Mn:2.0; Se:2.0,2,4.0
+mp-999545.cif,"Mn, Fe",Mn:3.0; Fe:1.0,2,4.0
+mp-9999.cif,"Ni, B, Mo",Ni:2.0; B:4.0; Mo:4.0,3,10.0
